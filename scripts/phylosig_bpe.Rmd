@@ -1,0 +1,141 @@
+---
+title: "phylosig_bpe"
+author: "Zach Hopton"
+date: "2024-08-14"
+output: html_document
+---
+
+# Testing for Phylogenetic Signal from BPE token productivity (and related measures)
+
+```{r}
+#get the necessary libraries
+library(phytools)
+library(ape)
+```
+
+```{r}
+#visualize our tree
+tree <- read.nexus(file="../data/tree_a2/mcc.trees")
+```
+
+```{r}
+plotTree(tree,fsize=0.4)
+```
+
+```{r}
+#Load the character data
+file="../data/text_stats/lang_vecs_standardized.tsv"
+char <- read.delim(file)
+
+#change a few language names so they correspond to the languages in reference tree
+char[2,"lang"] <- "Tosk"
+char[3,"lang"] <- "Eastern_Armenian"
+char[9,"lang"] <- "Persian"
+char[11,"lang"] <- "Scots_Gaelic"
+char[13,"lang"] <- "Modern_Greek"
+char[30,"lang"] <- "Slovenian"
+char[33,"lang"] <- "Ukrainian"
+```
+
+```{r}
+#Isolate the relevant statistics
+productivity <- setNames(char$standardized_p,
+                         char$lang)
+cumulative_freq <- setNames(char$standardized_cf,
+                         char$lang)
+idiosyncrasy <- setNames(char$standardized_i,
+                         char$lang)
+entropy <- setNames(char$standardized_h,
+                         char$lang)
+redundancy <- setNames(char$standardized_r,
+                         char$lang)
+```
+
+
+```{r}
+#Calculate Blomberg's K for each of our continuous variables
+K.prod <- phylosig(tree,productivity,
+                   test=TRUE)
+K.id <- phylosig(tree,idiosyncrasy,
+                   test=TRUE)
+K.cf <- phylosig(tree,cumulative_freq,
+                   test=TRUE)
+K.h <- phylosig(tree,entropy,
+                   test=TRUE)
+K.r <- phylosig(tree,redundancy,
+                   test=TRUE)
+```
+```{r}
+print(K.prod)
+```
+```{r}
+print(K.id)
+```
+```{r}
+#Significant#
+print(K.cf)
+```
+
+```{r}
+plot(K.cf)
+```
+
+```{r}
+#Significant#
+print(K.h)
+plot(K.h)
+```
+
+```{r}
+#Significant#
+print(K.r)
+plot(K.r)
+```
+## Robustness testing: How do these results compare when using another reference tree?
+
+```{r}
+tree_a3 <-read.nexus(file="../data/tree_a3/mcc.trees")
+```
+
+```{r}
+#Calculate Blomberg's K for each of our continuous variables
+K.prod_a3 <- phylosig(tree,productivity,
+                   test=TRUE)
+K.id_a3 <- phylosig(tree,idiosyncrasy,
+                   test=TRUE)
+K.cf_a3 <- phylosig(tree,cumulative_freq,
+                   test=TRUE)
+K.h_a3 <- phylosig(tree,entropy,
+                   test=TRUE)
+K.r_a3 <- phylosig(tree,redundancy,
+                   test=TRUE)
+```
+
+```{r}
+print(K.prod_a3)
+plot(K.prod_a3)
+```
+
+```{r}
+print(K.id_a3)
+plot(K.id_a3)
+```
+
+
+```{r}
+print(K.cf_a3)
+plot(K.cf_a3)
+```
+
+```{r}
+print(K.h_a3)
+plot(K.h_a3)
+```
+
+
+```{r}
+print(K.r_a3)
+plot(K.r_a3)
+```
+
+
