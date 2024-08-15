@@ -1,4 +1,5 @@
 import os
+import unicodedata
 
 import pandas as pd
 
@@ -20,14 +21,16 @@ ISOS = {'afr':'Afrikaans','sqi':'Albanian','hye':'Armenian',
 def main():
     #get the relevant word list
     for f in os.listdir("./data/unisent"):
-        df = pd.read_csv(f"./data/unisent/{f}",delimiter="\t",header=None)
-        df = df[0]
-        out_name=f"./data/unisent/{ISOS[f.split("_")[0]]}_clean.txt"
-        out_list = df.to_list()
+        if ".DS" not in f:
+            df = pd.read_csv(f"./data/unisent/{f}",delimiter="\t",header=None,encoding="utf-8")
+            df = df[0]
+            out_name=f"./data/unisent/{ISOS[f.split("_")[0]]}_clean.txt"
+            out_list = df.to_list()
 
-        with open(out_name,"w",encoding='utf-8') as f_out:
-            for term in out_list:
-                f_out.write(term+"\n")
+            with open(out_name,"w",encoding='utf-8') as f_out:
+                for term in out_list:
+                    term = unicodedata.normalize("NFKC",term)
+                    f_out.write(term+"\n")
 
 
 if __name__=="__main__":
