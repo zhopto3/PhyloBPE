@@ -24,7 +24,7 @@ def main():
         if ".DS" not in f:
             df = pd.read_csv(f"./data/unisent/{f}",delimiter="\t",header=None,encoding="utf-8")
             df = df[0]
-            out_name=f"./data/unisent_clean/{ISOS[f.split("_")[0]]}_clean.txt"
+            out_name=f"./data/unisent_clean/{ISOS[f.split("_")[0]]}.txt"
             out_list = df.to_list()
 
             with open(out_name,"w",encoding='utf-8') as f_out:
