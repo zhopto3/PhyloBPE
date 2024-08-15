@@ -14,13 +14,13 @@ do
     #apply the bpe tokenizer to the clean corpus
     subword-nmt apply-bpe -c $modeldir/${file}.model < $indir/$file > $outdir/tokenized_$file
 
-    Get rid of white space between the tokens
+    #Get rid of white space between the tokens
     sed -i -e 's/@@ /@@/g' ${outdir}/tokenized_${file}
     rm ${outdir}/tokenized_${file}-e
 
-    Collect type frequencies using script from Gutierrez-Vasques et al. 2023
+    #Collect type frequencies using script from Gutierrez-Vasques et al. 2023
     python3 ./scripts/freq_productivity.py ${outdir}/tokenized_${file}
-    Calculate productivity, idiosyncrasy, and cumulative frequency for all the subword tokens
+    #Calculate productivity, idiosyncrasy, and cumulative frequency for all the subword tokens
     python3 ./scripts/productivity.py $modeldir/${file}.model ${outdir}/tokenized_${file}.freqsprod.tsv > ./data/text_stats/detailed_${file}
 
     # #As in original script, filter the detailed information away for a summary (https://github.com/ximenina/BPEProductivity/blob/master/scripts/2BPEproductivity_merges.sh)
@@ -43,4 +43,4 @@ do
 done
 
 #standardize each element of the language vectors to facilitate cross-lingual comparison
-python3 ./scripts/standardize.py ./data/text_stats/lang_vecs.tsv
+python3 ./scripts/standardize.py ./data/text_stats/lang_vecs.tsv ./data/text_stats/lang_vecs_standardized.tsv
