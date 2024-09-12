@@ -1,0 +1,30 @@
+---
+title: "Make Visuals"
+author: "Zach Hopton"
+date: "2024-08-14"
+output: html_document
+---
+
+
+```{r}
+library(lingtypology)
+```
+
+
+```{r}
+#Load the character data
+file="../data/text_stats/lang_vecs_standardized.tsv"
+char <- read.delim(file)
+```
+
+
+```{r}
+#change a few language names so they correspond to the languages in reference tree
+char[3,"lang"] <- "Eastern Armenian"
+char[9,"lang"] <- "Western Farsi"
+char[11,"lang"] <- "Scottish Gaelic"
+char[28,"lang"] <- "Serbian Standard"
+char[30,"lang"] <- "Slovenian"
+char[33,"lang"] <- "Ukrainian"
+map.feature(char$lang,label=iso.lang(char$lang),label.hide=FALSE,label.fsize = 8,label.position = 'right')
+```
