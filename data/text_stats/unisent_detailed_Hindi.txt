@@ -1,2553 +1,1003 @@
-subword:ha	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ra	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:an	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ee</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ch	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ma	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:at	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:da	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ya	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:vi	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:oo	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:va	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:sa	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:dha	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:pa	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ka	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ee	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:sha	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:sh	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:bh	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ba	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ta	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:na	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:la	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:tt	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:rat	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:dh	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ra</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:on</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-रत</w>	म@@ू@@रत	57
-रत</w>	न@@ा@@स@@रत	10
-रत</w>	प@@रत	3
-रत</w>	ग@@न@@्@@न@@े@@स@@रत	3
-रत</w>	द@@ा@@ब@@रत	2
-रत</w>	स@@ू@@रत	1
-रत</w>	ब@@क@@ो@@रत	1
-रत</w>	क@@रत	1
-रत</w>	औ@@रत	1
-रत</w>	अन@@ा@@ह@@रत	1
-subword:रत</w>	productivity:10	cum_freq:80	idiosyncrasy:8.0
-subword:ro	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:pra	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ja	productivity:0	cum_freq:0	idiosyncrasy:0
-कर</w>	कर	2401
-कर</w>	ह@@ो@@कर	876
-कर</w>	ल@@े@@कर	695
-कर</w>	ज@@ा@@कर	695
-कर</w>	आ@@कर	492
-कर</w>	द@@े@@ख@@कर	289
-कर</w>	स@@ु@@न@@कर	280
-कर</w>	कह@@कर	267
-कर</w>	द@@े@@कर	219
-कर</w>	उठ@@कर	209
-कर</w>	न@@ि@@कल@@कर	150
-कर</w>	ज@@ा@@न@@कर	140
-कर</w>	ल@@ग@@ा@@कर	137
-कर</w>	छ@@ो@@ड@@़@@कर	136
-कर</w>	उठ@@ा@@कर	134
-कर</w>	ख@@ा@@कर	120
-कर</w>	ठ@@ो@@कर	116
-कर</w>	प@@ा@@कर	105
-कर</w>	क@@्@@य@@ो@@ं@@कर	99
-कर</w>	ब@@ढ@@़@@कर	98
-कर</w>	ब@@ा@@न@@्@@ध@@कर	90
-कर</w>	ब@@न@@ा@@कर	87
-कर</w>	म@@ि@@ल@@कर	85
-कर</w>	ब@@ु@@ल@@ा@@कर	84
-कर</w>	ड@@ा@@ल@@कर	81
-कर</w>	ब@@ढ@@़@@ा@@कर	75
-कर</w>	र@@ख@@कर	74
-कर</w>	न@@ि@@क@@ा@@ल@@कर	74
-कर</w>	ख@@ो@@ल@@कर	70
-कर</w>	प@@क@@ड@@़@@कर	66
-कर</w>	च@@ढ@@़@@कर	63
-कर</w>	म@@ा@@न@@कर	62
-कर</w>	च@@ल@@कर	61
-कर</w>	र@@ह@@कर	59
-कर</w>	भ@@े@@ज@@कर	59
-कर</w>	प@@ह@@ु@@ं@@च@@कर	59
-कर</w>	फ@@ि@@र@@कर	54
-कर</w>	प@@ु@@क@@ा@@र@@कर	49
-कर</w>	ल@@ा@@कर	45
-कर</w>	च@@ि@@ल@@्@@ल@@ा@@कर	44
-कर</w>	ग@@ि@@र@@कर	44
-कर</w>	च@@ढ@@़@@ा@@कर	42
-कर</w>	ब@@ु@@ल@@व@@ा@@कर	34
-कर</w>	समझ@@कर	33
-कर</w>	म@@ा@@प@@कर	33
-कर</w>	ब@@ै@@ठ@@कर	32
-कर</w>	स@@ो@@च@@कर	31
-कर</w>	उ@@तर@@कर	31
-कर</w>	म@@ा@@र@@कर	29
-कर</w>	भ@@ा@@ग@@कर	28
-कर</w>	म@@ु@@ड@@़@@कर	27
-कर</w>	त@@ो@@ड@@़@@कर	27
-कर</w>	ब@@न@@व@@ा@@कर	26
-कर</w>	प@@ी@@कर	26
-कर</w>	घ@@ू@@म@@कर	26
-कर</w>	उ@@त@@ा@@र@@कर	26
-कर</w>	त@@्@@य@@ा@@ग@@कर	25
-कर</w>	ठ@@ह@@र@@ा@@कर	25
-कर</w>	ख@@ो@@द@@कर	25
-कर</w>	ल@@ि@@ख@@कर	24
-कर</w>	ब@@न@@कर	24
-कर</w>	फ@@ा@@ड@@़@@कर	24
-कर</w>	ध@@ो@@कर	24
-कर</w>	प@@ढ@@़@@कर	23
-कर</w>	द@@ौ@@ड@@़@@कर	23
-कर</w>	त@@ौ@@ल@@कर	22
-कर</w>	छ@@ु@@ड@@़@@ा@@कर	22
-कर</w>	झ@@ु@@क@@कर	20
-कर</w>	म@@ि@@ल@@ा@@कर	19
-कर</w>	भ@@य@@ं@@कर	19
-कर</w>	ढ@@ा@@ल@@कर	19
-कर</w>	च@@ल@@ा@@कर	18
-कर</w>	ख@@ी@@ं@@च@@कर	18
-कर</w>	ल@@ड@@़@@कर	17
-कर</w>	प@@ह@@ु@@ं@@च@@ा@@कर	17
-कर</w>	छ@@ी@@न@@कर	17
-कर</w>	ग@@ि@@ड@@़@@ग@@ि@@ड@@़@@ा@@कर	17
-कर</w>	भर@@कर	16
-कर</w>	ब@@ज@@ा@@कर	16
-कर</w>	च@@ु@@न@@कर	16
-कर</w>	बच@@कर	15
-कर</w>	प@@ह@@ि@@न@@कर	15
-कर</w>	छ@@ि@@प@@कर	15
-कर</w>	ब@@े@@च@@कर	14
-कर</w>	प@@ड@@़@@कर	14
-कर</w>	ट@@े@@क@@कर	14
-कर</w>	च@@ि@@त@@ा@@कर	14
-कर</w>	ग@@ि@@र@@ा@@कर	14
-कर</w>	बह@@ा@@कर	13
-कर</w>	बद@@ल@@कर	13
-कर</w>	जल@@ा@@कर	13
-कर</w>	ग@@ि@@न@@कर	13
-कर</w>	फ@@े@@र@@कर	12
-कर</w>	झ@@ु@@क@@ा@@कर	12
-कर</w>	घ@@ु@@स@@कर	12
-कर</w>	ग@@ा@@कर	12
-कर</w>	ध@@र@@कर	11
-कर</w>	छ@@ू@@कर	11
-कर</w>	ब@@ू@@झ@@कर	10
-कर</w>	फ@@ू@@ं@@क@@कर	10
-कर</w>	द@@ि@@ख@@ा@@कर	10
-कर</w>	ठ@@ह@@र@@कर	10
-कर</w>	ह@@ट@@ा@@कर	9
-कर</w>	ड@@र@@कर	9
-कर</w>	जल@@कर	9
-कर</w>	समझ@@ा@@कर	8
-कर</w>	स@@ु@@न@@ा@@कर	8
-कर</w>	ल@@ौ@@ट@@ा@@कर	8
-कर</w>	म@@ु@@कर	8
-कर</w>	भ@@ड@@़@@क@@ा@@कर	8
-कर</w>	ब@@त@@ा@@कर	8
-कर</w>	ब@@ट@@ो@@र@@कर	8
-कर</w>	प@@ी@@स@@कर	8
-कर</w>	ज@@ी@@त@@कर	8
-कर</w>	र@@ो@@कर	7
-कर</w>	भ@@ू@@ल@@कर	7
-कर</w>	ध@@र@@ा@@कर	7
-कर</w>	ढ@@ू@@ं@@ढ@@़@@कर	7
-कर</w>	कट@@व@@ा@@कर	7
-कर</w>	क@@स@@कर	7
-कर</w>	ह@@ि@@ल@@ा@@कर	6
-कर</w>	स@@ज@@ा@@कर	6
-कर</w>	ल@@ा@@द@@कर	6
-कर</w>	बह@@कर	6
-कर</w>	फ@@े@@ं@@क@@कर	6
-कर</w>	प@@ट@@क@@कर	6
-कर</w>	द@@ि@@ल@@ा@@कर	6
-कर</w>	द@@ब@@कर	6
-कर</w>	च@@ू@@म@@कर	6
-कर</w>	च@@क@@्@@कर	6
-कर</w>	ख@@े@@ल@@कर	6
-कर</w>	ख@@ु@@द@@व@@ा@@कर	6
-कर</w>	ख@@ि@@ल@@ा@@कर	6
-कर</w>	ओ@@ढ@@़@@कर	6
-कर</w>	व@@ि@@च@@ा@@र@@कर	5
-कर</w>	म@@ो@@ड@@़@@कर	5
-कर</w>	म@@ा@@ं@@ग@@कर	5
-कर</w>	ब@@ि@@ल@@क@@कर	5
-कर</w>	ब@@ि@@छ@@ा@@कर	5
-कर</w>	फ@@ो@@ड@@़@@कर	5
-कर</w>	फ@@ै@@ल@@ा@@कर	5
-कर</w>	फ@@ं@@स@@कर	5
-कर</w>	प@@ह@@ि@@च@@ा@@न@@कर	5
-कर</w>	प@@क@@ा@@कर	5
-कर</w>	ढ@@ल@@व@@ा@@कर	5
-कर</w>	ड@@ु@@ब@@ो@@कर	5
-कर</w>	ट@@ा@@ल@@कर	5
-कर</w>	ज@@ो@@त@@कर	5
-कर</w>	ज@@ि@@ल@@ा@@कर	5
-कर</w>	ज@@ा@@ग@@कर	5
-कर</w>	च@@ु@@र@@ा@@कर	5
-कर</w>	घ@@ु@@म@@ा@@कर	5
-कर</w>	घ@@ब@@र@@ा@@कर	5
-कर</w>	क@@र@@व@@ा@@कर	5
-कर</w>	उ@@ड@@़@@ा@@कर	5
-कर</w>	उ@@ख@@ा@@ड@@़@@कर	5
-कर</w>	सम@@ा@@कर	4
-कर</w>	ल@@ु@@ढ@@़@@क@@ा@@कर	4
-कर</w>	ल@@ट@@क@@ा@@कर	4
-कर</w>	ल@@ग@@व@@ा@@कर	4
-कर</w>	म@@र@@कर	4
-कर</w>	बच@@ा@@कर	4
-कर</w>	ब@@ी@@न@@कर	4
-कर</w>	प@@ि@@ल@@ा@@कर	4
-कर</w>	प@@ह@@ि@@न@@ा@@कर	4
-कर</w>	प@@र@@ख@@कर	4
-कर</w>	न@@ौ@@कर	4
-कर</w>	ड@@ु@@ब@@ा@@कर	4
-कर</w>	ट@@ट@@ो@@ल@@कर	4
-कर</w>	झ@@ा@@ड@@़@@कर	4
-कर</w>	ज@@ो@@ड@@़@@कर	4
-कर</w>	ज@@क@@ड@@़@@कर	4
-कर</w>	ग@@ू@@ं@@थ@@कर	4
-कर</w>	ग@@ढ@@़@@कर	4
-कर</w>	ख@@ु@@ल@@कर	4
-कर</w>	उ@@ग@@कर	4
-कर</w>	उ@@ख@@ड@@़@@कर	4
-कर</w>	स@@ु@@ल@@ग@@ा@@कर	3
-कर</w>	स@@ी@@ख@@कर	3
-कर</w>	स@@ि@@ख@@ा@@कर	3
-कर</w>	ल@@ा@@ं@@घ@@कर	3
-कर</w>	ल@@ग@@कर	3
-कर</w>	र@@ो@@क@@कर	3
-कर</w>	र@@ि@@स@@ि@@य@@ा@@कर	3
-कर</w>	भ@@ू@@ं@@ज@@कर	3
-कर</w>	बह@@क@@कर	3
-कर</w>	ब@@्@@य@@ा@@ह@@कर	3
-कर</w>	ब@@ो@@कर	3
-कर</w>	ब@@ु@@झ@@ा@@कर	3
-कर</w>	ब@@ि@@ग@@ड@@़@@कर	3
-कर</w>	ब@@र@@स@@ा@@कर	3
-कर</w>	ब@@न@@्@@द@@कर	3
-कर</w>	फ@@ू@@ल@@कर	3
-कर</w>	फ@@ु@@स@@ल@@ा@@कर	3
-कर</w>	प@@ै@@ठ@@कर	3
-कर</w>	प@@ह@@ु@@च@@कर	3
-कर</w>	प@@क@@ड@@़@@व@@ा@@कर	3
-कर</w>	न@@ि@@कल@@व@@ा@@कर	3
-कर</w>	न@@ा@@प@@कर	3
-कर</w>	न@@ह@@ा@@कर	3
-कर</w>	त@@ज@@कर	3
-कर</w>	ढ@@ू@@ं@@ढ@@कर	3
-कर</w>	ढ@@ा@@कर	3
-कर</w>	ढ@@ा@@ं@@प@@कर	3
-कर</w>	झ@@ा@@ं@@क@@कर	3
-कर</w>	घ@@े@@र@@कर	3
-कर</w>	ख@@ो@@ज@@कर	3
-कर</w>	ख@@द@@े@@ड@@़@@कर	3
-कर</w>	क@@र@@ा@@कर	3
-कर</w>	उ@@ज@@ड@@़@@कर	3
-कर</w>	उ@@ं@@ड@@े@@ल@@कर	3
-कर</w>	स@@ु@@ध@@ा@@र@@कर	2
-कर</w>	स@@ं@@भ@@ल@@कर	2
-कर</w>	ल@@ि@@ख@@ा@@कर	2
-कर</w>	ल@@प@@क@@कर	2
-कर</w>	र@@च@@कर	2
-कर</w>	मन@@ा@@कर	2
-कर</w>	म@@ु@@ं@@ड@@़@@ा@@कर	2
-कर</w>	म@@र@@ो@@ड@@़@@कर	2
-कर</w>	म@@ं@@ग@@ा@@कर	2
-कर</w>	म@@ं@@ग@@व@@ा@@कर	2
-कर</w>	भ@@ू@@न@@कर	2
-कर</w>	भ@@ा@@ल@@कर	2
-कर</w>	भ@@ट@@क@@कर	2
-कर</w>	भ@@ग@@कर	2
-कर</w>	ब@@ै@@ठ@@ा@@कर	2
-कर</w>	ब@@ि@@ग@@ा@@ड@@़@@कर	2
-कर</w>	ब@@ा@@ं@@ध@@कर	2
-कर</w>	ब@@स@@ा@@कर	2
-कर</w>	ब@@स@@कर	2
-कर</w>	फ@@ै@@ल@@कर	2
-कर</w>	फ@@ल@@ा@@कर	2
-कर</w>	प@@्@@र@@ा@@कर	2
-कर</w>	प@@ू@@ज@@कर	2
-कर</w>	प@@ू@@छ@@कर	2
-कर</w>	प@@ि@@ट@@व@@ा@@कर	2
-कर</w>	प@@ि@@घ@@ल@@कर	2
-कर</w>	प@@ह@@च@@ा@@न@@कर	2
-कर</w>	प@@छ@@त@@ा@@कर	2
-कर</w>	प@@ं@@ह@@ु@@च@@कर	2
-कर</w>	न@@ह@@ल@@ा@@कर	2
-कर</w>	ध@@ू@@म@@कर	2
-कर</w>	द@@ब@@ा@@कर	2
-कर</w>	त@@ा@@क@@कर	2
-कर</w>	त@@प@@ा@@कर	2
-कर</w>	ढ@@क@@े@@ल@@कर	2
-कर</w>	ड@@र@@ा@@कर	2
-कर</w>	ठ@@ो@@ं@@क@@कर	2
-कर</w>	झ@@ु@@ं@@झ@@ल@@ा@@कर	2
-कर</w>	ज@@ा@@ं@@च@@कर	2
-कर</w>	ज@@त@@ा@@कर	2
-कर</w>	छ@@े@@द@@कर	2
-कर</w>	छ@@ी@@ल@@कर	2
-कर</w>	छ@@ि@@प@@ा@@कर	2
-कर</w>	छ@@ि@@ड@@़@@क@@कर	2
-कर</w>	च@@ु@@भ@@कर	2
-कर</w>	च@@ी@@र@@कर	2
-कर</w>	च@@ल@@व@@ा@@कर	2
-कर</w>	घ@@ु@@ल@@कर	2
-कर</w>	ग@@ल@@कर	2
-कर</w>	ग@@र@@ज@@कर	2
-कर</w>	ग@@ढ@@़@@ा@@कर	2
-कर</w>	ग@@ठ@@कर	2
-कर</w>	ख@@ट@@ख@@ट@@ा@@कर	2
-कर</w>	क@@ा@@ं@@प@@कर	2
-कर</w>	क@@तर@@ा@@कर	2
-कर</w>	उठ@@व@@ा@@कर	2
-कर</w>	उ@@भ@@ा@@र@@कर	2
-कर</w>	उ@@ड@@़@@कर	2
-कर</w>	उ@@ज@@ा@@ड@@़@@कर	2
-कर</w>	उ@@छ@@ल@@कर	2
-कर</w>	अ@@ध@@ि@@कर	2
-कर</w>	ह@@ु@@ल@@स@@कर	1
-कर</w>	ह@@ि@@ल@@कर	1
-कर</w>	ह@@ा@@र@@कर	1
-कर</w>	ह@@ा@@ं@@फ@@कर	1
-कर</w>	ह@@ा@@ं@@क@@कर	1
-कर</w>	ह@@ं@@स@@कर	1
-कर</w>	सम@@्@@भ@@ा@@ल@@कर	1
-कर</w>	सम@@व@@ा@@कर	1
-कर</w>	स@@ौ@@ं@@प@@कर	1
-कर</w>	स@@ो@@कर	1
-कर</w>	स@@ो@@ं@@प@@कर	1
-कर</w>	स@@ू@@ख@@कर	1
-कर</w>	स@@ु@@ड@@़@@क@@कर	1
-कर</w>	स@@ी@@ं@@ज@@कर	1
-कर</w>	स@@ि@@ख@@ल@@ा@@कर	1
-कर</w>	स@@ि@@क@@ु@@ड@@़@@कर	1
-कर</w>	स@@ा@@न@@कर	1
-कर</w>	स@@स@@ु@@न@@कर	1
-कर</w>	स@@र@@क@@कर	1
-कर</w>	स@@ड@@़@@कर	1
-कर</w>	स@@ं@@व@@ा@@र@@कर	1
-कर</w>	व@@ा@@न@@्@@ध@@कर	1
-कर</w>	ल@@ौ@@ल@@कर	1
-कर</w>	ल@@ो@@ड@@़@@कर	1
-कर</w>	ल@@ि@@ट@@ा@@कर	1
-कर</w>	ल@@द@@व@@ा@@कर	1
-कर</w>	र@@ौ@@ं@@द@@कर	1
-कर</w>	र@@ू@@ठ@@कर	1
-कर</w>	र@@ू@@क@@कर	1
-कर</w>	र@@ग@@ड@@़@@कर	1
-कर</w>	र@@ख@@व@@ा@@कर	1
-कर</w>	म@@ू@@ं@@द@@कर	1
-कर</w>	म@@ु@@र@@्@@झ@@ा@@कर	1
-कर</w>	म@@ु@@ण@@्@@ड@@ा@@कर	1
-कर</w>	म@@ु@@ड@@़@@व@@ा@@कर	1
-कर</w>	म@@ु@@झ@@कर	1
-कर</w>	म@@ु@@ं@@ड@@़@@व@@ा@@कर	1
-कर</w>	म@@ा@@कर	1
-कर</w>	म@@ल@@कर	1
-कर</w>	म@@र@@व@@ा@@कर	1
-कर</w>	म@@थ@@कर	1
-कर</w>	म@@ढ@@़@@व@@ा@@कर	1
-कर</w>	म@@च@@ा@@कर	1
-कर</w>	भर@@म@@ा@@कर	1
-कर</w>	भ@@ो@@ग@@कर	1
-कर</w>	भ@@ि@@ग@@ो@@कर	1
-कर</w>	भ@@ड@@़@@क@@कर	1
-कर</w>	भ@@ट@@क@@ा@@कर	1
-कर</w>	ब@@ो@@ल@@कर	1
-कर</w>	ब@@े@@ध@@कर	1
-कर</w>	ब@@े@@त@@कर	1
-कर</w>	ब@@ु@@ह@@ा@@र@@कर	1
-कर</w>	ब@@ि@@लख@@कर	1
-कर</w>	ब@@ि@@ध@@कर	1
-कर</w>	ब@@ि@@द@@कर	1
-कर</w>	ब@@ि@@क@@कर	1
-कर</w>	ब@@ा@@र@@कर	1
-कर</w>	ब@@झ@@कर	1
-कर</w>	ब@@क@@ब@@क@@्@@कर	1
-कर</w>	फ@@ु@@ं@@क@@व@@ा@@कर	1
-कर</w>	फ@@ि@@र@@ा@@कर	1
-कर</w>	फ@@ल@@कर	1
-कर</w>	फ@@ट@@क@@कर	1
-कर</w>	फ@@ं@@स@@ा@@कर	1
-कर</w>	प@@ो@@स@@कर	1
-कर</w>	प@@ो@@ं@@छ@@कर	1
-कर</w>	प@@ि@@घ@@ल@@ा@@कर	1
-कर</w>	प@@ा@@ल@@न@@कर	1
-कर</w>	प@@ह@@ू@@ं@@च@@कर	1
-कर</w>	प@@ह@@ु@@च@@ा@@कर	1
-कर</w>	प@@ह@@ु@@ँ@@च@@कर	1
-कर</w>	प@@ह@@ं@@च@@ा@@कर	1
-कर</w>	प@@स@@ी@@ज@@कर	1
-कर</w>	प@@स@@ा@@र@@कर	1
-कर</w>	न@@ि@@प@@ट@@ा@@कर	1
-कर</w>	न@@ा@@श@@कर	1
-कर</w>	न@@ा@@च@@कर	1
-कर</w>	न@@व@@ा@@कर	1
-कर</w>	ध@@ो@@ं@@क@@कर	1
-कर</w>	ध@@ु@@ल@@व@@ा@@कर	1
-कर</w>	ध@@ु@@ल@@कर	1
-कर</w>	ध@@र@@व@@ा@@कर	1
-कर</w>	ध@@म@@क@@ा@@कर	1
-कर</w>	ध@@ध@@क@@ा@@कर	1
-कर</w>	द@@े@@श@@कर	1
-कर</w>	द@@े@@ख@@ा@@कर	1
-कर</w>	द@@े@@ख@@भ@@ा@@ल@@कर	1
-कर</w>	द@@ि@@ख@@ल@@ा@@कर	1
-कर</w>	द@@ा@@ं@@व@@कर	1
-कर</w>	द@@ा@@ं@@य@@कर	1
-कर</w>	थ@@ू@@क@@कर	1
-कर</w>	थ@@र@@थ@@र@@ा@@कर	1
+ha	u@@la@@ha@@na	1
+ha	sa@@ha@@y@@ata	1
+ha	sa@@ha@@na@@sha@@ee@@lata	1
+ha	ha@@y	1
+ha	gra@@ha@@n	1
+ha	g@@ha@@m@@and	1
+ha	g@@ha@@a@@t	1
+ha	d@@i@@k@@ha@@a@@e	1
+ha	at@@ha@@h	1
+subword:ha	productivity:9	cum_freq:9	idiosyncrasy:1.0
+ra	vish@@ra@@a@@m	1
+ra	va@@ra@@dan	1
+ra	uta@@ra@@kar	1
+ra	ta@@ra@@s	1
+ra	s@@ra@@p	1
+ra	pa@@r@@i@@sh@@ra@@m	1
+ra	na@@ra@@k	1
+ra	ma@@ra@@ne	1
+ra	ma@@ra@@na	1
+ra	k@@ra@@p@@a	1
+ra	dha@@ee@@ra@@j	1
+ra	bu@@ra@@i	1
+ra	ba@@ra@@dan	1
+subword:ra	productivity:13	cum_freq:13	idiosyncrasy:1.0
+an	yu@@g@@an@@u@@yu@@g	1
+an	sha@@an@@tai	1
+an	sha@@a@@an@@tai	1
+an	s@@vat@@an@@t@@rata	1
+an	s@@vat@@an@@t@@ra	1
+an	dha@@na@@v@@an@@on	1
+an	dal@@an@@a	1
+an	d@@an@@e	1
+an	ba@@la@@v@@an@@t	1
+an	b@@an@@dha@@u@@a	1
+an	b@@an@@d@@ee@@gra@@h	1
+an	an@@ya@@y	1
+an	an@@u@@gra@@h	1
+an	an@@dha@@e@@n	1
+an	an@@dha	1
+an	an@@dh@@o	1
+an	an@@and	1
+an	an@@an@@t	1
+an	an@@an@@da@@it	1
+an	an@@a@@an@@da@@it	1
+subword:an	productivity:20	cum_freq:20	idiosyncrasy:1.0
+ee</w>	sama@@r@@t@@h@@ee	1
+ee</w>	ro@@t@@ee	1
+ee</w>	pura@@n@@ee	1
+ee</w>	pi@@chh@@l@@ee	1
+ee</w>	pa@@p@@ee	1
+ee</w>	mi@@l@@at@@ee	1
+ee</w>	l@@o@@bh@@ee	1
+ee</w>	ka@@p@@at@@t@@ee	1
+ee</w>	do@@sha@@ee	1
+ee</w>	dha@@n@@ee	1
+ee</w>	bh@@l@@ee	1
+ee</w>	ba@@d@@ee	1
+ee</w>	achchh@@ee	1
+ee</w>	a@@vi@@na@@sha@@ee	1
+subword:ee</w>	productivity:14	cum_freq:14	idiosyncrasy:1.0
+ch	va@@ch@@a	1
+ch	t@@u@@ch@@ch@@h	1
+ch	sa@@ch@@cha@@i	1
+ch	sa@@ch@@ch@@a	1
+ch	k@@u@@ch@@h	1
+ch	ch@@o@@ree	1
+ch	ch@@o@@r	1
+ch	ch@@in@@t@@a	1
+subword:ch	productivity:8	cum_freq:8	idiosyncrasy:1.0
+ma	t@@e@@j@@o@@ma@@y	1
+ma	ma@@ra@@ne	1
+ma	ma@@ra@@na	1
+ma	ma@@r@@e@@ga	1
+ma	ma@@r@@e	1
+ma	ma@@r	1
+ma	ma@@hi@@ma	1
+ma	ma@@c@@h	1
+ma	ma@@a@@hi@@ma	1
+subword:ma	productivity:9	cum_freq:9	idiosyncrasy:1.0
+at	san@@at@@an	1
+at	s@@at@@y	1
+at	pra@@at@@i@@gya@@a	1
+at	mi@@l@@at@@ee	1
+at	ka@@p@@at@@t@@ee	1
+at	ka@@p@@at@@t	1
+at	du@@sh@@tt@@at@@ma	1
+at	at@@mai@@k	1
+at	at@@ha@@h	1
+at	a@@at@@mai@@k	1
+subword:at	productivity:10	cum_freq:10	idiosyncrasy:1.0
+da	samaj@@h@@da@@r	1
+da	da@@ya	1
+da	da@@see	1
+da	da@@s	1
+da	da@@ro@@ga	1
+da	da@@r@@sha@@n	1
+da	da@@h	1
+da	ba@@da@@la	1
+da	ba@@da@@l	1
+da	an@@an@@da@@it	1
+da	an@@a@@an@@da@@it	1
+da	a@@da@@r	1
+subword:da	productivity:12	cum_freq:12	idiosyncrasy:1.0
+ya	san@@ya@@mee	1
+ya	ka@@l@@ya@@n	1
+ya	ka@@l@@ee@@a@@s@@i@@ya@@on	1
+ya	hi@@ya@@v	1
+ya	dha@@n@@ya@@va@@d	1
+ya	b@@ya@@h	1
+ya	an@@ya@@y	1
+subword:ya	productivity:7	cum_freq:7	idiosyncrasy:1.0
+vi	vi@@ro@@dha	1
+vi	vi@@r@@oo@@ddh	1
+vi	vi@@na@@sh	1
+vi	vi@@dha@@v@@a	1
+vi	vi@@bh@@v	1
+vi	jee@@a@@vi@@t	1
+vi	a@@vi@@na@@sha@@ee	1
+subword:vi	productivity:7	cum_freq:7	idiosyncrasy:1.0
+oo	vi@@r@@oo@@ddh	1
+oo	t@@oo@@k@@a	1
+oo	m@@oo@@r@@kh@@t@@a	1
+oo	l@@oo@@t@@t	1
+oo	j@@oo@@tt@@a	1
+oo	dh@@oo@@p	1
+subword:oo	productivity:6	cum_freq:6	idiosyncrasy:1.0
+va	va@@ra@@dan	1
+va	va@@ch@@a	1
+va	va@@ai@@s@@e	1
+va	sa@@r@@va@@da	1
+va	s@@va@@r@@ga@@doo@@t	1
+va	s@@va@@mee	1
+va	pa@@ka@@d@@va@@a@@e@@ga	1
+va	ja@@va@@n	1
+va	j@@va@@r	1
+va	dha@@na@@va@@n	1
+va	dha@@n@@ya@@va@@d	1
+subword:va	productivity:11	cum_freq:11	idiosyncrasy:1.0
+sa	vishva@@sa@@yogy	1
+sa	su@@na@@sa@@n	1
+sa	sa@@ra	1
+sa	sa@@r@@va@@da	1
+sa	sa@@k@@e	1
+sa	sa@@ha@@y@@ata	1
+sa	sa@@ha@@na@@sha@@ee@@lata	1
+sa	sa@@da	1
+sa	sa@@ch@@cha@@i	1
+sa	sa@@ch@@ch@@a	1
+sa	sa@@c@@h	1
+subword:sa	productivity:11	cum_freq:11	idiosyncrasy:1.0
+dha	vi@@dha@@v@@a	1
+dha	u@@d@@dha@@r	1
+dha	dha@@na@@va@@n	1
+dha	dha@@na@@v@@an@@on	1
+dha	dha@@n@@ya@@va@@d	1
+dha	dha@@n@@ee	1
+dha	dha@@n	1
+dha	dha@@ee@@ra@@j	1
+dha	dha@@a@@r@@mi@@k@@ata	1
+dha	dha@@a@@a@@r@@mi@@k@@ata	1
+dha	b@@an@@dha@@u@@a	1
+dha	an@@dha@@e@@n	1
+subword:dha	productivity:12	cum_freq:12	idiosyncrasy:1.0
+pa	pa@@vitrata	1
+pa	pa@@vit@@ra	1
+pa	pa@@sh@@u	1
+pa	pa@@r@@i@@sh@@ra@@m	1
+pa	pa@@p@@ee	1
+pa	pa@@p	1
+pa	pa@@ka@@d@@va@@a@@e@@ga	1
+pa	pa@@ka@@d@@na	1
+pa	pa@@k	1
+pa	pa@@hi@@cha@@n	1
+pa	pa@@d@@o	1
+pa	pa@@a@@vitrata	1
+pa	pa@@a@@vit@@ra	1
+pa	pa@@a	1
+pa	l@@u@@cha@@pa@@n	1
+subword:pa	productivity:15	cum_freq:15	idiosyncrasy:1.0
+ka	pa@@ka@@d@@va@@a@@e@@ga	1
+ka	pa@@ka@@d@@na	1
+ka	ka@@p@@at@@t@@ee	1
+ka	ka@@p@@at@@t	1
+ka	ka@@l@@ya@@n	1
+ka	ka@@l@@ee@@a@@s@@i@@ya@@on	1
+ka	ka@@b@@ra	1
+ka	ka@@ai@@d	1
+ka	a@@ka@@l	1
+subword:ka	productivity:9	cum_freq:9	idiosyncrasy:1.0
+ee	sa@@ha@@na@@sha@@ee@@lata	1
+ee	pra@@ee@@t@@i	1
+ee	p@@ee@@tt@@ne	1
+ee	p@@ee@@da	1
+ee	ka@@l@@ee@@a@@s@@i@@ya@@on	1
+ee	i@@ba@@l@@ee@@s	1
+ee	dha@@ee@@ra@@j	1
+ee	bh@@ee@@kh	1
+ee	b@@an@@d@@ee@@gra@@h	1
+ee	a@@sha@@ee@@sh	1
+ee	a@@ee@@s@@on	1
+subword:ee	productivity:11	cum_freq:11	idiosyncrasy:1.0
+sha	sha@@uta@@n	1
+sha	sha@@e@@k	1
+sha	sha@@e@@bh@@a	1
+sha	sha@@an@@tai	1
+sha	sha@@a@@an@@tai	1
+sha	sa@@ha@@na@@sha@@ee@@lata	1
+sha	pra@@sha@@n@@sa	1
+sha	k@@u@@sha@@l	1
+sha	k@@sha@@ma	1
+sha	do@@sha@@ee	1
+sha	da@@r@@sha@@n	1
+sha	a@@vi@@na@@sha@@ee	1
+sha	a@@sha@@ee@@sh	1
+subword:sha	productivity:13	cum_freq:13	idiosyncrasy:1.0
+sh	v@@e@@sh@@ya	1
+sh	sh@@u@@u@@ddh	1
+sh	pa@@sh@@u	1
+sh	pa@@r@@i@@sh@@ra@@m	1
+sh	du@@sh@@tt@@at@@ma	1
+sh	a@@sh@@u@@u@@ddh	1
+sh	a@@sh@@a	1
+subword:sh	productivity:7	cum_freq:7	idiosyncrasy:1.0
+bh	vi@@bh@@v	1
+bh	sha@@e@@bh@@a	1
+bh	l@@o@@bh@@ee	1
+bh	bh@@y	1
+bh	bh@@u@@in@@do@@l	1
+bh	bh@@ro@@sa	1
+bh	bh@@la@@i	1
+bh	bh@@la	1
+bh	bh@@l@@ee	1
+bh	bh@@l@@e	1
+bh	bh@@k@@tai	1
+bh	bh@@k@@t	1
+bh	bh@@ee@@kh	1
+subword:bh	productivity:13	cum_freq:13	idiosyncrasy:1.0
+ba	nir@@ba@@lata	1
+ba	nir@@ba@@l	1
+ba	i@@ba@@l@@ee@@s	1
+ba	du@@r@@ba@@lata	1
+ba	ba@@ra@@dan	1
+ba	ba@@la@@v@@an@@t	1
+ba	ba@@da@@la	1
+ba	ba@@da@@l	1
+ba	ba@@da	1
+ba	ba@@d@@ee	1
+ba	ba@@d@@e	1
+ba	ba@@ai@@ree	1
+ba	ba@@ai@@r	1
+subword:ba	productivity:13	cum_freq:13	idiosyncrasy:1.0
+ta	ta@@ra@@s	1
+ta	s@@e@@n@@ta@@me@@n@@t	1
+subword:ta	productivity:2	cum_freq:2	idiosyncrasy:1.0
+na	vi@@na@@sh	1
+na	su@@na@@sa@@n	1
+na	sa@@ha@@na@@sha@@ee@@lata	1
+na	na@@sh	1
+na	na@@ra@@k	1
+na	na@@m@@rata	1
+na	na@@i@@n	1
+na	na@@i	1
+na	dha@@na@@va@@n	1
+na	dha@@na@@v@@an@@on	1
+na	a@@vi@@na@@sha@@ee	1
+subword:na	productivity:11	cum_freq:11	idiosyncrasy:1.0
+la	u@@la@@ha@@na	1
+la	pra@@la@@y	1
+la	mi@@la@@p	1
+la	la@@b@@h	1
+la	la@@a@@j@@ja@@it	1
+la	bh@@la@@i	1
+la	ba@@la@@v@@an@@t	1
+la	a@@la@@see	1
+subword:la	productivity:8	cum_freq:8	idiosyncrasy:1.0
+tt	tt@@o@@kar	1
+tt	tt@@n@@da	1
+tt	p@@ee@@tt@@ne	1
+tt	j@@oo@@tt@@a	1
+tt	du@@sh@@tt@@at@@ma	1
+tt	chh@@o@@tt@@e	1
+subword:tt	productivity:6	cum_freq:6	idiosyncrasy:1.0
+rat	uta@@rat@@e	1
+rat	p@@rat@@i@@gya@@a	1
+rat	p@@rat@@i@@f@@a@@l	1
+rat	m@@rat@@y@@u	1
+rat	d@@rat@@e	1
+subword:rat	productivity:5	cum_freq:5	idiosyncrasy:1.0
+dh	dh@@oo@@p	1
+dh	bua@@d@@dh@@mai@@an	1
+dh	bu@@d@@dh@@mai@@an	1
+dh	an@@dh@@o	1
+subword:dh	productivity:4	cum_freq:4	idiosyncrasy:1.0
+ra</w>	uta@@ra	1
+ra</w>	sa@@ra	1
+ra</w>	s@@vat@@an@@t@@ra	1
+ra</w>	pa@@vit@@ra	1
+ra</w>	pa@@a@@vit@@ra	1
+ra</w>	mi@@t@@ra	1
+ra</w>	ka@@b@@ra	1
+ra</w>	g@@i@@ra	1
+ra</w>	d@@ra	1
+subword:ra</w>	productivity:9	cum_freq:9	idiosyncrasy:1.0
+on</w>	maha@@yaja@@k@@on	1
+on</w>	ka@@l@@ee@@a@@s@@i@@ya@@on	1
+on</w>	k@@anga@@l@@on	1
+on</w>	jee@@vat@@on	1
+on</w>	h@@u@@on	1
+on</w>	du@@kh@@on	1
+on</w>	dhar@@mi@@y@@on	1
+on</w>	dha@@na@@v@@an@@on	1
+on</w>	a@@ee@@s@@on	1
+subword:on</w>	productivity:9	cum_freq:9	idiosyncrasy:1.0
+रत</w>	रत	1
+रत</w>	प@@रत	1
+रत</w>	न@@फ@@रत	1
+रत</w>	ड@@रत	1
+रत</w>	ठ@@ह@@रत	1
+रत</w>	उ@@त@@रत	1
+subword:रत</w>	productivity:6	cum_freq:6	idiosyncrasy:1.0
+ro	vi@@ro@@dha	1
+ro	ro@@t@@ee	1
+ro	ro@@t@@e	1
+ro	ro@@ne	1
+ro	ro@@na	1
+ro	k@@ro@@dha	1
+ro	da@@ro@@ga	1
+ro	bh@@ro@@sa	1
+subword:ro	productivity:8	cum_freq:8	idiosyncrasy:1.0
+pra	pra@@sha@@n@@sa	1
+pra	pra@@san@@n	1
+pra	pra@@la@@y	1
+pra	pra@@k@@o@@p	1
+pra	pra@@ee@@t@@i	1
+pra	pra@@e@@m	1
+pra	pra@@at@@i@@gya@@a	1
+pra	pra@@a@@p@@t	1
+subword:pra	productivity:8	cum_freq:8	idiosyncrasy:1.0
+ja	laj@@ja@@it	1
+ja	la@@a@@j@@ja@@it	1
+ja	ja@@y	1
+ja	ja@@va@@n	1
+ja	ja@@la	1
+ja	ja@@ai@@sa	1
+subword:ja	productivity:6	cum_freq:6	idiosyncrasy:1.0
+कर</w>	स@@कर	1
+कर</w>	र@@कर	1
+कर</w>	बच@@कर	1
 कर</w>	थ@@क@@कर	1
-कर</w>	त@@ो@@ल@@कर	1
-कर</w>	त@@ो@@ड@@कर	1
-कर</w>	त@@ा@@न@@कर	1
-कर</w>	त@@ा@@ड@@़@@कर	1
-कर</w>	त@@ड@@़@@कर	1
-कर</w>	ठ@@ा@@न@@कर	1
-कर</w>	ठ@@ह@@र@@व@@ा@@कर	1
-कर</w>	ट@@क@@्@@कर	1
-कर</w>	झ@@ु@@ठ@@ल@@ा@@कर	1
-कर</w>	झ@@ि@@ड@@़@@कर	1
-कर</w>	झ@@ि@@ड@@़@@क@@कर	1
-कर</w>	जल@@व@@ा@@कर	1
-कर</w>	जन@@कर	1
-कर</w>	ज@@ु@@त@@व@@ा@@कर	1
-कर</w>	ज@@ी@@कर	1
-कर</w>	ज@@म@@ा@@कर	1
-कर</w>	ज@@ड@@़@@कर	1
-कर</w>	ज@@ग@@ा@@कर	1
-कर</w>	छ@@ो@@़@@ड@@़@@कर	1
-कर</w>	छ@@ो@@ड@@कर	1
-कर</w>	छ@@े@@ड@@़@@कर	1
-कर</w>	छ@@ु@@ल@@व@@ा@@कर	1
-कर</w>	छ@@ि@@द@@कर	1
-कर</w>	छ@@ल@@क@@कर	1
-कर</w>	च@@ौ@@ं@@क@@कर	1
-कर</w>	च@@ू@@र@@कर	1
-कर</w>	च@@ु@@क@@ा@@कर	1
-कर</w>	च@@ि@@ढ@@़@@ा@@कर	1
-कर</w>	च@@ि@@ढ@@़@@कर	1
-कर</w>	च@@ा@@ह@@कर	1
-कर</w>	च@@ढ@@़@@व@@ा@@कर	1
-कर</w>	च@@ख@@कर	1
-कर</w>	च@@क@@र@@ा@@कर	1
-कर</w>	घ@@ू@@म@@ा@@कर	1
-कर</w>	घ@@ु@@ड@@़@@क@@कर	1
-कर</w>	घ@@ा@@म@@कर	1
-कर</w>	घ@@ट@@ा@@कर	1
-कर</w>	ग@@ु@@र@@्@@र@@ा@@कर	1
-कर</w>	ग@@ु@@न@@ग@@ु@@न@@ा@@कर	1
-कर</w>	ग@@ु@@ज@@र@@कर	1
-कर</w>	ग@@ि@@र@@व@@ा@@कर	1
-कर</w>	ग@@ा@@र@@कर	1
-कर</w>	ग@@र@@ज@@ा@@कर	1
-कर</w>	ग@@ढ@@़@@व@@ा@@कर	1
-कर</w>	ग@@ढ@@़@@ब@@ा@@कर	1
-कर</w>	ख@@ो@@कर	1
-कर</w>	ख@@ु@@र@@च@@कर	1
-कर</w>	ख@@ी@@च@@कर	1
-कर</w>	ख@@ी@@ं@@च@@ख@@ा@@ं@@च@@कर	1
-कर</w>	ख@@ि@@ं@@च@@कर	1
-कर</w>	ख@@र@@ा@@द@@कर	1
-कर</w>	ख@@ड@@़@@ा@@कर	1
-कर</w>	कह@@ल@@ा@@कर	1
-कर</w>	क@@्@@य@@ा@@ं@@े@@कर	1
-कर</w>	क@@ौ@@न@@्@@ध@@कर	1
-कर</w>	क@@ू@@द@@कर	1
-कर</w>	क@@ु@@ढ@@़@@कर	1
-कर</w>	क@@ु@@ड@@़@@क@@ु@@ड@@़@@ा@@कर	1
-कर</w>	क@@ु@@ड@@क@@ु@@ड@@ा@@कर	1
-कर</w>	क@@ु@@च@@ल@@कर	1
-कर</w>	क@@ा@@त@@कर	1
-कर</w>	क@@स@@व@@ा@@कर	1
-कर</w>	क@@य@@ो@@ं@@कर	1
-कर</w>	क@@म@@ा@@कर	1
-कर</w>	क@@ड@@़@@क@@ा@@कर	1
-कर</w>	ओ@@ढ@@़@@ा@@कर	1
-कर</w>	उ@@भर@@कर	1
-कर</w>	उ@@प@@ज@@ा@@कर	1
-कर</w>	उ@@तर@@व@@ा@@कर	1
-कर</w>	उ@@ण@@्@@ड@@े@@ल@@कर	1
-कर</w>	उ@@ण@@ड@@े@@ल@@कर	1
-कर</w>	उ@@ड@@ा@@कर	1
-कर</w>	इ@@स@@्@@स@@ा@@कर	1
-कर</w>	आ@@ज@@कर	1
-कर</w>	अप@@न@@ा@@कर	1
-कर</w>	अ@@कर	1
-subword:कर</w>	productivity:441	cum_freq:11073	idiosyncrasy:25.108843537414966
-subword:ma</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ata</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-सह	सह@@ा@@य@@त@@ा	152
-सह	इ@@सह@@ा@@क	131
-सह	सह@@ि@@त	66
-सह	सह@@ा@@य@@क	43
-सह	सह@@भ@@ा@@ग@@ी	19
-सह	सह@@क@@र@@्@@म@@ी	15
-सह	सह@@ी	14
-सह	सह@@त@@ा	13
-सह	सह@@त@@े	12
-सह	सह@@ज	12
-सह	सह@@ा@@र@@े	10
-सह	य@@ि@@सह@@ा@@र	10
-सह	सह@@ा@@र@@ा	9
-सह	सह@@भ@@ा@@ग@@ि@@त@@ा	8
-सह	सह@@े@@ल@@ि@@य@@ो@@ं	6
-सह	सह@@ा	6
-सह	सह@@च@@र@@ि@@य@@ो@@ं	6
-सह	सह@@ू@@द@@ा	5
-सह	सह@@ा@@य@@क@@ो@@ं	5
-सह	सह@@स@@्@@र@@प@@त@@ि@@य@@ो@@ं	5
-सह	सह@@े@@ल@@ि@@य@@ा@@ं	4
-सह	सह@@ू@@ं@@ग@@ा	4
-सह	सह@@मत	4
-सह	सह@@ो@@व@@ा	3
-सह	सह@@स@@्@@त@@्@@र@@ा@@प@@त@@ि@@य@@ो@@ं	3
-सह	सह@@य@@त@@ा	3
-सह	य@@ि@@सह@@ा@@र@@ि@@य@@ो@@ं	3
-सह	सह@@स@@्@@त@@्@@र@@ा@@प@@त@@ि@@-	2
-सह	सह@@स@@्@@त@@्@@र@@ा@@प@@त@@ि	2
-सह	सह@@च@@र@@ी	2
-सह	द@@े@@ह@@सह@@ि@@त	2
-सह	अ@@सह@@ा@@य	2
-सह	सह@@ो@@श@@ा@@प@@ा@@त	1
-सह	सह@@ो@@य@@ा@@क@@ी@@म	1
-सह	सह@@ो@@दर	1
-सह	सह@@ो@@ग@@े	1
-सह	सह@@ो	1
-सह	सह@@े@@ं	1
-सह	सह@@े	1
-सह	सह@@ू@@ब@@ि@@य@@ा@@म	1
-सह	सह@@ू@@द@@ी	1
-सह	सह@@ू@@द@@ि@@य@@ो@@ं	1
-सह	सह@@ि@@ं@@त@@ा	1
-सह	सह@@ा@@यत	1
-सह	सह@@ा@@य@@त@@क	1
-सह	सह@@ा@@द@@ु@@थ@@ा	1
-सह	सह@@स@@्@@र@@प@@त@@ि	1
-सह	सह@@व@@ा@@स	1
-सह	सह@@ब@@ा@@स	1
-सह	सह@@क@@र@@्@@म@@ि@@य@@ो@@ं	1
-सह	य@@ि@@सह@@र	1
-सह	म@@सह@@ी	1
-सह	त@@ि@@प@@्@@सह@@ि@@य@@ो@@ं	1
-सह	इ@@सह@@ा@@र@@ि@@य@@ो@@ं	1
-subword:सह	productivity:54	cum_freq:603	idiosyncrasy:11.166666666666666
-subword:vish	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:sh</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:sa</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ni	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:na</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:mi	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:dha</w>	productivity:0	cum_freq:0	idiosyncrasy:0
+कर</w>	उ@@तर@@कर	1
+subword:कर</w>	productivity:5	cum_freq:5	idiosyncrasy:1.0
+ma</w>	ma@@hi@@ma	1
+ma</w>	ma@@a@@hi@@ma	1
+ma</w>	k@@sha@@ma	1
+ma</w>	du@@sh@@tt@@at@@ma	1
+ma</w>	dhar@@ma	1
+ma</w>	choo@@ma	1
+ma</w>	a@@dhar@@ma	1
+subword:ma</w>	productivity:7	cum_freq:7	idiosyncrasy:1.0
+ata</w>	sa@@ha@@y@@ata	1
+ata</w>	laj@@ata	1
+ata</w>	dha@@a@@r@@mi@@k@@ata	1
+ata</w>	dha@@a@@a@@r@@mi@@k@@ata	1
+subword:ata</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+सह	सह@@म	1
+सह	सह@@त	1
+subword:सह	productivity:2	cum_freq:2	idiosyncrasy:1.0
+vish	vish@@ra@@a@@m	1
+subword:vish	productivity:1	cum_freq:1	idiosyncrasy:1.0
+sh</w>	vi@@na@@sh	1
+sh</w>	nir@@do@@sh	1
+sh</w>	na@@sh	1
+sh</w>	k@@l@@e@@sh	1
+sh</w>	do@@sh	1
+sh</w>	a@@sha@@ee@@sh	1
+subword:sh</w>	productivity:6	cum_freq:6	idiosyncrasy:1.0
+sa</w>	sa	1
+sa</w>	pra@@sha@@n@@sa	1
+sa</w>	ja@@ai@@sa	1
+sa</w>	bh@@ro@@sa	1
+subword:sa</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+ni	ni@@n@@da	1
+ni	ni@@d@@r	1
+subword:ni	productivity:2	cum_freq:2	idiosyncrasy:1.0
+na</w>	u@@la@@ha@@na	1
+na</w>	s@@o@@na	1
+na</w>	ro@@na	1
+na</w>	pura@@na	1
+na</w>	pa@@ka@@d@@na	1
+na</w>	ma@@ra@@na	1
+subword:na</w>	productivity:6	cum_freq:6	idiosyncrasy:1.0
+mi	mi@@t@@ra	1
+mi	mi@@la@@p	1
+mi	mi@@l@@at@@ee	1
+mi	dhar@@mi@@y@@on	1
+mi	dha@@a@@r@@mi@@k@@ata	1
+mi	dha@@a@@a@@r@@mi@@k@@ata	1
+subword:mi	productivity:6	cum_freq:6	idiosyncrasy:1.0
+dha</w>	vi@@ro@@dha	1
+dha</w>	k@@ro@@dha	1
+dha</w>	d@@dha	1
+dha</w>	boo@@d@@dha	1
+dha</w>	b@@e@@su@@dha	1
+dha</w>	an@@dha	1
+subword:dha</w>	productivity:6	cum_freq:6	idiosyncrasy:1.0
 subword:dh</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ddh</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:da</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-सम	सम@@य	1033
-सम	सम@@ा@@न	594
-सम	सम@@े@@त	582
-सम	सम@@ु@@द@@्@@र	308
-सम	सम@@्@@म@@ु@@ख	191
-सम	सम@@झ	178
-सम	सम@@ा@@च@@ा@@र	173
-सम	स@@ु@@सम@@ा@@च@@ा@@र	139
-सम	सम@@स@@्@@त	122
-सम	सम@@ी@@प	117
-सम	सम@@्@@म@@त@@ि	92
-सम	सम@@्@@प@@त@@्@@त@@ि	76
-सम	सम@@य@@ो@@ं	36
-सम	सम@@्@@प@@ू@@र@@्@@ण	29
-सम	सम@@्@@भ@@व	24
-सम	सम@@ा	20
-सम	सम@@ा@@ज	17
-सम	सम@@ा@@प@@्@@त	16
-सम	सम@@्@@ब@@न@@्@@ध	14
-सम	सम@@्@@म@@त@@्@@त@@ि	10
-सम	सम@@्@@ब@@ल@@्@@लत	10
-सम	सम@@्@@भ@@ा@@ल	8
-सम	सम@@्@@प@@त@@ि	8
-सम	सम@@ु@@द@@्@@र@@त@@ी@@र	8
-सम	सम@@ा@@न@@त@@ा	8
-सम	सम@@ा@@ई	8
-सम	सम@@ा@@य@@ा	7
-सम	सम@@्@@भ@@ा@@ल@@े	6
-सम	सम@@ा@@त@@ा	6
-सम	ब@@ा@@सम@@त	6
-सम	सम@@्@@म@@ा@@न	5
-सम	सम@@े@@ट	5
-सम	सम@@व@@ा@@ऊ@@ं@@ग@@ा	5
-सम	सम@@थर	5
-सम	म@@ह@@ा@@सम@@ु@@द@@्@@र	5
-सम	उ@@सम@@े@@ं	5
-सम	सम@@्@@ल@@ा	4
-सम	सम@@ा@@कर	4
-सम	सम@@ा@@ए@@ग@@ा	4
-सम	सम@@र@@्@@थ	4
-सम	सम@@च@@ा@@र	4
-सम	सम@@्@@भ@@ा@@ल@@त@@ा	3
-सम	सम@@्@@भ@@ा@@ग@@ी	3
-सम	सम@@्@@भ@@ल@@ा	3
-सम	सम@@्@@भ@@ल	3
-सम	सम@@्@@ब@@न@@्@@ध@@ी	3
-सम	सम@@ू@@ह	3
-सम	सम@@ू@@च@@ा	3
-सम	सम@@ु@@द@@्@@र@@ो@@ं	3
-सम	सम@@ु@@द@@ा@@य	3
-सम	सम@@व@@ा	3
-सम	सम@@ध@@ि@@य@@ा@@न@@ा	3
-सम	सम@@्@@ह@@न@@े	2
-सम	सम@@्@@मत	2
-सम	सम@@्@@म@@ि@@ल@@ि@@त	2
-सम	सम@@्@@भ@@ा@@ल@@े@@ग@@ा	2
-सम	सम@@्@@भ@@ा@@ल@@ा	2
-सम	सम@@्@@भ@@ा@@ल@@न@@े@@व@@ा@@ल@@ो@@ं	2
-सम	सम@@्@@भ@@ल@@त@@ा	2
-सम	सम@@ा@@र@@ै@@म	2
-सम	सम@@ा@@र@@ी	2
-सम	सम@@ा@@ए	2
-सम	सम@@र@@्@@प@@ण	2
-सम	सम@@र@@ि@@य@@ा	2
-सम	सम@@भ@@ा@@ग@@ी	2
-सम	सम@@न@@्@@य@@ा@@ह	2
-सम	श@@ु@@भ@@सम@@ा@@च@@ा@@र	2
-सम	ज@@ि@@सम@@े@@ं	2
-सम	अ@@सम@@य	2
-सम	ह@@ं@@सम@@ु@@ख	1
-सम	ह@@ँ@@सम@@ु@@ख	1
-सम	सम@@्@@ह@@ा@@ल@@े	1
-सम	सम@@्@@ह@@ा@@ल@@ा	1
-सम	सम@@्@@ह@@ा@@ल@@त@@ा	1
-सम	सम@@्@@म@@ु@@ख@@व@@ा@@ल@@ी	1
-सम	सम@@्@@भ@@ा@@ल@@ू@@ं@@ग@@ा	1
-सम	सम@@्@@भ@@ा@@ल@@न@@े@@व@@ा@@ल@@ा	1
-सम	सम@@्@@भ@@ा@@ल@@न@@ा	1
-सम	सम@@्@@भ@@ा@@ल@@त@@ी	1
-सम	सम@@्@@भ@@ा@@ल@@कर	1
-सम	सम@@्@@भ@@ल@@े@@ं@@ग@@े	1
-सम	सम@@्@@भ@@ल@@े	1
-सम	सम@@्@@प@@ि@@त@@्@@त@@ि	1
-सम	सम@@्@@प@@ि@@त	1
-सम	सम@@े@@ट@@े	1
-सम	सम@@े@@ं@@ट	1
-सम	सम@@ू@@च@@े	1
-सम	सम@@ू@@ं@@ग@@ा	1
-सम	सम@@ु@@ु@@द@@्@@र	1
-सम	सम@@ु@@न@@्@@द@@्@@र	1
-सम	सम@@ु@@द@@्@@र@@-	1
-सम	सम@@ी@@प@@ी	1
-सम	सम@@ा@@य@@ा@@ह	1
-सम	सम@@ा@@त@@ी@@ं	1
-सम	सम@@ा@@ए@@ं@@ग@@े	1
-सम	सम@@स@@्@@य@@ा	1
-सम	सम@@स@@ू@@न	1
-सम	सम@@व@@ै@@ं@@म	1
-सम	सम@@व@@ा@@न@@े	1
-सम	सम@@व@@ा@@कर	1
-सम	सम@@र@@्@@थ@@ी	1
-सम	सम@@र@@ू@@त	1
-सम	सम@@य@@ा@@ह	1
-सम	सम@@त	1
-सम	सम@@ण@@्	1
-सम	सम@@ग@@्@@र@@ी	1
-सम	सम@@ग@@र@@्@@न@@ब@@ो	1
-सम	सम@@क@@्@@य@@ा@@ह	1
-सम	स@@ु@@सम@@च@@ा@@र	1
-सम	ध@@न@@सम@@्@@प@@त@@्@@त@@ि	1
-सम	त@@सम@@ो@@ं	1
-सम	ग@@त@@सम@@न@@े	1
-सम	ग@@त@@सम@@न@@ी	1
-सम	आ@@सम@@ा@@न	1
-सम	अन@@्@@त@@सम@@य	1
-सम	अ@@सम@@ा@@न	1
-सम	अ@@सम@@ं@@ज@@स	1
-subword:सम	productivity:117	cum_freq:4011	idiosyncrasy:34.282051282051285
-लन</w>	प@@ा@@लन	71
-लन</w>	च@@ा@@ल@@च@@लन	56
-लन</w>	ज@@लन	45
-लन</w>	च@@लन	26
-लन</w>	ज@@्@@व@@लन	2
-लन</w>	प@@्@@र@@त@@ि@@प@@ा@@लन	1
-subword:लन</w>	productivity:6	cum_freq:201	idiosyncrasy:33.5
-लत</w>	सम@@्@@ब@@ल@@्@@लत	10
-लत</w>	ए@@लत	4
-लत</w>	अ@@द@@ा@@लत	3
-लत</w>	म@@ह@@लत	2
-लत</w>	न@@ब@@ल@@्@@लत	1
-subword:लत</w>	productivity:5	cum_freq:20	idiosyncrasy:4.0
-रन</w>	व@@रन	488
-रन</w>	ब@@रन	179
-रन</w>	ब@@ट@@ो@@रन	2
-रन</w>	ह@@ि@@रन	1
+ddh</w>	vi@@r@@oo@@ddh	1
+ddh</w>	sh@@u@@u@@ddh	1
+ddh</w>	nir@@bua@@ddh	1
+ddh</w>	k@@o@@ddh	1
+ddh</w>	bua@@ddh	1
+ddh</w>	a@@sh@@u@@u@@ddh	1
+subword:ddh</w>	productivity:6	cum_freq:6	idiosyncrasy:1.0
+da</w>	tt@@n@@da	1
+da</w>	sa@@r@@va@@da	1
+da</w>	sa@@da	1
+da</w>	p@@ee@@da	1
+da</w>	ni@@n@@da	1
+da</w>	ba@@da	1
+subword:da</w>	productivity:6	cum_freq:6	idiosyncrasy:1.0
+सम	सम@@र	1
+सम	सम@@झ	1
+subword:सम	productivity:2	cum_freq:2	idiosyncrasy:1.0
+लन</w>	लन	1
+लन</w>	बद@@च@@लन	1
+लन</w>	ज@@लन	1
+लन</w>	छ@@लन	1
+लन</w>	उ@@ग@@लन	1
+subword:लन</w>	productivity:5	cum_freq:5	idiosyncrasy:1.0
+लत</w>	ह@@लत	1
+लत</w>	लत	1
+लत</w>	म@@लत	1
+लत</w>	ब@@लत	1
+लत</w>	क@@लत	1
+subword:लत</w>	productivity:5	cum_freq:5	idiosyncrasy:1.0
+रन</w>	व@@रन	1
+रन</w>	रन	1
 रन</w>	म@@रन	1
-रन</w>	भ@@ो@@रन	1
-रन</w>	ब@@ा@@रन	1
-रन</w>	ध@@रन	1
-रन</w>	क@@रन	1
-रन</w>	अ@@ट@@े@@रन	1
-subword:रन</w>	productivity:10	cum_freq:676	idiosyncrasy:67.6
-बद	बद@@ल@@ा	112
-बद	बद@@ल@@े	71
-बद	बद@@ल	42
-बद	ओ@@बद@@्@@य@@ा@@ह	20
-बद	बद@@ल@@कर	13
-बद	ज@@बद@@्@@य@@ा@@ह	8
-बद	बद@@न@@ा@@म	6
-बद	बद@@न@@ा@@म@@ी	5
-बद	बद@@ल@@त@@ा	4
-बद	बद@@ा@@न	3
-बद	बद@@ल@@त@@े	3
-बद	बद@@ल@@ी	2
-बद	बद@@ल@@न@@े	2
-बद	बद@@द	2
-बद	बद@@्@@द@@ी	1
-बद	बद@@ह@@े	1
-बद	बद@@ल@@े@@ग@@ा	1
-बद	बद@@ल@@े@@ं	1
-बद	बद@@ल@@ू@@ं@@ग@@ा	1
-बद	बद@@ल@@न@@ा	1
-बद	बद@@ल@@त@@ी	1
-बद	बद@@न@@ा@@म@@ी@@ं	1
-बद	बद@@न@@ा	1
-बद	त@@ो@@बद@@ो@@न@@ि@@र@@य@@ा@@ह	1
-बद	अ@@बद@@्@@द@@ॊ@@न	1
-subword:बद	productivity:25	cum_freq:304	idiosyncrasy:12.16
-अन	अन@@ु@@स@@ा@@र	959
-अन	अन@@्@@त	263
-अन	अन@@ु@@ग@@्@@र@@ह	236
-अन	अन@@्@@य@@ज@@ा@@त@@ि@@य@@ो@@ं	157
-अन	अन@@्@@न@@ब@@ल@@ि	147
-अन	अन@@्@@न	99
-अन	अन@@्@@ध@@क@@ा@@र	99
-अन	अन@@्@@ध@@े@@र	94
-अन	अन@@न@@्@@त	70
-अन	अन@@्@@ध@@ि@@य@@ा@@र@@े	44
-अन	अन@@म@@ो@@ल	42
-अन	अन@@्@@य@@ा@@य	40
-अन	अन@@्@@य	38
-अन	अन@@्@@ध@@े	35
-अन	अन@@र@@्@@थ	33
-अन	अन@@्@@ध@@ा	30
-अन	अन@@ा@@थ	30
-अन	अन@@्@@दर	26
-अन	अन@@ा@@ज	25
-अन	अन@@्@@य@@ज@@ा@@त@@ि	24
-अन	अन@@्@@ध@@े@@र@@ा	24
-अन	अन@@्@@तर	23
-अन	अन@@ग@@ि@@न@@ि@@त	23
-अन	अन@@ा@@दर	22
-अन	अन@@्@@ध@@े@@र@@े	21
-अन	अन@@ा@@र	21
-अन	अन@@्@@ध@@ि@@य@@ा@@र@@ा	19
-अन	अन@@न@@्@@त@@क@@ा@@ल	19
-अन	अन@@्@@त@@ि@@म	18
-अन	अन@@्@@त@@ा@@क@@ि@@य@@ा	18
-अन	अन@@ु@@च@@ि@@त	18
-अन	अन@@्@@ध@@ो@@ं	17
-अन	अन@@ा@@थ@@ो@@ं	17
-अन	अन@@ा@@त@@ो@@त	15
-अन	अन@@ज@@ा@@न@@े	15
-अन	अन@@ज@@ा@@न	13
-अन	अन@@्@@य@@ज@@ा@@त@@ि@@य@@ा@@ं	12
-अन	अन@@्@@द@@्@@र@@ि@@य@@ा@@स	12
-अन	अन@@ो@@ख@@ी	12
-अन	अन@@ा	12
-अन	अन@@र@@्@@थ@@क@@ा@@र@@ि@@य@@ो@@ं	12
-अन	अन@@ु@@ग@@्@@र@@ह@@क@@ा@@र@@ी	11
-अन	अन@@स@@ु@@न@@ी	10
-अन	अन@@र@@्@@थ@@क@@ा@@र@@ी	8
-अन	अन@@ा@@र@@ो@@ं	7
-अन	अन@@्@@ह@@ो@@ं	6
-अन	अन@@्@@त@@ड@@़@@ि@@य@@ा@@ं	6
-अन	अन@@ु@@क@@रण	6
-अन	अन@@ा@@द@@ि@@क@@ा@@ल	6
-अन	अन@@द@@े@@ख@@ी	6
-अन	अन@@्@@य@@ा@@य@@ी	5
-अन	अन@@्@@य@@ा@@न@@्@@य	5
-अन	अन@@्@@य@@भ@@ा@@ष@@ा	5
-अन	अन@@्@@य@@ज@@ा@@त@@ि@@-	5
-अन	अन@@्@@ध@@ी	5
-अन	अन@@े@@क	5
-अन	अन@@ु@@व@@ा@@द	5
-अन	अन@@ा@@क@@ि@@य@@ो@@ं	5
-अन	अन@@ह@@ो@@न@@ा	5
-अन	अन@@ग@@ि@@नत	5
-अन	अन@@्@@त@@े@@क@@रण	4
-अन	अन@@ु@@च@@र@@ो@@ं	4
-अन	अन@@ु@@क@@ू@@ल	4
-अन	अन@@ा@@त@@ो@@त@@ी	4
-अन	अन@@ा@@क	4
-अन	अन@@्@@य@@ा@@ज@@ा@@त@@ि@@य@@ो@@ं	3
-अन	अन@@्@@न@@र@@ू@@प@@ी	3
-अन	अन@@्@@न@@ब@@ल@@ि@@य@@ो@@ं	3
-अन	अन@@ो@@ख@@े	3
-अन	अन@@ु@@म@@त@@ि	3
-अन	अन@@ा@@द@@ि	3
-अन	अन@@ा@@क@@व@@ं@@श@@ी	3
-अन	अन@@ा@@क@@व@@ं@@श@@ि@@य@@ो@@ं	3
-अन	अन@@प@@ढ@@़	3
-अन	अन@@द@@े@@ख@@े	3
-अन	अन@@क@@े	3
-अन	य@@ो@@अन@@्@@न@@ा	2
-अन	अन@@्@@ह@@ो@@न@@ा	2
-अन	अन@@्@@ह@@े@@ं	2
-अन	अन@@्@@य@@ज@@ा@@त@@ी@@य	2
-अन	अन@@्@@न@@ा@@द@@ि	2
-अन	अन@@्@@ध@@े@@र@@ी	2
-अन	अन@@्@@त@@फल	2
-अन	अन@@्@@त@@क@@ा@@ल	2
-अन	अन@@ु@@स@@ा	2
-अन	अन@@ु@@य@@ा@@य@@ी	2
-अन	अन@@ु@@भ@@व	2
-अन	अन@@ु@@ग@@ं@@ह	2
-अन	अन@@ि@@त@@्@@य	2
-अन	अन@@ा@@य@@ा@@ह	2
-अन	अन@@ा@@म@@ी	2
-अन	अन@@ा@@ब	2
-अन	अन@@ा@@त	2
-अन	अन@@प@@ढ@@़@@े	2
-अन	अन@@न@@्@@य@@ा@@ह	2
-अन	अन@@ज@@ा@@न@@ी	2
-अन	अन@@क@@ो	2
-अन	ल@@ौ@@अन@@े@@व@@ा@@ल@@ो@@ं	1
-अन	ब@@ू@@अन@@र@@ग@@ि@@स	1
-अन	प@@अन@@े	1
-अन	अन@@्@@ह@@ो@@न@@ी	1
-अन	अन@@्@@य@@भ@@ा@@ष@@ि@@य@@ो@@ं	1
-अन	अन@@्@@य@@ज@@ा@@न@@ि@@य@@ो@@ं	1
-अन	अन@@्@@य@@ज@@ा@@त@@ि@@स@@्@@त@@्@@र@@ि@@य@@ो@@ं	1
-अन	अन@@्@@य@@ज@@ा@@त@@ि@@व@@ा@@ल@@ो@@ं	1
-अन	अन@@्@@य@@अन@@्@@य@@ज@@ा@@थ@@ि@@य@@ो	1
-अन	अन@@्@@ध@@्@@े@@र@@ा	1
-अन	अन@@्@@ध@@्@@य@@ि@@ा@@र@@े	1
-अन	अन@@्@@ध@@ो	1
-अन	अन@@्@@ध@@े@@े@@र	1
-अन	अन@@्@@ध@@े@@ं	1
-अन	अन@@्@@ध@@े@@-	1
-अन	अन@@्@@ध@@य@@ा@@र@@े	1
-अन	अन@@्@@ध@@य@@ा@@र@@ी	1
-अन	अन@@्@@ध@@ड@@़	1
-अन	अन@@्@@ध@@क@@ा@@र@@मय	1
-अन	अन@@्@@द@@्@@र@@ु@@न@@ी@@क@@ु@@स	1
-अन	अन@@्@@द@@र@@-	1
-अन	अन@@्@@तर@@ध@@्@@य@@ा@@न	1
-अन	अन@@्@@त@@ो@@त@@ि@@र@@य@@ा@@ह	1
-अन	अन@@्@@त@@ि@@प@@ा@@स	1
-अन	अन@@्@@त@@ि@@प@@त@@्@@र@@ि@@स	1
-अन	अन@@्@@त@@ा@@क@@ी@@व@@ा@@ल@@ा	1
-अन	अन@@्@@त@@सम@@य	1
-अन	अन@@्@@घ@@क@@ा@@र	1
-अन	अन@@ौ@@न	1
-अन	अन@@ो@@ख@@ा	1
-अन	अन@@ू@@स@@ा@@र	1
-अन	अन@@ू@@प	1
-अन	अन@@ु@@स@@रण	1
-अन	अन@@ु@@स@@र	1
-अन	अन@@ु@@प@@म	1
-अन	अन@@ु@@चर	1
-अन	अन@@ु@@ग@@्@@र@@ह@@र@@ू@@प@@ी	1
-अन	अन@@ु@@ग@@्@@र@@ह@@क@@र@@ी	1
-अन	अन@@ु@@ग@@ा@@म@@ी	1
-अन	अन@@ी@@आ@@म	1
-अन	अन@@ि@@व@@ा@@र@@्@@य	1
-अन	अन@@ा@@ह@@रत	1
-अन	अन@@ा@@न@@ी	1
-अन	अन@@ा@@द@@ि@@-	1
-अन	अन@@ा@@द@@र@@र@@ू@@प@@ी	1
-अन	अन@@ा@@त@@ो@@त@@व@@ा@@स@@ी	1
-अन	अन@@ा@@ड@@़@@ी	1
-अन	अन@@ा@@क@@ी	1
-अन	अन@@ा@@क@@ा@@न@@ी	1
-अन	अन@@ा@@क@@व@@श@@ि@@य@@ो@@ं	1
-अन	अन@@स@@ु@@न@@ा	1
-अन	अन@@श@@न	1
-अन	अन@@र@@्@@थ@@ि@@य@@ो@@ं	1
-अन	अन@@र@@्@@थ@@क@@ा@@र@@ि@@य@@ो	1
-अन	अन@@र@@ो@@ं	1
-अन	अन@@र@@ी@@त@@ि	1
-अन	अन@@य@@ज@@ा@@त@@ि@@य@@ा@@ं	1
-अन	अन@@म@@्@@म@@े@@ल@@े@@क	1
-अन	अन@@प@@ढ@@़@@ा	1
-अन	अन@@न@@्@@त@@ज@@ी@@व@@न	1
-अन	अन@@ध@@े@@र	1
-अन	अन@@त	1
-अन	अन@@ज@@ा@@न@@ो@@ं	1
-अन	अन@@ज@@ा@@न@@ा	1
-अन	अन@@ग@@्@@र@@ह	1
-अन	अन@@ग@@ढ@@़@@े	1
-subword:अन	productivity:163	cum_freq:3131	idiosyncrasy:19.208588957055216
-subword:vishva	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:uta	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:sama	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:rata</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ne</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:kar</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:kh	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:hi	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:chh	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:cha	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:bu	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:bha	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ai	productivity:0	cum_freq:0	idiosyncrasy:0
-हस</w>	स@@ा@@हस	9
-हस</w>	य@@हस	5
-हस</w>	ब@@हस	2
+रन</w>	ड@@रन	1
+रन</w>	ख@@त@@रन	1
+subword:रन</w>	productivity:5	cum_freq:5	idiosyncrasy:1.0
+बद	बद@@ल	1
+बद	बद@@न	1
+बद	बद@@तर	1
+बद	बद@@तम	1
+बद	बद@@च@@लन	1
+subword:बद	productivity:5	cum_freq:5	idiosyncrasy:1.0
+अन	अन@@स	1
+अन	अन@@श	1
+अन	अन@@म	1
+अन	अन@@न	1
+अन	अन@@ज	1
+subword:अन	productivity:5	cum_freq:5	idiosyncrasy:1.0
+vishva	vishva@@see	1
+vishva	vishva@@sa@@yogy	1
+subword:vishva	productivity:2	cum_freq:2	idiosyncrasy:1.0
+uta	uta@@rat@@e	1
+uta	uta@@ra@@kar	1
+uta	uta@@ra	1
+uta	uta@@r	1
+uta	sha@@uta@@n	1
+subword:uta	productivity:5	cum_freq:5	idiosyncrasy:1.0
+sama	sama@@r@@t@@h@@ee	1
+sama	sama@@n	1
+subword:sama	productivity:2	cum_freq:2	idiosyncrasy:1.0
+rata</w>	s@@vat@@an@@t@@rata	1
+rata</w>	na@@m@@rata	1
+rata</w>	d@@rata	1
+subword:rata</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+ne</w>	s@@o@@ne	1
+ne</w>	ro@@ne	1
+ne</w>	pura@@ne	1
+ne</w>	p@@ee@@tt@@ne	1
+ne</w>	ma@@ra@@ne	1
+subword:ne</w>	productivity:5	cum_freq:5	idiosyncrasy:1.0
+kar</w>	uta@@ra@@kar	1
+kar</w>	tt@@o@@kar	1
+kar</w>	in@@kar	1
+kar</w>	g@@ira@@kar	1
+kar</w>	choo@@kar	1
+subword:kar</w>	productivity:5	cum_freq:5	idiosyncrasy:1.0
+kh	m@@oo@@r@@kh@@t@@a	1
+kh	kh@@ree	1
+kh	kh@@o	1
+kh	du@@kh@@on	1
+kh	boo@@kh@@a	1
+subword:kh	productivity:5	cum_freq:5	idiosyncrasy:1.0
+hi	s@@t@@hi@@a@@r	1
+hi	pa@@hi@@cha@@n	1
+hi	ma@@hi@@ma	1
+hi	ma@@a@@hi@@ma	1
+hi	hi@@ya@@v	1
+subword:hi	productivity:5	cum_freq:5	idiosyncrasy:1.0
+chh	pi@@chh@@l@@ee	1
+chh	chh@@o@@tt@@e	1
+subword:chh	productivity:2	cum_freq:2	idiosyncrasy:1.0
+cha	vya@@bhai@@cha@@r	1
+cha	vya@@a@@bhai@@cha@@r	1
+cha	sa@@ch@@cha@@i	1
+cha	pa@@hi@@cha@@n	1
+cha	l@@u@@cha@@pa@@n	1
+subword:cha	productivity:5	cum_freq:5	idiosyncrasy:1.0
+bu	bu@@ra@@i	1
+bu	bu@@d@@dh@@mai@@an	1
+subword:bu	productivity:2	cum_freq:2	idiosyncrasy:1.0
+bha	bha@@r	1
+bha	bha@@k@@tai	1
+subword:bha	productivity:2	cum_freq:2	idiosyncrasy:1.0
+ai	va@@ai@@s@@e	1
+ai	ka@@ai@@d	1
+ai	ja@@ai@@sa	1
+ai	ba@@ai@@ree	1
+ai	ba@@ai@@r	1
+subword:ai	productivity:5	cum_freq:5	idiosyncrasy:1.0
 हस</w>	हस	1
-हस</w>	ह@@र@@्@@हस	1
-subword:हस</w>	productivity:5	cum_freq:18	idiosyncrasy:3.6
-रक</w>	श@@द@@्@@रक	15
-रक</w>	न@@रक	12
-रक</w>	प@@्@@र@@च@@ा@@रक	6
-रक</w>	स@@रक	2
-रक</w>	ह@@ा@@न@@ि@@क@@ा@@रक	1
-रक</w>	स@@्@@म@@ा@@रक	1
-रक</w>	स@@ु@@ध@@ा@@रक	1
-रक</w>	म@@रक	1
-रक</w>	उ@@प@@क@@ा@@रक	1
-रक</w>	उ@@द@@्@@ध@@ा@@रक	1
-subword:रक</w>	productivity:10	cum_freq:41	idiosyncrasy:4.1
-बल</w>	बल	249
-बल</w>	प@@्@@र@@बल	72
-बल</w>	न@@ि@@र@@्@@बल	54
-बल</w>	भ@@ु@@ज@@बल	23
-बल</w>	द@@ु@@र@@्@@बल	16
-बल</w>	ब@@ा@@ह@@ु@@बल	8
-बल</w>	त@@ू@@बल	7
-बल</w>	क@@म@@्@@बल	4
-बल</w>	उ@@बल	3
-बल</w>	म@@ह@@ा@@बल	1
-बल</w>	ज@@ं@@बल	1
-बल</w>	ग@@ि@@बल	1
-बल</w>	ग@@बल	1
-subword:बल</w>	productivity:13	cum_freq:440	idiosyncrasy:33.84615384615385
-तम</w>	उ@@त@@्@@तम	228
-तम</w>	स@@र@@्@@व@@ो@@त@@्@@तम	1
-तम</w>	त@@्@@तम	1
-तम</w>	उ@@म@@्@@तम	1
-तम</w>	अ@@त@@्@@तम	1
-subword:तम</w>	productivity:5	cum_freq:232	idiosyncrasy:46.4
-टक</w>	फ@@ा@@टक	272
-टक</w>	भ@@टक	35
-टक</w>	प@@टक	11
-टक</w>	जल@@फ@@ा@@टक	5
-टक</w>	क@@ू@@ड@@़@@ा@@फ@@ा@@टक	4
-टक</w>	म@@छ@@ल@@ी@@फ@@ा@@टक	2
-टक</w>	भ@@े@@ड@@़@@फ@@ा@@टक	2
-टक</w>	झ@@टक	2
-टक</w>	घ@@ो@@ड@@़@@ा@@फ@@ा@@टक	2
-टक</w>	ॅ@@फ@@ा@@टक	1
-टक</w>	स@@ो@@त@@ा@@फ@@ा@@टक	1
-टक</w>	स@@े@@त@@ा@@फ@@ा@@टक	1
-टक</w>	फ@@टक	1
-टक</w>	अ@@टक	1
-subword:टक</w>	productivity:14	cum_freq:340	idiosyncrasy:24.285714285714285
-गन</w>	आ@@ं@@गन	132
-गन</w>	म@@गन	74
-गन</w>	क@@ं@@गन	5
-गन</w>	आ@@ल@@ि@@ं@@गन	2
-गन</w>	स@@ु@@ह@@ा@@गन	1
-गन</w>	आ@@ँ@@गन	1
-subword:गन</w>	productivity:6	cum_freq:215	idiosyncrasy:35.833333333333336
-कल</w>	न@@ि@@कल	244
-कल</w>	कल	67
-कल</w>	म@@ी@@कल	18
-कल</w>	व@@ि@@कल	7
-कल</w>	अ@@ट@@कल	7
-कल</w>	न@@कल	6
-कल</w>	आ@@ज@@कल	3
-कल</w>	स@@ा@@ं@@कल	2
+हस</w>	म@@हस	1
+हस</w>	ब@@हस	1
+हस</w>	ए@@हस	1
+subword:हस</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+रक</w>	रक	1
+रक</w>	न@@रक	1
+रक</w>	त@@रक	1
+रक</w>	ग@@रक	1
+subword:रक</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+बल</w>	स@@बल	1
+बल</w>	र@@बल	1
+बल</w>	बल	1
+बल</w>	ख@@ल@@बल	1
+subword:बल</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+तम</w>	ल@@तम	1
+तम</w>	र@@तम	1
+तम</w>	बद@@तम	1
+तम</w>	तम	1
+subword:तम</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+टक</w>	भ@@टक	1
+टक</w>	टक	1
+टक</w>	ख@@टक	1
+टक</w>	ए@@क@@टक	1
+subword:टक</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+गन</w>	ल@@गन	1
+गन</w>	म@@गन	1
+गन</w>	गन	1
+गन</w>	उ@@गन	1
+subword:गन</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
 कल</w>	स@@कल	1
-कल</w>	य@@ू@@कल	1
-कल</w>	य@@ह@@ू@@कल	1
 कल</w>	त@@कल	1
-कल</w>	च@@ा@@कल	1
-subword:कल</w>	productivity:13	cum_freq:359	idiosyncrasy:27.615384615384617
-subword:vit	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:vat	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:tai</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:san	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:nir	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:mai	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:la</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:kh</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:it</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ga	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:dhar	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:du	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:do	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:choo	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:boo	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:an</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-समझ	समझ@@ा	68
-समझ	समझ@@त@@ा	45
-समझ	समझ@@त@@े	43
-समझ	समझ@@े	37
-समझ	समझ@@कर	33
-समझ	समझ@@द@@ा@@र	22
-समझ	समझ@@ो	18
-समझ	समझ@@न@@े	15
-समझ	समझ@@ा@@य@@ा	14
-समझ	समझ@@ा@@त@@ा	14
-समझ	समझ@@ा@@त@@े	10
-समझ	समझ@@े@@ं@@ग@@े	9
-समझ	समझ@@ा@@कर	8
-समझ	समझ@@े@@ं	7
-समझ	समझ@@ा@@न@@े	7
-समझ	समझ@@व@@ा@@ल@@े	7
-समझ	समझ@@े@@ग@@ा	6
-समझ	समझ@@ू@@ं	6
-समझ	समझ@@व@@ा@@ल@@ा	6
-समझ	समझ@@द@@ा@@र@@ो@@ं	6
-समझ	समझ@@ी	5
-समझ	समझ@@ा@@ए	5
-समझ	समझ@@न@@े@@व@@ा@@ल@@े	5
-समझ	समझ@@ो@@ग@@े	4
-समझ	समझ@@ा@@ऊ@@ं@@ग@@ा	3
-समझ	समझ@@न@@ा	3
-समझ	समझ@@ा@@न@@ा	2
-समझ	समझ@@ा@@ओ	2
-समझ	समझ@@ा@@ए@@ग@@ा	2
-समझ	समझ@@व@@ा@@ल@@ो@@ं	2
-समझ	समझ@@न@@े@@ह@@ा@@र@@ा	2
-समझ	समझ@@ू@@ं@@ग@@ा	1
-समझ	समझ@@ी@@ं	1
-समझ	समझ@@ा@@ा	1
-समझ	समझ@@ा@@न@@े@@व@@ा@@ल@@ा	1
-समझ	समझ@@ा@@क@@े	1
-समझ	समझ@@ा@@ए@@ं@@ग@@े	1
-समझ	समझ@@ा@@ए@@ं	1
-समझ	समझ@@व@@ा@@ल@@ो	1
-समझ	समझ@@न@@े@@-	1
-समझ	समझ@@त@@ी	1
-subword:समझ	productivity:41	cum_freq:426	idiosyncrasy:10.390243902439025
-सम</w>	म@@ौ@@सम	1
-subword:सम</w>	productivity:1	cum_freq:1	idiosyncrasy:1.0
-सन</w>	स@@ि@@ं@@ह@@ा@@सन	114
-सन</w>	सन	36
-सन</w>	आ@@सन	15
-सन</w>	स@@ो@@सन	13
-सन</w>	श@@ा@@सन	6
-सन</w>	स@@ि@@ह@@ा@@ं@@सन	5
-सन</w>	ब@@ा@@सन	5
-सन</w>	स@@ू@@क@@्@@ष@@्@@म@@सन	1
-सन</w>	र@@ा@@ज@@स@@ि@@ं@@ह@@ा@@सन	1
-सन</w>	भ@@सन	1
-subword:सन</w>	productivity:10	cum_freq:197	idiosyncrasy:19.7
-वर</w>	प@@र@@म@@े@@श@@्@@वर	3878
-वर</w>	ई@@श@@्@@वर	296
-वर</w>	स@@्@@वर	36
-वर</w>	प@@र@@म@@श@@ॆ@@वर	30
-वर</w>	वर	11
-वर</w>	ज@@्@@वर	10
-वर</w>	स@@न@@ौ@@वर	9
-वर</w>	स@@न@@ो@@वर	7
-वर</w>	ज@@ा@@न@@वर	4
-वर</w>	प@@र@@म@@े@@वर	2
-वर</w>	प@@म@@े@@श@@्@@वर	2
-वर</w>	र@@प@@र@@म@@े@@श@@्@@वर	1
-वर</w>	म@@ह@@ा@@ज@@्@@वर	1
-वर</w>	प@@ा@@म@@े@@श@@्@@वर	1
-वर</w>	प@@र@@म@@े@@श@@्@@श@@्@@वर	1
-वर</w>	प@@र@@म@@े@@श@@वर	1
-वर</w>	प@@र@@म@@े@@र@@श@@्@@वर	1
-वर</w>	द@@े@@वर	1
-subword:वर</w>	productivity:18	cum_freq:4292	idiosyncrasy:238.44444444444446
-लव</w>	प@@ल@@्@@लव	1
-subword:लव</w>	productivity:1	cum_freq:1	idiosyncrasy:1.0
-लख</w>	ब@@ि@@लख	3
-subword:लख</w>	productivity:1	cum_freq:3	idiosyncrasy:3.0
-रव</w>	उ@@प@@द@@्@@रव	72
-रव</w>	ग@@ौ@@रव	3
-रव</w>	अप@@द@@्@@रव	3
+कल</w>	आ@@ज@@कल	1
+कल</w>	अ@@कल	1
+subword:कल</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+vit	pa@@vit@@ra	1
+vit	pa@@a@@vit@@ra	1
+subword:vit	productivity:2	cum_freq:2	idiosyncrasy:1.0
+vat	s@@vat@@an@@t@@rata	1
+vat	s@@vat@@an@@t@@ra	1
+vat	jee@@vat@@on	1
+vat	jee@@vat@@e	1
+subword:vat	productivity:4	cum_freq:4	idiosyncrasy:1.0
+tai</w>	sha@@an@@tai	1
+tai</w>	sha@@a@@an@@tai	1
+tai</w>	bha@@k@@tai	1
+tai</w>	bh@@k@@tai	1
+subword:tai</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+san	san@@ya@@mee	1
+san	san@@p	1
+san	san@@at@@an	1
+san	pra@@san@@n	1
+subword:san	productivity:4	cum_freq:4	idiosyncrasy:1.0
+nir	nir@@do@@sh	1
+nir	nir@@bua@@ddh	1
+nir	nir@@ba@@lata	1
+nir	nir@@ba@@l	1
+subword:nir	productivity:4	cum_freq:4	idiosyncrasy:1.0
+mai	bua@@d@@dh@@mai@@an	1
+mai	bu@@d@@dh@@mai@@an	1
+mai	at@@mai@@k	1
+mai	a@@at@@mai@@k	1
+subword:mai	productivity:4	cum_freq:4	idiosyncrasy:1.0
+la</w>	me@@la	1
+la</w>	ja@@la	1
+la</w>	bh@@la	1
+la</w>	ba@@da@@la	1
+subword:la</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+kh</w>	su@@kh	1
+kh</w>	du@@kh	1
+kh</w>	boo@@kh	1
+kh</w>	bh@@ee@@kh	1
+subword:kh</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+it</w>	laj@@ja@@it	1
+it</w>	la@@a@@j@@ja@@it	1
+it</w>	an@@an@@da@@it	1
+it</w>	an@@a@@an@@da@@it	1
+subword:it</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+ga	s@@va@@r@@ga@@doo@@t	1
+subword:ga	productivity:1	cum_freq:1	idiosyncrasy:1.0
+dhar	dhar@@mi@@y@@on	1
+dhar	dhar@@mee	1
+dhar	dhar@@ma	1
+dhar	a@@dhar@@ma	1
+subword:dhar	productivity:4	cum_freq:4	idiosyncrasy:1.0
+du	du@@sh@@tt@@at@@ma	1
+du	du@@r@@ba@@lata	1
+du	du@@kh@@on	1
+du	du@@kh	1
+subword:du	productivity:4	cum_freq:4	idiosyncrasy:1.0
+do	nir@@do@@sh	1
+do	do@@sha@@ee	1
+do	do@@sh	1
+do	bh@@u@@in@@do@@l	1
+subword:do	productivity:4	cum_freq:4	idiosyncrasy:1.0
+choo	choo@@t@@t	1
+choo	choo@@ma	1
+choo	choo@@kar	1
+choo	choo@@a	1
+subword:choo	productivity:4	cum_freq:4	idiosyncrasy:1.0
+boo	boo@@m@@i	1
+boo	boo@@kh@@a	1
+boo	boo@@kh	1
+boo	boo@@d@@dha	1
+subword:boo	productivity:4	cum_freq:4	idiosyncrasy:1.0
+an</w>	san@@at@@an	1
+an</w>	gya@@an	1
+an</w>	bua@@d@@dh@@mai@@an	1
+an</w>	bu@@d@@dh@@mai@@an	1
+subword:an</w>	productivity:4	cum_freq:4	idiosyncrasy:1.0
+समझ	समझ@@न	1
+समझ	समझ@@द	1
+समझ	समझ@@त	1
+subword:समझ	productivity:3	cum_freq:3	idiosyncrasy:1.0
+सम</w>	सम	1
+सम</w>	क@@सम	1
+सम</w>	अ@@सम	1
+subword:सम</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+सन</w>	व@@सन	1
+सन</w>	र@@सन	1
+सन</w>	ब@@सन	1
+subword:सन</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+वर</w>	वर	1
+वर</w>	न@@वर	1
+वर</w>	क@@त@@वर	1
+subword:वर</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+लव</w>	ब@@लव	1
+लव</w>	ड@@लव	1
+लव</w>	कह@@लव	1
+subword:लव</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+लख</w>	लख	1
+लख</w>	ग@@लख	1
+लख</w>	अ@@लख	1
+subword:लख</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+रव</w>	म@@रव	1
 रव</w>	प@@रव	1
-subword:रव</w>	productivity:4	cum_freq:79	idiosyncrasy:19.75
-रद</w>	स@@प@@ा@@रद	1
-रद</w>	श@@रद	1
+रव</w>	थ@@रव	1
+subword:रव</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
 रद</w>	व@@रद	1
-रद</w>	ब@@े@@प@@रद	1
-रद</w>	द@@ु@@ख@@प@@्@@रद	1
-subword:रद</w>	productivity:5	cum_freq:5	idiosyncrasy:1.0
-मय</w>	त@@े@@ज@@ो@@मय	21
-मय</w>	ध@@र@@्@@म@@मय	14
-मय</w>	क@@र@@ू@@ण@@ा@@मय	14
-मय</w>	प@@्@@र@@त@@ा@@प@@मय	5
-मय</w>	व@@ि@@स@@्@@मय	3
-मय</w>	मय	3
-मय</w>	प@@ा@@प@@मय	3
-मय</w>	अ@@ग@@्@@न@@ि@@मय	3
-मय</w>	य@@मय	2
-मय</w>	ज@@्@@व@@ा@@ल@@ा@@मय	2
-मय</w>	ज@@्@@य@@ो@@त@@ि@@मय	2
-मय</w>	श@@ो@@क@@मय	1
-मय</w>	व@@ि@@भ@@व@@मय	1
-मय</w>	र@@ो@@म@@मय	1
-मय</w>	त@@े@@ज@@ा@@मय	1
-मय</w>	ज@@्@@य@@ो@@त@@ि@@र@@्@@मय	1
-मय</w>	क@@ो@@प@@मय	1
-मय</w>	क@@ृ@@प@@ा@@मय	1
-मय</w>	ऐ@@श@@्@@व@@र@@र@@्@@य@@मय	1
-मय</w>	आ@@न@@न@@्@@द@@मय	1
-मय</w>	अन@@्@@ध@@क@@ा@@र@@मय	1
-मय</w>	अ@@त@@ि@@क@@र@@ू@@ण@@ा@@मय	1
-subword:मय</w>	productivity:22	cum_freq:83	idiosyncrasy:3.772727272727273
-मक</w>	न@@मक	21
-मक</w>	च@@मक	15
-मक</w>	न@@ा@@मक	14
-मक</w>	च@@क@@मक	9
-मक</w>	द@@मक	2
-मक</w>	स@@न@@्@@द@@मक	1
-subword:मक</w>	productivity:6	cum_freq:62	idiosyncrasy:10.333333333333334
-भर	भर@@ो@@स@@ा	168
-भर	भर@@ा	70
-भर	भर@@े	69
-भर	भर@@ी	61
-भर	भर@@न@@े	21
-भर	भर@@प@@ू@@र	16
-भर	भर@@कर	16
-भर	भर@@त@@ा	13
-भर	भर@@त@@ी	12
-भर	भर@@क@@े	9
-भर	भर@@त@@े	8
-भर	भर@@ो@@स@@े	7
-भर	भर@@प@@ू@@र@@ी	6
-भर	भर@@न@@ा	6
-भर	भर@@म@@ा@@ए	5
-भर	भर@@म@@ा@@न@@े@@व@@ा@@ल@@ा	3
-भर	भर@@म@@ा@@त@@ा	3
-भर	भर@@म@@ा@@ए@@ं@@ग@@े	3
-भर	भर@@म@@ा	3
-भर	भर@@न@@े@@व@@ा@@ल@@े	3
-भर	भर@@ो	2
-भर	भर@@े@@ं@@ग@@े	2
-भर	भर@@सक	2
-भर	भर@@व@@ा	2
-भर	भर@@म@@ा@@य@@ा	2
-भर	भर@@म@@ा@@न@@े@@व@@ा@@ल@@े	2
-भर	भर@@म@@ा@@न@@े@@व@@ा@@ल@@ी	2
-भर	भर@@म@@ा@@न@@े	2
-भर	भर@@म@@ा@@त@@े	2
-भर	भर@@म@@ा@@ई	2
-भर	ख@@भर@@े	2
-भर	ख@@भर@@ा	2
-भर	उ@@भर@@ी	2
-भर	स@@ा@@ं@@भर@@न@@ी	1
-भर	श@@ो@@क@@भर@@ी	1
-भर	व@@ि@@ष@@भर@@ी	1
-भर	ल@@ो@@भर@@ह@@ि@@त	1
-भर	म@@ध@@ु@@भर@@े	1
-भर	भर@@ो@@ग@@े	1
-भर	भर@@े@@ग@@ा	1
-भर	भर@@े@@ं	1
-भर	भर@@ू@@ं@@ग@@ा	1
-भर	भर@@ी@@ं	1
-भर	भर@@व@@ा@@ए	1
-भर	भर@@मन@@े@@व@@ा@@ल@@े	1
-भर	भर@@म@@ा@@न@@े@@व@@ा@@ल@@ो@@ं	1
-भर	भर@@म@@ा@@त@@ी	1
-भर	भर@@म@@ा@@कर	1
-भर	भर@@न@@े@@व@@ा@@ल@@ो@@ं	1
-भर	भर@@न@@े@@व@@ा@@ल@@ा	1
-भर	भर@@न@@ी	1
-भर	प@@न@@भर@@े	1
-भर	ध@@र@@्@@म@@भर@@े	1
-भर	द@@ु@@ख@@भर@@े	1
-भर	जल@@भर@@े	1
-भर	क@@्@@र@@ो@@ध@@भर@@े	1
-भर	क@@्@@र@@ो@@ध@@भर@@ी	1
-भर	उ@@भर@@े@@ग@@ा	1
-भर	उ@@भर@@त@@े	1
-भर	उ@@भर@@त@@ा	1
-भर	उ@@भर@@कर	1
-भर	आ@@श@@ा@@भर@@ी	1
-subword:भर	productivity:62	cum_freq:557	idiosyncrasy:8.983870967741936
-बह	बह@@ु@@त	1050
-बह	बह@@ि@@न	106
-बह	बह@@ु@@त@@ो@@ं	68
-बह	बह@@ु@@त@@ा@@यत	59
-बह	बह@@ु@@त@@े@@र@@े	43
-बह	बह@@त@@ी	36
-बह	बह@@ा	23
-बह	बह@@ा@@य@@ा	18
-बह	बह@@त@@े	17
-बह	बह@@ु@@म@@ू@@ल@@्@@य	16
-बह	बह@@ू	15
-बह	बह@@ि@@न@@ो@@ं	15
-बह	बह@@न@@े	15
-बह	बह@@ा@@न@@े	14
-बह	बह@@ा@@कर	13
-बह	बह@@ु@@त@@े@@र@@ो@@ं	12
-बह	बह@@त@@ा	10
-बह	बह@@ु@@म@@ो@@ल	9
-बह	बह@@ु@@ओ@@ं	8
-बह	बह@@ा@@ई	7
-बह	बह@@त@@्@@तर	7
-बह	बह@@क@@ा@@य@@ा	7
-बह	बह@@ि@@र@@े	6
-बह	बह@@ि@@न@@े@@ं	6
-बह	बह@@ा@@त@@े	6
-बह	बह@@कर	6
-बह	बह@@क@@ा	6
-बह	बह@@ा@@त@@ा	5
-बह	बह@@ा@@ऊ@@ं@@ग@@ा	5
-बह	बह@@क@@ा@@न@@े	5
-बह	बह@@ू@@र@@ी@@म@@ी	4
-बह	बह@@ु@@त@@े@@र@@ी	4
-बह	बह@@ी	4
-बह	बह@@ा@@न@@ा	4
-बह	बह@@ु@@ए@@ं	3
-बह	बह@@ि@@र@@ो@@ं	3
-बह	बह@@ि@@र@@ा	3
-बह	बह@@न@@ा	3
-बह	बह@@क@@कर	3
-बह	बह@@क	3
-बह	बह@@े@@ल@@ि@@य@@े	2
-बह	बह@@े@@त@@ू	2
-बह	बह@@े@@ग@@ी	2
-बह	बह@@े@@ग@@ा	2
-बह	बह@@े	2
-बह	बह@@ू@@र@@ी@@म	2
-बह	बह@@ा@@न@@े@@व@@ा@@ल@@ा	2
-बह	बह@@ा@@ओ	2
-बह	बह@@ा@@ए	2
-बह	बह@@क@@ा@@न@@ा	2
-बह	बह@@क@@ा@@ए@@ग@@ा	2
-बह	बह@@क@@ा@@ए	2
-बह	य@@ो@@ग@@्@@बह@@ा	1
-बह	य@@ो@@ग@@बह@@ा	1
-बह	बह@@े@@ल@@ि@@य@@ो@@ं	1
-बह	बह@@े@@ं@@ग@@ी	1
-बह	बह@@ु@@ध@@ा	1
-बह	बह@@ु@@त@@े	1
-बह	बह@@ु@@त@@ा@@य@@ा@@त	1
-बह	बह@@ु	1
-बह	बह@@ी@@न	1
-बह	बह@@ि@@र@@ो	1
-बह	बह@@ि@@र@@ी	1
-बह	बह@@ा@@ल	1
-बह	बह@@ा@@न@@े@@व@@ा@@ल@@े	1
-बह	बह@@ा@@न@@े@@व@@ा@@ल@@ी	1
-बह	बह@@ा@@द@@ु@@र	1
-बह	बह@@ा@@त@@ी	1
-बह	बह@@ा@@ए@@ग@@ा	1
-बह	बह@@ा@@ऊ@@ं	1
-बह	बह@@ल@@ा@@न@@े@@व@@ा@@ल@@ो@@ं	1
-बह	बह@@ल@@ा@@न@@े	1
-बह	बह@@ल@@ा@@त@@े	1
-बह	बह@@ल@@ा@@ऊ@@ं	1
-बह	बह@@र@@ी@@म@@व@@ा@@स@@ी	1
-बह	बह@@न@@े@@व@@ा@@ल@@े	1
-बह	बह@@न	1
-बह	बह@@त@@ो@@ं	1
-बह	बह@@क@@े	1
-बह	बह@@क@@ा@@न@@े@@व@@ा@@ल@@े	1
-बह	बह@@क@@ा@@न@@े@@व@@ा@@ल@@ा	1
-बह	बह@@क@@ा@@त@@े	1
-बह	बह@@क@@ा@@ए@@ं@@ग@@ी	1
-बह	बह@@क@@ा@@ऊ@@ं@@ग@@ी	1
-बह	बह@@ऊ@@ं@@ग@@ा	1
-बह	बह@@ं@@ग@@े	1
-subword:बह	productivity:86	cum_freq:1705	idiosyncrasy:19.825581395348838
-पन</w>	बच@@पन	17
-पन</w>	ल@@ड@@़@@क@@पन	13
-पन</w>	ल@@ु@@च@@पन	11
-पन</w>	स@@्@@व@@पन	9
-पन</w>	स@@्@@थ@@ा@@पन	8
-पन</w>	क@@ु@@ं@@व@@ा@@र@@ी@@पन	6
-पन</w>	भ@@पन	5
-पन</w>	ब@@ा@@व@@ल@@ा@@पन	5
-पन</w>	त@@पन	5
-पन</w>	छ@@प@@्@@पन	4
-पन</w>	क@@ं@@ग@@ा@@ल@@पन	4
-पन</w>	व@@ि@@ध@@व@@ा@@पन	3
-पन</w>	ब@@ा@@व@@ल@@े@@पन	3
-पन</w>	प@@च@@पन	3
-पन</w>	छ@@ि@@न@@ा@@ल@@पन	3
-पन</w>	स@@ु@@क@@ु@@म@@ा@@र@@पन	2
-पन</w>	ल@@े@@प@@ा@@ल@@क@@पन	2
-पन</w>	म@@त@@व@@ा@@ल@@े@@पन	2
-पन</w>	भ@@ण@@्@@ड@@ा@@र@@ी@@पन	2
-पन</w>	प@@ि@@य@@क@@्@@क@@ड@@़@@पन	2
-पन</w>	त@@ि@@र@@पन	2
-पन</w>	अ@@पन	2
-पन</w>	स@@ा@@पन	1
-पन</w>	व@@े@@श@@्@@य@@ा@@पन	1
-पन</w>	र@@ई@@स@@पन	1
-पन</w>	म@@ी@@ठ@@े@@पन	1
-पन</w>	म@@ल@@व@@ा@@ल@@ा@@पन	1
-पन</w>	म@@त@@व@@ा@@ल@@ा@@पन	1
-पन</w>	भ@@ो@@ल@@े@@पन	1
-पन</w>	ब@@ा@@ल@@क@@पन	1
-पन</w>	प@@ा@@ग@@ल@@पन	1
-पन</w>	न@@ी@@च@@पन	1
-पन</w>	न@@ा@@स@@्@@त@@ि@@क@@पन	1
-पन</w>	न@@ं@@ग@@े@@पन	1
-पन</w>	न@@ं@@ग@@ा@@पन	1
-पन</w>	द@@ु@@ब@@ल@@ा@@पन	1
-पन</w>	त@@ि@@र@@्@@पन	1
-पन</w>	ज@@ी@@पन	1
-पन</w>	घ@@ु@@ं@@घ@@ल@@ा@@पन	1
-पन</w>	ग@@ं@@ज@@ा@@पन	1
-पन</w>	ख@@ो@@ट@@ा@@पन	1
-पन</w>	क@@ु@@ं@@व@@ा@@र@@पन	1
-पन</w>	क@@ड@@़@@ा@@पन	1
-पन</w>	ओ@@छ@@ा@@पन	1
-पन</w>	ए@@ल@@स@@ा@@पन	1
-पन</w>	उ@@जल@@ा@@पन	1
-subword:पन</w>	productivity:46	cum_freq:137	idiosyncrasy:2.9782608695652173
-पट</w>	क@@पट	20
-पट</w>	पट	14
-पट</w>	झ@@ट@@पट	11
-पट</w>	न@@ि@@पट	8
-पट</w>	न@@ि@@ष@@्@@क@@पट	7
-पट</w>	ल@@ि@@पट	5
-पट</w>	च@@ि@@पट	3
-पट</w>	ल@@पट	2
-पट</w>	द@@पट	1
-पट</w>	त@@ि@@ष@@्@@क@@पट	1
-पट</w>	झ@@पट	1
-पट</w>	च@@ौ@@पट	1
-subword:पट</w>	productivity:12	cum_freq:74	idiosyncrasy:6.166666666666667
-दर</w>	स@@ु@@न@@्@@दर	105
-दर</w>	आ@@दर	80
-दर</w>	अन@@्@@दर	26
-दर</w>	अन@@ा@@दर	22
-दर</w>	न@@ि@@र@@ा@@दर	12
-दर</w>	च@@ा@@दर	11
-दर</w>	स@@ि@@क@@न@@्@@दर	6
-दर</w>	ब@@न@@्@@दर	5
-दर</w>	ह@@दर	2
-दर</w>	सह@@ो@@दर	1
-दर</w>	स@@दर	1
-दर</w>	उ@@दर	1
-subword:दर</w>	productivity:12	cum_freq:272	idiosyncrasy:22.666666666666668
-दम	दम@@ि@@श@@्@@क	54
-दम	आ@@दम@@ी	19
-दम	आ@@दम@@ि@@य@@ो@@ं	12
-दम	दम@@दम@@ा	9
-दम	क@@दम@@ी@@ए@@ल	7
-दम	ए@@ब@@े@@दम@@े@@ल@@े@@क	6
-दम	अ@@दम@@ा	5
-दम	म@@दम@@न@@्@@न@@ा	2
-दम	दम@@ि@@श@@्@@क@@व@@ा@@स@@ी	2
-दम	दम@@दम@@ो@@ं	2
-दम	दम@@ड@@़@@ी	2
-दम	दम@@ड@@़@@ि@@य@@ा@@ं	2
-दम	द@@ा@@ऊ@@दम@@ु@@र	2
-दम	क@@े@@दम@@ा	2
-दम	ह@@कल@@दम@@ा	1
-दम	मन@@्@@दम@@त@@ि@@य@@ो@@ं	1
-दम	म@@दम@@े@@न@@ा	1
-दम	म@@दम@@े@@न	1
-दम	प@@स@@दम@@्@@म@@ी@@म	1
-दम	दम@@ि@@स@@्@@त@@्@@र@@ि@@ि@@क@@श@@य@@ो@@ं	1
-दम	दम@@ि@@ष@@्@@क	1
-दम	दम@@ि@@शक	1
-दम	दम@@ि@@श@@्@@क@@ी	1
-दम	दम@@र@@ि@@स	1
-दम	त@@दम@@ो@@र	1
-दम	क@@दम@@ो@@ं	1
-दम	क@@दम@@ि@@ए@@ल	1
-दम	ए@@प@@े@@स@@दम@@्@@म@@ी@@म	1
-दम	अ@@दम@@ा@@त@@ा	1
-subword:दम	productivity:29	cum_freq:141	idiosyncrasy:4.862068965517241
-तर</w>	उ@@त@@्@@तर	573
-तर</w>	भ@@ी@@तर	309
-तर</w>	उ@@तर	94
-तर</w>	ब@@ि@@तर	72
-तर</w>	स@@त@@्@@तर	64
-तर</w>	न@@ि@@र@@न@@्@@तर	37
-तर</w>	ब@@ि@@त@@्@@तर	25
-तर</w>	अन@@्@@तर	23
-तर</w>	त@@ि@@त@@्@@तर	21
-तर</w>	त@@ि@@तर	19
-तर</w>	क@@ब@@ू@@तर	11
-तर</w>	बह@@त@@्@@तर	7
-तर</w>	प@@च@@ह@@त@@्@@तर	6
-तर</w>	प@@त@@्@@तर	5
-तर</w>	प@@्@@र@@त@@्@@य@@ु@@त@@्@@तर	4
-तर</w>	न@@ि@@र@@ू@@त@@्@@तर	4
-तर</w>	तर	4
-तर</w>	त@@ि@@ह@@त@@्@@तर	4
-तर</w>	च@@ौ@@ह@@त@@्@@तर	4
-तर</w>	क@@तर	3
-तर</w>	स@@त@@ह@@त@@्@@तर	2
-तर</w>	ब@@ख@@तर	2
-तर</w>	प@@ि@@तर	2
-तर</w>	त@@ी@@तर	2
-तर</w>	छ@@ि@@ह@@त@@्@@तर	2
-तर</w>	र@@ू@@प@@ा@@न@@्@@तर	1
-तर</w>	म@@ं@@ग@@े@@तर	1
-तर</w>	ब@@क@@तर	1
-तर</w>	प@@्@@र@@त@@्@@य@@त@@्@@तर	1
-तर</w>	प@@ी@@तर	1
-तर</w>	प@@छ@@ह@@त@@्@@तर	1
-तर</w>	प@@छ@@त@@्@@तर	1
-तर</w>	त@@ि@@तर@@ब@@ि@@तर	1
-तर</w>	छ@@ि@@तर	1
-तर</w>	ए@@ब@@्@@य@@ा@@तर	1
-तर</w>	उ@@न@@ह@@त@@्@@तर	1
-तर</w>	अ@@ध@@ि@@क@@तर	1
-subword:तर</w>	productivity:37	cum_freq:1311	idiosyncrasy:35.432432432432435
-तर	प@@ि@@तर@@ो@@ं	174
-तर	प@@तर@@स	158
-तर	तर@@ा@@ई	130
-तर	त@@ि@@तर@@-	51
-तर	तर@@स	44
-तर	भ@@ी@@तर@@ी	38
-तर	उ@@तर@@ा	36
-तर	उ@@तर@@कर	31
-तर	तर@@ह	19
-तर	क@@ब@@ू@@तर@@ी	19
-तर	उ@@तर@@े	19
-तर	उ@@त@@्@@तर@@ी	18
-तर	उ@@तर@@त@@े	16
-तर	तर@@्@@श@@ी@@श	13
-तर	तर@@ा@@इ@@य@@ो@@ं	11
-तर	तर@@ा@@ज@@ू	10
-तर	उ@@त@@्@@तर@@द@@ा@@य@@ी	10
-तर	छ@@ि@@तर@@ा	9
-तर	उ@@तर@@क@@े	9
-तर	क@@ि@@र@@्@@य@@तर@@्@@ब@@ा	7
-तर	क@@ब@@ू@@तर@@ो@@ं	7
-तर	उ@@तर@@ी	7
-तर	उ@@तर@@न@@े	7
-तर	उ@@तर@@त@@ा	7
-तर	त@@ि@@त@@्@@तर@@-	6
-तर	तर@@्@@क@@श	5
-तर	तर@@ी	5
-तर	उ@@तर@@े@@ग@@ा	5
-तर	ल@@ु@@तर@@ा@@ई	4
-तर	भ@@ी@@तर@@व@@ा@@ल@@े	4
-तर	प@@ि@@तर@@ो	4
-तर	तर@@स@@ु@@स	4
-तर	तर@@ं@@ग@@ो@@ं	4
-तर	क@@तर@@न@@े	4
-तर	उ@@तर@@ा@@ई	4
-तर	उ@@त@@्@@तर@@ी@@य	4
-तर	अ@@र@@ि@@स@@्@@तर@@्@@ख@@ु@@स	4
-तर	स@@तर@@ह	3
-तर	स@@त@@्@@तर@@ह	3
-तर	भ@@ी@@तर@@व@@ा@@र	3
-तर	ब@@े@@तर@@ा@@ब@@ा	3
-तर	उ@@तर@@े@@ं@@ग@@े	3
-तर	स@@प@@्@@तर@@्@@ष@@ि	2
-तर	स@@ं@@ग@@तर@@ा@@श@@ो@@ं	2
-तर	श@@ु@@तर@@्@@म@@ु@@र@@्@@ग	2
-तर	म@@ि@@तर@@ो@@ं	2
-तर	तर@@्@@क	2
-तर	तर@@े	2
-तर	तर@@ा@@श@@े	2
-तर	तर@@ा@@ई@@य@@ो@@ं	2
-तर	तर@@ा@@इ@@य@@ा@@ं	2
-तर	तर@@फ	2
-तर	तर@@ं@@ग	2
-तर	छ@@ि@@तर@@ा@@ऊ@@ं@@ग@@ा	2
-तर	छ@@ि@@तर@@ा@@ई	2
-तर	च@@ब@@ू@@तर@@े	2
-तर	च@@ब@@ू@@तर@@ा	2
-तर	ग@@ु@@ल@@तर@@ा@@श	2
-तर	क@@तर@@ा@@न@@े	2
-तर	क@@तर@@ा@@कर	2
-तर	क@@तर@@ा	2
-तर	क@@तर@@न@@े@@व@@ा@@ल@@ो@@ं	2
-तर	उ@@तर@@ो	2
-तर	उ@@तर@@न@@े@@व@@ा@@ल@@ा	2
-तर	उ@@त@@्@@तर@@ो@@ं	2
-तर	उ@@त@@्@@तर@@व@@ा@@ल@@ी	2
-तर	उ@@त@@्@@तर@@म@@ु@@ख@@ी	2
-तर	उ@@त@@्@@तर@@-	2
-तर	स@@तर@@ह@@व@@ी@@ं	1
-तर	स@@त@@्@@तर@@ो@@ं	1
-तर	स@@त@@्@@तर@@ह@@व@@े@@ं	1
-तर	स@@त@@्@@तर@@ह@@व@@ा@@ं	1
-तर	स@@त@@ह@@त@@्@@तर@@ो@@ं	1
-तर	व@@ि@@तर@@्@@क	1
-तर	ल@@ू@@तर@@ा	1
-तर	ल@@ु@@तर@@े	1
-तर	य@@ा@@तर@@ै	1
-तर	म@@ह@@ा@@तर@@ं@@ग@@ो@@ं	1
-तर	भ@@ी@@तर@@व@@ा@@ल@@ो@@ं	1
-तर	भ@@ी@@तर@@व@@ा@@ल@@ी	1
-तर	भ@@ी@@तर@@व@@ा@@ल@@ा	1
-तर	भ@@ी@@तर@@-	1
-तर	ब@@े@@श@@तर@@ा	1
-तर	ब@@े@@तर@@्@@ब@@े@@ल	1
-तर	प@@तर@@ा	1
-तर	प@@त@@्@@तर@@ो@@ं	1
-तर	तर@@्@@श@@ी@@श@@ि@@य@@ो@@ं	1
-तर	तर@@्@@प@@ल@@ी	1
-तर	तर@@्@@त@@्@@त@@ा@@न	1
-तर	तर@@्@@त@@्@@त@@ा@@क	1
-तर	तर@@्@@त@@ा@@न	1
-तर	तर@@्@@क@@-	1
-तर	तर@@ू@@ण	1
-तर	तर@@ा@@व@@ट	1
-तर	तर@@ा@@ग@@ण	1
-तर	तर@@ल@@ा	1
-तर	तर@@क@@श	1
-तर	तर@@ं@@ग@@ो	1
-तर	तर@@ं@@ग@@े@@ं	1
-तर	त@@ि@@तर@@ब@@ि@@तर	1
-तर	छ@@ि@@तर@@ा@@त@@ा	1
-तर	ग@@ल@@तर@@ा@@श@@ो@@ं	1
-तर	क@@ि@@र@@र@@्@@य@@तर@@्@@ब@@ा	1
-तर	क@@तर@@ी	1
-तर	क@@तर@@व@@ा@@य@@ा	1
-तर	क@@तर@@न@@ा	1
-तर	क@@तर@@त@@े	1
-तर	उ@@तर@@ह@@ि@@य@@ा	1
-तर	उ@@तर@@व@@ा@@कर	1
-तर	उ@@तर@@न@@े@@व@@ा@@ल@@ी	1
-तर	उ@@तर@@त@@ी	1
-तर	उ@@त@@्@@तर@@ा@@ध@@ि@@क@@ा@@र@@ी	1
-तर	उ@@त@@्@@तर@@व@@ा@@ल@@े	1
-तर	उ@@त@@्@@तर@@द@@ा@@य@@ि@@त@@्@@व	1
-तर	अन@@्@@तर@@ध@@्@@य@@ा@@न	1
-तर	अ@@श@@तर@@ो@@त@@्@@क@@न@@म	1
-तर	अ@@र@@ि@@स@@्@@तर@@ख@@ु@@स	1
-subword:तर	productivity:117	cum_freq:1023	idiosyncrasy:8.743589743589743
-तन</w>	तन	68
-तन</w>	य@@ो@@न@@ा@@तन	66
-तन</w>	स@@न@@ा@@तन	26
-तन</w>	ब@@र@@तन	19
-तन</w>	ब@@र@@्@@तन	17
-तन</w>	स@@्@@तन	5
-तन</w>	प@@र@@ि@@व@@र@@्@@तन	3
-तन</w>	य@@तन	2
-तन</w>	क@@ी@@र@@्@@तन	2
-तन</w>	व@@े@@तन	1
-तन</w>	ब@@े@@तन	1
+रद</w>	रद	1
+रद</w>	ब@@रद	1
+subword:रद</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+मय</w>	मय	1
+मय</w>	प@@मय	1
+मय</w>	न@@मय	1
+subword:मय</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+मक</w>	ह@@मक	1
+मक</w>	मक	1
+मक</w>	ध@@मक	1
+subword:मक</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+भर	भर@@सक	1
+भर	भर@@म	1
+भर	भर@@प	1
+subword:भर	productivity:3	cum_freq:3	idiosyncrasy:1.0
+बह	बह@@स@@ब	1
+बह	बह@@र	1
+बह	बह@@क	1
+subword:बह	productivity:3	cum_freq:3	idiosyncrasy:1.0
+पन</w>	पन	1
+पन</w>	ज@@क@@पन	1
+पन</w>	च@@पन	1
+subword:पन</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+पट</w>	ल@@पट	1
+पट</w>	झ@@ट@@पट	1
+पट</w>	क@@पट	1
+subword:पट</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+दर</w>	दर	1
+दर</w>	ग@@दर	1
+दर</w>	आ@@दर	1
+subword:दर</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+दम	म@@दम@@स	1
+दम	दम@@न	1
+दम	दम@@ड	1
+subword:दम	productivity:3	cum_freq:3	idiosyncrasy:1.0
+तर</w>	ह@@तर	1
+तर</w>	बद@@तर	1
+तर</w>	उ@@तर	1
+subword:तर</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+तर	तर@@ह	1
+तर	तर@@स	1
+तर	उ@@तर@@कर	1
+subword:तर	productivity:3	cum_freq:3	idiosyncrasy:1.0
+तन</w>	व@@तन	1
 तन</w>	प@@तन	1
-तन</w>	अ@@च@@े@@तन	1
-subword:तन</w>	productivity:13	cum_freq:212	idiosyncrasy:16.307692307692307
-subword:टत</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-गत</w>	ज@@गत	159
-गत</w>	गत	33
-गत</w>	श@@र@@ण@@ा@@गत	9
-गत</w>	स@@्@@व@@ा@@गत	3
-गत</w>	आ@@ं@@गत	2
-गत</w>	ल@@ा@@गत	1
-गत</w>	भ@@ु@@गत	1
-गत</w>	ज@@ा@@गत	1
-subword:गत</w>	productivity:8	cum_freq:209	idiosyncrasy:26.125
-कल	न@@ि@@कल@@ा	169
-कल	न@@ि@@कल@@कर	150
-कल	न@@ि@@कल@@े	142
-कल	न@@ि@@कल@@ी	103
-कल	कल@@ी@@स@@ि@@य@@ा	78
-कल	न@@ि@@कल@@त@@ी	45
-कल	कल@@्@@य@@ा@@ण	41
-कल	न@@ि@@कल@@न@@े	40
-कल	न@@ि@@कल@@त@@े	32
-कल	न@@ि@@कल@@त@@ा	28
-कल	कल@@ी@@स@@ि@@य@@ा@@ओ@@ं	25
-कल	कल@@्@@प@@न@@ा	23
-कल	कल@@्@@प@@न@@ा@@ए@@ं	22
-कल	न@@ि@@कल@@े@@ग@@ा	20
-कल	न@@ि@@कल@@ी@@ं	20
-कल	न@@ि@@कल@@े@@ं@@ग@@े	15
-कल	न@@ि@@कल@@े@@ं	14
-कल	स@@ि@@कल@@ग	12
-कल	कल@@े@@ज@@े	12
-कल	न@@ि@@ष@@्@@कल@@ं@@क	11
-कल	ए@@कल@@ौ@@त@@े	10
-कल	अ@@श@@्@@कल@@ो@@न	10
-कल	स@@ा@@ं@@कल@@ो@@ं	9
-कल	स@@ं@@कल@@्@@प	9
-कल	न@@ि@@कल@@े@@ग@@ी	9
-कल	कल@@ो@@र	9
-कल	कल@@ं@@क	7
-कल	न@@ि@@कल@@े@@ं@@ग@@ी	6
-कल	कल@@्@@प@@न@@ा@@ओ@@ं	6
-कल	न@@ि@@कल@@ो	5
-कल	न@@ि@@कल@@ू@@ं@@ग@@ा	5
-कल	न@@ि@@कल@@व@@ा	4
-कल	न@@ि@@कल@@न@@ा	4
-कल	कल@@े@@ज@@ा	4
-कल	ए@@कल@@ौ@@त@@ा	4
-कल	स@@ा@@ं@@कल@@े@@ं	3
-कल	न@@ि@@कल@@ो@@ग@@े	3
-कल	न@@ि@@कल@@व@@ा@@कर	3
-कल	न@@कल@@े@@ं	3
-कल	कल@@ी@@स@@ि@@य@@ा@@ए@@ं	3
-कल	कल@@ी@@त@@ा	3
-कल	ए@@कल@@ौ@@त@@ी	3
-कल	अ@@श@@कल@@ो@@न	3
-कल	ह@@कल@@्@@य@@ा@@ह	2
-कल	न@@ि@@कल@@व@@ा@@य@@ा	2
-कल	छ@@ि@@प@@कल@@ी	2
-कल	कल@@ू@@ब	2
-कल	कल@@ी@@स@@ि@@य@@ो@@ं	2
-कल	कल@@ि@@य@@े@@ं	2
-कल	कल@@ि@@य@@ा@@ं	2
-कल	कल@@म	2
-कल	कल@@प@@त@@े	2
-कल	कल@@न@@े	2
-कल	कल@@क@@ो@@ल	2
-कल	कल@@ं@@क@@ि@@त	2
-कल	ह@@स@@्@@त@@कल@@ा	1
-कल	ह@@कल@@दम@@ा	1
-कल	स@@ा@@कल@@ो@@ं	1
-कल	न@@ि@@कल@@ू@@ं	1
-कल	न@@ि@@कल@@ा@@-@@-	1
-कल	त@@ि@@कल@@े	1
-कल	त@@ि@@कल@@ी	1
-कल	त@@ि@@कल@@ा	1
-कल	कल@@्@@ल@@ै	1
-कल	कल@@्@@प@@त@@ा	1
-कल	कल@@ू@@ह@@ी	1
-कल	कल@@ू@@ब@@ै	1
-कल	कल@@ी@@स@@्@@य@@ि@@ा@@ओ@@ं	1
-कल	कल@@ा@@ल	1
+तन</w>	तन	1
+subword:तन</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+टत</w>	ह@@टत	1
+टत</w>	प@@टत	1
+टत</w>	टत	1
+subword:टत</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+गत</w>	स@@ज@@गत	1
+गत</w>	गत	1
+गत</w>	आव@@भ@@गत	1
+subword:गत</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
 कल	कल@@ह	1
-कल	कल@@श	1
-कल	कल@@म@@द	1
-कल	कल@@प@@े@@ं@@ग@@े	1
-कल	कल@@प@@ा@@न@@े	1
-कल	कल@@प@@त@@ा	1
-कल	कल@@प@@ट@@ी	1
-कल	कल@@न@@ो	1
-subword:कल	productivity:77	cum_freq:1173	idiosyncrasy:15.233766233766234
-कम</w>	कम	49
-कम</w>	आ@@श@@्@@च@@र@@्@@य@@कम	2
-subword:कम</w>	productivity:2	cum_freq:51	idiosyncrasy:25.5
-कत</w>	म@@र@@कत	5
-कत</w>	ह@@े@@ल@@्@@कत	1
-कत</w>	र@@क@@्@@कत	1
-कत</w>	ब@@ो@@स@@्@@कत	1
-subword:कत</w>	productivity:4	cum_freq:8	idiosyncrasy:2.0
-उठ	उठ@@ा	273
-उठ	उठ@@कर	209
-उठ	उठ@@ा@@कर	134
-उठ	उठ@@े	80
-उठ	उठ@@ा@@य@@ा	58
-उठ	उठ@@ा@@ए	57
-उठ	उठ@@ा@@ई	52
-उठ	उठ@@ी	41
-उठ	उठ@@न@@े	39
-उठ	उठ@@ा@@न@@े	36
-उठ	उठ@@े@@ग@@ा	34
-उठ	उठ@@्@@ठ@@ा@@र	29
-उठ	उठ@@ा@@न@@ा	29
-उठ	उठ@@ा@@त@@ा	26
-उठ	उठ@@त@@े	24
-उठ	उठ@@त@@ा	23
-उठ	उठ@@े@@ं@@ग@@े	22
-उठ	उठ@@ो	18
-उठ	उठ@@ा@@न@@े@@व@@ा@@ल@@े	17
-उठ	उठ@@ा@@ए@@ग@@ा	17
-उठ	उठ@@े@@ं	14
-उठ	उठ@@ा@@ऊ@@ं@@ग@@ा	14
-उठ	उठ@@ा@@त@@े	13
-उठ	उठ@@ा@@ओ	11
-उठ	उठ@@त@@ी	11
-उठ	उठ@@ू@@ं@@ग@@ा	10
-उठ	उठ@@ा@@ए@@ं@@ग@@े	10
-उठ	उठ@@ा@@ए@@ं	10
-उठ	उठ@@न@@ा	10
-उठ	उठ@@े@@ग@@ी	9
-उठ	उठ@@ा@@ई@@ं	7
-उठ	उठ@@ी@@ं	6
-उठ	उठ@@े@@ं@@ग@@ी	5
-उठ	उठ@@ा@@ऊ@@ं	4
-उठ	उठ@@न@@े@@व@@ा@@ल@@ा	4
-उठ	उठ@@्@@ठ@@ा@@र@@क@@र@@्@@त@@्@@त@@ा	3
-उठ	उठ@@ा@@न@@े@@व@@ा@@ल@@ा	3
-उठ	उठ@@ू@@ं	2
-उठ	उठ@@व@@ा@@कर	2
-उठ	उठ@@न@@े@@व@@ा@@ल@@ो@@ं	2
-उठ	उठ@@क@@े	2
-उठ	उठ@@्@@ठ@@ा@@र@@र@@ू@@प@@ी	1
-उठ	उठ@@ो@@ग@@ी	1
-उठ	उठ@@े@@ं@@ग@@ा	1
-उठ	उठ@@ा@@ा@@य@@ा	1
-उठ	उठ@@ा@@य@@े	1
-उठ	उठ@@ा@@न@@ी	1
-उठ	उठ@@ा@@त@@ी	1
-उठ	उठ@@ा@@क@@े	1
-उठ	उठ@@ा@@ओ@@ग@@े	1
-उठ	उठ@@ा@@ऐ	1
-उठ	उठ@@ा@@ए@@ग@@ी	1
-उठ	उठ@@व@@ा@@ए@@ं	1
-उठ	उठ@@न@@ा@@-	1
-उठ	उठ@@त@@ी@@ं	1
-उठ	उठ@@'	1
-subword:उठ	productivity:56	cum_freq:1385	idiosyncrasy:24.732142857142858
-अप	अप@@न@@े	6464
-अप	अप@@न@@ी	2228
-अप	अप@@न@@ा	990
-अप	अप@@र@@ा@@ध	110
-अप	अप@@व@@ि@@त@@्@@र@@ा	78
-अप	अप@@म@@ा@@न	47
-अप	अप@@र@@ा@@ध@@ो@@ं	44
-अप	अप@@र@@ा@@ध@@ी	21
-अप	अप@@्@@र@@स@@न@@्@@न	19
-अप	अप@@्@@र@@ि@@य	12
-अप	अप@@ु@@ल@@्@@ल@@ो@@स	10
-अप	अप@@त@@े	10
-अप	अप@@े@@क	8
-अप	अप@@र@@ा@@ध@@ि@@य@@ो@@ं	8
-अप	अप@@न@@ा@@य@@ा	6
-अप	अप@@े@@क@@्@@ष@@ा	5
-अप	अप@@व@@ा@@द	5
-अप	अप@@्@@र@@ि@@य@@ा	4
-अप	अप@@े@@न	4
-अप	अप@@ा@@र	4
-अप	अप@@न@@ो@@ं	4
-अप	अप@@स@@्@@थ@@ि@@त	3
-अप	अप@@र@@ा@@ण	3
-अप	अप@@म@@ा@@न@@ि@@त	3
-अप	अप@@द@@्@@रव	3
-अप	अप@@ा@@स@@न@@ा	2
-अप	अप@@ा@@र@@्@@स@@क@@ि@@य@@ो@@ं	2
-अप	अप@@स@@्@@य@@ा@@ह	2
-अप	अप@@श@@्@@य	2
-अप	अप@@र@@म@@्@@प@@ा@@र	2
-अप	अप@@न@@ा@@त@@े	2
-अप	प@@व@@ि@@त@@्@@र@@ा@@न@@्@@अप@@व@@ि@@त@@्@@र@@ा	1
-अप	अप@@्@@प@@ि@@य@@ु@@स	1
-अप	अप@@ै@@र	1
-अप	अप@@े@@क@@ा	1
-अप	अप@@ु@@ल@@्@@ल@@ो@@न@@ि@@य@@ा	1
-अप	अप@@ु@@ल@@्@@ल@@य@@ो@@न	1
-अप	अप@@ी@@ह	1
-अप	अप@@ी@@क	1
-अप	अप@@ी	1
-अप	अप@@ि@@ल@@्@@ल@@े@@स	1
-अप	अप@@ा@@ल@@े@@क	1
-अप	अप@@ा@@न@@ा	1
-अप	अप@@स@@्@@व@@ा@@र@@्@@थ@@ी	1
-अप	अप@@स@@्@@थ@@्@@त@@ि	1
-अप	अप@@व@@ि@@त@@्@@र@@ो@@ं	1
-अप	अप@@र@@्@@स@@त@@क@@ी	1
-अप	अप@@र@@्@@ण	1
-अप	अप@@र@@ि@@च@@ि@@त	1
-अप	अप@@र@@ा@@ध@@ो	1
-अप	अप@@र@@ा@@ध@@ि@@न@@ी	1
-अप	अप@@प	1
-अप	अप@@न@@े@@े	1
-अप	अप@@न@@े@@ी	1
-अप	अप@@न@@े@@ण@@ि	1
-अप	अप@@न@@े@@छ	1
-अप	अप@@न@@ा@@कर	1
-अप	अप@@न@@ा@@ए@@ग@@ा	1
-अप	अप@@ज@@्@@ञ@@ा@@ओ@@ं	1
-अप	अप@@ज@@ा@@ऊ	1
-अप	अप@@ज	1
-subword:अप	productivity:61	cum_freq:10135	idiosyncrasy:166.14754098360655
-subword:ya</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:vishvas</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:vya	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:utt	productivity:0	cum_freq:0	idiosyncrasy:0
+कल	कल@@म	1
+कल	कल@@पत	1
+subword:कल	productivity:3	cum_freq:3	idiosyncrasy:1.0
+कम</w>	र@@कम	1
+कम</w>	च@@कम	1
+कम</w>	कम	1
+subword:कम</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+कत</w>	स@@कत	1
+कत</w>	प@@कत	1
+कत</w>	कत	1
+subword:कत</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+उठ	उठ@@न	1
+उठ	उठ@@त	1
+उठ	उठ@@क	1
+subword:उठ	productivity:3	cum_freq:3	idiosyncrasy:1.0
+अप	अप@@व	1
+अप	अप@@र	1
+अप	अप@@म	1
+subword:अप	productivity:3	cum_freq:3	idiosyncrasy:1.0
+ya</w>	v@@e@@sh@@ya	1
+ya</w>	f@@ira@@ya	1
+ya</w>	da@@ya	1
+subword:ya</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+vishvas</w>	vishvas	1
+vishvas</w>	a@@vishvas	1
+vishvas</w>	a@@a@@vishvas	1
+subword:vishvas</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+vya	vya@@r@@t@@h	1
+vya	vya@@bhai@@cha@@r	1
+vya	vya@@a@@bhai@@cha@@r	1
+subword:vya	productivity:3	cum_freq:3	idiosyncrasy:1.0
+utt	utt@@t@@e	1
+utt	utt@@m	1
+utt	utt@@e	1
+subword:utt	productivity:3	cum_freq:3	idiosyncrasy:1.0
 subword:ura	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:samaj	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:su	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:see</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ree</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:pura	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:pi	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:maha	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:mee</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:me	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:laj	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:lata</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:jee	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ira	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:in	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:gya	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:gra	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:ga</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:dan</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:dal	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:doo	productivity:0	cum_freq:0	idiosyncrasy:0
+samaj	samaj@@h@@e	1
+samaj	samaj@@h@@da@@r	1
+samaj	samaj@@h	1
+subword:samaj	productivity:3	cum_freq:3	idiosyncrasy:1.0
+su	su@@na@@sa@@n	1
+su	su@@kh	1
+su	b@@e@@su@@dha	1
+subword:su	productivity:3	cum_freq:3	idiosyncrasy:1.0
+see</w>	vishva@@see	1
+see</w>	da@@see	1
+see</w>	a@@la@@see	1
+subword:see</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+ree</w>	kh@@ree	1
+ree</w>	ch@@o@@ree	1
+ree</w>	ba@@ai@@ree	1
+subword:ree</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+pura	pura@@ne	1
+pura	pura@@na	1
+pura	pura@@n@@ee	1
+subword:pura	productivity:3	cum_freq:3	idiosyncrasy:1.0
+pi	pi@@yasa	1
+pi	pi@@r@@y	1
+pi	pi@@chh@@l@@ee	1
+subword:pi	productivity:3	cum_freq:3	idiosyncrasy:1.0
+maha	maha@@yaja@@k@@on	1
+maha	maha@@yaja@@k	1
+maha	maha@@n	1
+subword:maha	productivity:3	cum_freq:3	idiosyncrasy:1.0
+mee</w>	san@@ya@@mee	1
+mee</w>	s@@va@@mee	1
+mee</w>	dhar@@mee	1
+subword:mee</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+me	s@@e@@n@@ta@@me@@n@@t	1
+me	me@@la	1
+me	me@@l	1
+subword:me	productivity:3	cum_freq:3	idiosyncrasy:1.0
+laj	laj@@ja@@it	1
+laj	laj@@j@@a	1
+laj	laj@@ata	1
+subword:laj	productivity:3	cum_freq:3	idiosyncrasy:1.0
+lata</w>	sa@@ha@@na@@sha@@ee@@lata	1
+lata</w>	nir@@ba@@lata	1
+lata</w>	du@@r@@ba@@lata	1
+subword:lata</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+jee	jee@@vat@@on	1
+jee	jee@@vat@@e	1
+jee	jee@@a@@vi@@t	1
+subword:jee	productivity:3	cum_freq:3	idiosyncrasy:1.0
+ira	g@@ira@@kar	1
+ira	f@@ira@@ya	1
+ira	f@@ira@@v	1
+subword:ira	productivity:3	cum_freq:3	idiosyncrasy:1.0
+in	in@@kar	1
+in	ch@@in@@t@@a	1
+in	bh@@u@@in@@do@@l	1
+subword:in	productivity:3	cum_freq:3	idiosyncrasy:1.0
+gya	pra@@at@@i@@gya@@a	1
+gya	p@@rat@@i@@gya@@a	1
+gya	gya@@an	1
+subword:gya	productivity:3	cum_freq:3	idiosyncrasy:1.0
+gra	gra@@ha@@n	1
+gra	b@@an@@d@@ee@@gra@@h	1
+gra	an@@u@@gra@@h	1
+subword:gra	productivity:3	cum_freq:3	idiosyncrasy:1.0
+ga</w>	pa@@ka@@d@@va@@a@@e@@ga	1
+ga</w>	ma@@r@@e@@ga	1
+ga</w>	da@@ro@@ga	1
+subword:ga</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+dan</w>	va@@ra@@dan	1
+dan</w>	dan	1
+dan</w>	ba@@ra@@dan	1
+subword:dan</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+dal	dal@@e@@n	1
+dal	dal@@e	1
+dal	dal@@an@@a	1
+subword:dal	productivity:3	cum_freq:3	idiosyncrasy:1.0
+doo	s@@va@@r@@ga@@doo@@t	1
+doo	doo@@t	1
+doo	doo@@r	1
+subword:doo	productivity:3	cum_freq:3	idiosyncrasy:1.0
 subword:chchh	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:bua	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:bhai	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:anga	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:and</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:achchh	productivity:0	cum_freq:0	idiosyncrasy:0
-हल</w>	ट@@हल	89
-हल</w>	क@@ो@@ल@@ा@@हल	33
-हल</w>	हल	19
-हल</w>	म@@हल	13
-हल</w>	स@@े@@व@@ा@@ट@@हल	2
-हल</w>	ह@@ल@@ा@@हल	1
-हल</w>	च@@ौ@@प@@हल	1
-हल</w>	अ@@हल	1
-subword:हल</w>	productivity:8	cum_freq:159	idiosyncrasy:19.875
-subword:सहन</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-सहन	सहन@@े	9
-सहन	सहन@@श@@ी@@ल@@त@@ा	8
-सहन	सहन@@ी	3
-सहन	सहन@@ा	3
-सहन	सहन@@े@@व@@ा@@ल@@ो@@ं	2
-सहन	सहन@@श@@ी@@ल	1
-subword:सहन	productivity:6	cum_freq:26	idiosyncrasy:4.333333333333333
-सह</w>	फ@@सह	73
-सह</w>	सह	37
-सह</w>	त@@ि@@प@@्@@सह	2
-सह</w>	स@@े@@ल@@सह	1
-subword:सह</w>	productivity:4	cum_freq:113	idiosyncrasy:28.25
-सक</w>	उ@@सक	10
-सक</w>	न@@प@@ु@@ं@@सक	4
-सक</w>	उ@@प@@ा@@सक	4
-सक</w>	ह@@ि@@ं@@सक	3
-सक</w>	भर@@सक	2
-सक</w>	ह@@ा@@सक	1
+bua	nir@@bua@@ddh	1
+bua	bua@@ddh	1
+bua	bua@@d@@dh@@mai@@an	1
+subword:bua	productivity:3	cum_freq:3	idiosyncrasy:1.0
+bhai	vya@@bhai@@cha@@r	1
+bhai	vya@@a@@bhai@@cha@@r	1
+bhai	bhai@@y@@o	1
+subword:bhai	productivity:3	cum_freq:3	idiosyncrasy:1.0
+anga	l@@anga@@d@@e	1
+anga	k@@anga@@l@@on	1
+anga	k@@anga@@l	1
+subword:anga	productivity:3	cum_freq:3	idiosyncrasy:1.0
+and</w>	g@@ha@@m@@and	1
+and</w>	d@@and	1
+and</w>	an@@and	1
+subword:and</w>	productivity:3	cum_freq:3	idiosyncrasy:1.0
+achchh	achchh@@ee	1
+achchh	achchh@@e	1
+achchh	achchh@@a	1
+subword:achchh	productivity:3	cum_freq:3	idiosyncrasy:1.0
+हल</w>	हल	1
+हल</w>	न@@हल	1
+subword:हल</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+सहन</w>	सहन	1
+सहन</w>	अ@@सहन	1
+subword:सहन</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+सहन	सहन@@शक	1
+सहन	सहन@@श	1
+subword:सहन	productivity:2	cum_freq:2	idiosyncrasy:1.0
+सह</w>	सह	1
+सह</w>	अ@@सह	1
+subword:सह</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
 सक</w>	सक	1
-सक</w>	प@@ा@@सक	1
-सक</w>	न@@ं@@प@@ु@@सक	1
-subword:सक</w>	productivity:9	cum_freq:27	idiosyncrasy:3.0
-subword:शत</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-शक</w>	उ@@प@@द@@े@@शक	19
-शक</w>	म@@े@@शक	15
-शक</w>	श@@ी@@शक	7
-शक</w>	न@@ा@@शक	5
-शक</w>	श@@े@@शक	1
-शक</w>	श@@ा@@शक	1
-शक</w>	दम@@ि@@शक	1
-subword:शक</w>	productivity:7	cum_freq:49	idiosyncrasy:7.0
-लज</w>	न@@ि@@र@@्@@लज	1
-subword:लज</w>	productivity:1	cum_freq:1	idiosyncrasy:1.0
-लख	ज@@े@@लख@@ा@@न@@े	5
-लख	म@@लख@@ु@@स	1
-लख	ब@@ि@@लख@@कर	1
-लख	च@@ु@@ग@@लख@@ो@@र	1
-subword:लख	productivity:4	cum_freq:8	idiosyncrasy:2.0
-रण</w>	क@@ा@@रण	1625
-रण</w>	स@@्@@म@@रण	288
-रण</w>	स@@ा@@ध@@ा@@रण	55
-रण</w>	श@@रण	44
-रण</w>	ध@@ा@@रण	25
-रण</w>	अ@@क@@ा@@रण	12
-रण</w>	प@@्@@रण	6
-रण</w>	अन@@ु@@क@@रण	6
-रण</w>	म@@रण	4
-रण</w>	अन@@्@@त@@े@@क@@रण	4
-रण</w>	क@@रण	3
-रण</w>	व@@ि@@व@@रण	2
-रण</w>	उ@@द@@ा@@ह@@रण	2
-रण</w>	स@@्@@म@@्@@रण	1
-रण</w>	स@@्@@म@@ा@@रण	1
-रण</w>	स@@ा@@घ@@ा@@रण	1
-रण</w>	स@@र@@्@@व@@स@@ा@@ध@@ा@@रण	1
-रण</w>	प@@ु@@क@@ा@@रण	1
-रण</w>	न@@ि@@व@@ा@@रण	1
-रण</w>	च@@रण	1
-रण</w>	क@@े@@स@@्@@र@@ा@@रण	1
-रण</w>	अन@@ु@@स@@रण	1
-subword:रण</w>	productivity:22	cum_freq:2085	idiosyncrasy:94.77272727272727
-रज</w>	ध@@ी@@रज	62
-रज</w>	स@@ू@@रज	7
-रज</w>	ग@@रज	5
-रज</w>	ज@@ह@@रज	1
-subword:रज</w>	productivity:4	cum_freq:75	idiosyncrasy:18.75
-subword:यभ</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-यत</w>	बह@@ु@@त@@ा@@यत	59
-यत</w>	न@@ि@@यत	50
-यत</w>	ग@@ो@@ल@@ि@@यत	3
-यत</w>	ग@@ो@@ल@@्@@यत	2
-यत</w>	सह@@ा@@यत	1
-यत</w>	प@@ं@@च@@ा@@यत	1
-यत</w>	ग@@ा@@ल@@ि@@यत	1
-यत</w>	क@@ि@@र@@्@@यत	1
-यत</w>	उ@@द@@्@@यत	1
-यत</w>	अ@@र@@्@@थ@@ा@@त@@्@@न@@ि@@यत	1
-subword:यत</w>	productivity:10	cum_freq:120	idiosyncrasy:12.0
-subword:मरत</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-मर</w>	मर	404
-मर</w>	क@@मर	88
-मर</w>	स@@ं@@ग@@म@@र@@्@@मर	4
-मर</w>	स@@ं@@ग@@म@@र@@मर	4
-मर</w>	अ@@मर	2
-subword:मर</w>	productivity:5	cum_freq:502	idiosyncrasy:100.4
-मन	मन@@ु@@ष@@्@@य	1315
-मन	मन@@ु@@ष@@्@@य@@ो@@ं	391
-मन	मन@@्@@द@@ि@@र	210
-मन	मन@@श@@्@@श@@े	123
-मन	मन@@स@@ा	67
-मन	मन@@्@@नत	47
-मन	मन@@ा	25
-मन	मन@@भ@@ा@@व@@न@@ी	20
-मन	मन@@ो@@ं	18
-मन	मन@@्@@न@@त@@े@@ं	17
-मन	मन@@ो@@ह@@र	16
-मन	स@@ा@@मन@@े	15
-मन	मन@@्@@न@@ा	15
-मन	मन@@्@@त@@्@@र@@ी	15
-मन	मन@@ा@@य@@ा	15
-मन	मन@@भ@@ा@@व@@न@@े	15
-मन	मन@@भ@@ा@@ऊ	14
-मन	मन@@व@@ा@@ल@@ो@@ं	13
-मन	मन@@ु@@ष@@्@@य@@त@@्@@व	10
-मन	मन@@श@@्@@श@@े@@ई	10
-मन	मन@@श@@्@@श@@े@@इ@@य@@ो@@ं	10
-मन	मन@@्@@न@@त@@ो@@ं	9
-मन	मन@@ह@@े@@म	8
-मन	मन@@ा@@न@@े	7
-मन	मन@@म@@ा@@न@@े	7
-मन	मन@@म@@ा@@न@@ा	7
-मन	मन@@्@@द@@ि@@र@@ो@@ं	6
-मन	मन@@्@@त@@्@@र@@ि@@य@@ो@@ं	6
-मन	र@@ा@@ज@@मन@@्@@द@@ि@@र	5
-मन	मन@@ा@@त@@े	5
-मन	मन@@व@@ा@@ल@@े	5
-मन	च@@ू@@मन@@े	5
-मन	मन@@ो@@र@@थ	4
-मन	मन@@भ@@ा@@व@@न@@ा	4
-मन	घ@@ू@@मन@@े@@व@@ा@@ल@@े	4
-मन	मन@@्@@त@@्@@र@@ा	3
-मन	मन@@े	3
-मन	जन@@्@@मन@@े	3
-मन	ह@@मन@@े	2
-मन	स@@ा@@मन@@ा	2
-मन	श@@ल@@्@@मन@@े@@स@@े@@र	2
-मन	मन@@ो@@ह@@र@@त@@ा	2
-मन	मन@@ा@@व@@े@@ं	2
-मन	मन@@ा@@न@@ा	2
-मन	मन@@ा@@कर	2
-मन	मन@@स@@ा@@ए@@ं	2
-मन	मन@@श@@्@@श@@ि@@ह	2
-मन	मन@@म@@ा@@न@@ी	2
-मन	क@@ा@@मन@@ा	2
-मन	आ@@मन@@े	2
-मन	र@@ा@@ज@@मन@@्@@त@@्@@र@@ी	1
-मन	मन@@्@@न@@त@@े	1
-मन	मन@@्@@दम@@त@@ि@@य@@ो@@ं	1
-मन	मन@@्@@द@@ब@@ु@@द@@्@@ध@@ि	1
-मन	मन@@्@@त@@्@@र@@ो@@ं	1
-मन	मन@@ो@@र@@थ@@ो@@ं	1
-मन	मन@@ू@@ह@@ा	1
-मन	मन@@ु@@ह@@ो@@त@@व@@ा@@स@@ी	1
-मन	मन@@ु@@ष@@्@@य@@ो	1
-मन	मन@@ु@@ष@@्@@य@@ा@@ो@@ं	1
-मन	मन@@ु@@ष@@्@@य@@ा	1
-मन	मन@@ु@@ष@@्@@य@@व@@ं@@श@@ि@@य@@ो@@ं	1
-मन	मन@@ु@@ष@@्@@य@@म@@ा@@त@@्@@र@@ा	1
-मन	मन@@ु@@ष@@्@@य@@-	1
-मन	मन@@ा@@ह@@े@@म	1
-मन	मन@@ा@@ह@@ी	1
-मन	मन@@ा@@स@@ो@@न	1
-मन	मन@@ा@@ओ	1
-मन	मन@@ा@@ए@@ं@@ग@@े	1
-मन	मन@@ा@@ए@@ं	1
-मन	मन@@ा@@ऊ@@ं@@ग@@ा	1
-मन	मन@@श@@्@@श@@्@@ह@@ि	1
-मन	मन@@श@@्@@श@@े@@व@@ा@@ल@@े	1
-मन	मन@@श@@्@@श@@े@@क@@े	1
-मन	मन@@श@@्@@श@@े@@इ@@श@@े@@ं	1
-मन	मन@@श@@्@@श@@े@@ं	1
-मन	मन@@श@@्@@श@@ि@@य@@ो@@ं	1
-मन	मन@@व@@ा@@ल@@ो	1
-मन	मन@@व@@ा@@ल@@ी	1
-मन	मन@@भ@@व@@न@@ा	1
-मन	मन@@फ@@ि@@र@@ा@@व	1
-मन	मन@@न@@े	1
-मन	मन@@क@@ी	1
-मन	मन@@-	1
-मन	म@@े@@मन@@ो@@ं	1
-मन	म@@ि@@श@@्@@मन@@्@@न@@ा	1
-मन	म@@त@@ि@@मन@@्@@द	1
-मन	भर@@मन@@े@@व@@ा@@ल@@े	1
-मन	भ@@ल@@मन@@स@@ी	1
-मन	ध@@ू@@मन@@े	1
-मन	द@@ु@@ष@@्@@क@@ा@@मन@@ा	1
-मन	द@@ल@@मन@@ू@@त@@ा	1
-मन	थ@@ा@@मन@@े	1
-मन	त@@े@@मन@@ी	1
-मन	त@@ु@@मन@@े	1
-मन	ज@@मन@@े	1
-मन	च@@ू@@मन@@ा	1
-मन	च@@ि@@मन@@ी	1
-मन	घ@@ू@@मन@@े@@व@@ा@@ल@@ी	1
-मन	घ@@ू@@मन@@े@@व@@ा@@ल@@ा	1
-मन	क@@ा@@मन@@ा@@ओ@@ं	1
-मन	उ@@त@@्@@मन@@्@@न	1
-मन	आ@@मन@@े@@-	1
-subword:मन	productivity:103	cum_freq:2549	idiosyncrasy:24.74757281553398
-मत</w>	मत	262
-मत</w>	म@@र@@म@@्@@मत	51
-मत</w>	सह@@मत	4
-मत</w>	सम@@्@@मत	2
-मत</w>	ह@@ु@@क@@ू@@मत	1
-मत</w>	ह@@म@@्@@मत	1
-मत</w>	ब@@ा@@श@@मत	1
-subword:मत</w>	productivity:7	cum_freq:322	idiosyncrasy:46.0
-subword:मज</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:भद</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:भक</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-बर</w>	ब@@र@@ा@@बर	60
-बर</w>	क@@बर	29
-बर</w>	ग@@ो@@बर	7
-बर</w>	स@@न@@ौ@@बर	4
-बर</w>	ब@@ा@@र@@बर	2
-बर</w>	ह@@े@@बर	1
-बर</w>	स@@ा@@बर	1
+सक</w>	भर@@सक	1
+subword:सक</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+शत</w>	शत	1
+शत</w>	द@@ह@@शत	1
+subword:शत</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+शक</w>	सहन@@शक	1
+शक</w>	शक	1
+subword:शक</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+लज</w>	लज	1
+लज</w>	इ@@लज	1
+subword:लज</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+लख	लख@@न	1
+लख	लख@@त	1
+subword:लख	productivity:2	cum_freq:2	idiosyncrasy:1.0
+रण</w>	आव@@रण	1
+रण</w>	आ@@द@@रण	1
+subword:रण</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+रज</w>	रज	1
+रज</w>	म@@रज	1
+subword:रज</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+यभ</w>	यभ	1
+यभ</w>	भ@@यभ	1
+subword:यभ</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+यत</w>	यत	1
+यत</w>	भ@@यत	1
+subword:यत</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+मरत</w>	मरत	1
+मरत</w>	अ@@मरत	1
+subword:मरत</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+मर</w>	मर	1
+मर</w>	अ@@मर	1
+subword:मर</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+मन	मन@@स	1
+मन	मन@@म	1
+subword:मन	productivity:2	cum_freq:2	idiosyncrasy:1.0
+मत</w>	मत	1
+मत</w>	त@@मत	1
+subword:मत</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+मज</w>	मज	1
+मज</w>	क@@मज	1
+subword:मज</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+भद</w>	भद	1
+भद</w>	अ@@भद	1
+subword:भद</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+भक</w>	भक	1
+भक</w>	अ@@भक	1
+subword:भक</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
 बर</w>	बर	1
-बर</w>	ब@@ा@@र@@ा@@बर	1
-बर</w>	न@@बर	1
-बर</w>	ख@@बर	1
-subword:बर</w>	productivity:11	cum_freq:108	idiosyncrasy:9.818181818181818
-subword:बब</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-बच	बच@@ा	183
-बच	बच@@्@@च@@े	146
-बच	बच@@े	118
-बच	बच@@्@@च@@ो@@ं	91
-बच	बच@@्@@च@@ा	73
-बच	बच@@ा@@य@@ा	48
-बच	बच@@े@@ग@@ा	39
-बच	बच@@ा@@ए	32
-बच	ब@@ा@@ल@@बच@@्@@च@@ो@@ं	28
-बच	बच@@ा@@ए@@ग@@ा	27
-बच	बच@@ा@@त@@ा	26
-बच	बच@@ा@@न@@े	21
-बच	ब@@ा@@ल@@बच@@्@@च@@े	18
-बच	बच@@पन	17
-बच	बच@@न@@े	17
-बच	बच@@ी	16
-बच	बच@@कर	15
-बच	बच@@ा@@व	13
-बच	बच@@ा@@न@@ा	10
-बच	बच@@े@@ं@@ग@@े	8
-बच	बच@@ा@@न@@े@@व@@ा@@ल@@ा	8
-बच	बच@@ा@@ऊ@@ं@@ग@@ा	8
-बच	बच@@त@@ा	7
-बच	बच@@े@@ग@@ी	6
-बच	बच@@ा@@ओ	6
-बच	बच@@्@@च@@ी	5
-बच	बच@@ो@@ग@@े	4
-बच	बच@@ा@@कर	4
-बच	बच@@्@@च@@ो	2
-बच	बच@@्@@च@@ि@@य@@ो@@ं	2
-बच	बच@@ू@@ं@@ग@@ा	2
-बच	बच@@ा@@ओ@@ग@@े	2
-बच	बच@@ा@@ऊ@@ं	2
-बच	बच@@ा@@ई	2
-बच	बच@@न	2
-बच	बच@@त@@े	2
-बच	बच@@्@@च@@े@@व@@ा@@ल@@ो@@ं	1
-बच	बच@@्@@च@@े@@व@@ा@@ल@@ो	1
-बच	बच@@्@@च@@े@@व@@ा@@ल@@ी	1
-बच	बच@@्@@च@@ा@@-	1
-बच	बच@@्@@च	1
-बच	बच@@े@@ं@@ग@@ी	1
-बच	बच@@े@@ं	1
-बच	बच@@ू@@ग@@ा	1
-बच	बच@@ा@@न	1
-बच	बच@@ा@@त@@े	1
-बच	बच@@ा@@ए@@ं	1
-बच	बच@@ल@@व@@ा	1
-बच	बच@@न@@ो@@ं	1
-बच	बच@@त@@ी	1
-subword:बच	productivity:50	cum_freq:1024	idiosyncrasy:20.48
-subword:फस</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-फल</w>	फल	307
-फल</w>	स@@ु@@फल	26
-फल</w>	प@@्@@र@@त@@ि@@फल	26
-फल</w>	न@@ि@@ष@@्@@फल	26
-फल</w>	स@@फल	19
-फल</w>	द@@ू@@द@@ा@@फल	3
-फल</w>	अन@@्@@त@@फल	2
-subword:फल</w>	productivity:7	cum_freq:409	idiosyncrasy:58.42857142857143
-पत</w>	स@@ा@@र@@पत	3
-पत</w>	स@@पत	1
-पत</w>	र@@ी@@पत	1
-पत</w>	य@@ह@@ो@@श@@ा@@पत	1
-पत</w>	ब@@ि@@पत	1
-पत</w>	पत	1
-पत</w>	न@@ा@@पत	1
-पत</w>	द@@ी@@पत	1
-subword:पत</w>	productivity:8	cum_freq:10	idiosyncrasy:1.25
-नन</w>	ज@@व@@ा@@नन	1
-subword:नन</w>	productivity:1	cum_freq:1	idiosyncrasy:1.0
-नत</w>	मन@@्@@नत	47
-नत</w>	अन@@ग@@ि@@नत	5
-नत</w>	आ@@स@@नत	3
-नत</w>	म@@ि@@ह@@नत	1
-नत</w>	ज@@म@@ा@@नत	1
-नत</w>	क@@नत	1
-subword:नत</w>	productivity:6	cum_freq:58	idiosyncrasy:9.666666666666666
-नक</w>	भ@@य@@ा@@नक	37
-नक</w>	अ@@च@@ा@@नक	34
-नक</w>	नक	3
-नक</w>	उ@@नक	2
-नक</w>	भ@@नक	1
-subword:नक</w>	productivity:5	cum_freq:77	idiosyncrasy:15.4
-धर</w>	उ@@धर	75
-धर</w>	इ@@धर	51
-धर</w>	धर	38
-धर</w>	क@@ि@@धर	12
-धर</w>	ज@@ि@@धर	10
-धर</w>	अ@@धर	2
-धर</w>	स@@ु@@धर	1
-धर</w>	व@@ि@@ष@@धर	1
-धर</w>	जल@@न@@्@@धर	1
-धर</w>	आ@@धर	1
-subword:धर</w>	productivity:10	cum_freq:192	idiosyncrasy:19.2
-धम</w>	धम	38
-धम</w>	अ@@धम	6
-धम</w>	व@@ि@@धम	1
-धम</w>	ऊ@@धम	1
-धम</w>	उ@@धम	1
-धम</w>	अ@@र@@्@@धम	1
-subword:धम</w>	productivity:6	cum_freq:48	idiosyncrasy:8.0
-थर</w>	प@@त@@्@@थर	210
-थर</w>	सम@@थर	5
-थर</w>	स@@ा@@थर	1
-थर</w>	म@@त@@्@@थर	1
+बर</w>	घ@@बर	1
+subword:बर</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+बब</w>	बब	1
+बब</w>	आ@@ग@@बब	1
+subword:बब</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+बच	बच@@कर	1
+बच	बच@@क	1
+subword:बच	productivity:2	cum_freq:2	idiosyncrasy:1.0
+फस</w>	फस	1
+फस</w>	अ@@फस	1
+subword:फस</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+फल</w>	फल	1
+फल</w>	अ@@स@@फल	1
+subword:फल</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+पत</w>	ग@@पत	1
+पत</w>	कल@@पत	1
+subword:पत</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+नन</w>	नन	1
+नन</w>	आ@@नन	1
+subword:नन</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+नत</w>	ह@@नत	1
+नत</w>	ध@@नत	1
+subword:नत</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+नक</w>	नक	1
+नक</w>	इ@@नक	1
+subword:नक</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+धर</w>	धर	1
+धर</w>	अ@@धर	1
+subword:धर</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+धम</w>	धम	1
+धम</w>	अ@@धम	1
+subword:धम</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+थर</w>	प@@थर	1
 थर</w>	थ@@र@@थर	1
-subword:थर</w>	productivity:5	cum_freq:218	idiosyncrasy:43.6
-तव</w>	व@@ा@@स@@्@@तव	4
-subword:तव</w>	productivity:1	cum_freq:4	idiosyncrasy:4.0
-टकर</w>	ल@@ौ@@टकर	68
-टकर</w>	क@@ा@@टकर	27
-टकर</w>	ल@@ू@@टकर	13
-टकर</w>	प@@ी@@टकर	12
-टकर</w>	फ@@ू@@टकर	10
-टकर</w>	छ@@ू@@टकर	9
-टकर</w>	छ@@ा@@ं@@टकर	9
-टकर</w>	ह@@टकर	6
-टकर</w>	ल@@े@@टकर	6
-टकर</w>	प@@ल@@टकर	6
-टकर</w>	झ@@प@@टकर	6
-टकर</w>	ड@@ा@@ं@@टकर	5
-टकर</w>	ल@@ि@@प@@टकर	4
-टकर</w>	फ@@टकर	4
-टकर</w>	ट@@ू@@टकर	4
-टकर</w>	उ@@ल@@टकर	4
-टकर</w>	ल@@प@@े@@टकर	3
-टकर</w>	ब@@ा@@ं@@टकर	3
-टकर</w>	ब@@टकर	2
-टकर</w>	घ@@स@@ी@@टकर	2
-टकर</w>	क@@ू@@टकर	2
-टकर</w>	ल@@ै@@टकर	1
-टकर</w>	ल@@ु@@टकर	1
-टकर</w>	म@@ि@@टकर	1
-टकर</w>	म@@ा@@र@@प@@ी@@टकर	1
-टकर</w>	प@@ा@@टकर	1
-टकर</w>	प@@टकर	1
-टकर</w>	द@@प@@टकर	1
-टकर</w>	छ@@ु@@टकर	1
-टकर</w>	छ@@टकर	1
-टकर</w>	छ@@ं@@ा@@टकर	1
-टकर</w>	घ@@ो@@ं@@टकर	1
-टकर</w>	घ@@टकर	1
-subword:टकर</w>	productivity:33	cum_freq:217	idiosyncrasy:6.575757575757576
-जल	जल@@जल@@ा@@ह@@ट	96
-जल	जल@@ा@@य@@ा	48
-जल	जल@@प@@ा@@ई	44
-जल	जल@@ा	43
-जल	जल@@ा@@ए	39
-जल	जल@@्@@ल@@ा@@द@@ो@@ं	35
-जल	ब@@ि@@जल@@ी	31
-जल	जल@@ा@@न@@े	22
-जल	जल@@त@@े	20
-जल	जल@@ा@@त@@े	18
-जल	जल@@त@@ी	17
-जल	जल@@ा@@न@@ा	15
-जल	उ@@जल@@े	15
-जल	जल@@्@@द@@ी	14
-जल	जल@@प@@्@@र@@ल@@य	14
-जल	जल@@ा@@कर	13
-जल	जल@@न@@े	13
-जल	जल@@त@@ा	13
-जल	जल@@ा@@ई	11
-जल	उ@@जल@@ा	11
-जल	जल@@े	9
-जल	जल@@कर	9
-जल	जल@@ा@@श@@य@@ो@@ं	8
-जल	जल@@-	6
-जल	उ@@जल@@ी	6
-जल	ब@@ि@@जल@@ि@@य@@ा@@ं	5
-जल	जल@@्@@द	5
-जल	जल@@फ@@ा@@टक	5
-जल	जल@@ा@@त@@ा	4
-जल	जल@@च@@र@@ी	3
-जल	ख@@ु@@जल@@ी	3
-जल	म@@ह@@ा@@जल@@र@@ा@@श@@ि	2
-जल	ब@@ि@@जल@@ि@@य@@ो@@ं	2
-जल	जल@@ू@@ं@@ग@@ा	2
-जल	जल@@ा@@ह@@ट	2
-जल	जल@@ा@@न@@े@@व@@ा@@ल@@े	2
-जल	जल@@ा@@त@@ी@@ं	2
-जल	जल@@ा@@त@@ी	2
-जल	जल@@ा@@ए@@ग@@ा	2
-जल	जल@@ा@@ए@@ं@@ग@@े	2
-जल	जल@@ा@@ए@@ं	2
-जल	जल@@प@@ा@@इ@@य@@ो@@ं	2
-जल	जल@@न@@ि@@ध@@ि	2
-जल	जल@@न@@व@@ा@@ल@@ा	2
-जल	जल@@जन@@्@@त@@ु	2
-जल	ल@@जल@@ज@@ा@@ह@@ट	1
-जल	य@@ि@@जल@@ी@@आ	1
-जल	जल@@ौ@@य@@ा	1
-जल	जल@@े@@ग@@ा	1
-जल	जल@@े@@ं@@ग@@े	1
-जल	जल@@े@@ं	1
-जल	जल@@ा@@श@@य	1
-जल	जल@@ा@@य@@ा@@ं	1
-जल	जल@@ा@@न@@े@@व@@ा@@ल@@ा	1
-जल	जल@@ा@@ओ	1
-जल	जल@@ा@@ए@@ग@@ी	1
-जल	जल@@ा@@ऊ@@ं@@ग@@ा	1
-जल	जल@@ा@@ऊ@@ं	1
-जल	जल@@व@@ृ@@ष@@्@@ट@@ि	1
-जल	जल@@व@@ा@@ल@@े	1
-जल	जल@@व@@ा@@कर	1
-जल	जल@@र@@ह@@ि@@त	1
-जल	जल@@य@@ा@@त@@्@@र@@ी	1
-जल	जल@@य@@ा@@त@@्@@र@@ा	1
-जल	जल@@भर@@े	1
-जल	जल@@प@@ा@@न	1
-जल	जल@@प@@ा@@त@@्@@र@@ो@@ं	1
-जल	जल@@प@@ा@@इ@@स@@ो@@ं	1
-जल	जल@@न@@्@@धर	1
-जल	जल@@न@@श@@ी@@ल	1
-जल	जल@@न@@व@@ा@@ल@@े	1
-जल	जल@@ध@@ा@@र@@ा@@ओ@@ं	1
-जल	जल@@जन@@्@@त@@ु@@ओ@@ं	1
-जल	जल@@चर	1
-जल	जल@@ग@@ज	1
-जल	जल@@क@@ु@@क@@्@@क@@ु@@ट	1
-जल	जल@@क@@ु@@क@@्@@क@@ट	1
-जल	ख@@ु@@जल@@ा@@न@@े	1
-जल	उ@@जल@@ा@@पन	1
-subword:जल	productivity:79	cum_freq:657	idiosyncrasy:8.316455696202532
-जन	जन@@्@@म	111
-जन	जन@@ो@@ं	77
-जन	जन@@्@@त@@ु	47
-जन	ब@@ै@@ं@@जन@@ी	46
-जन	भ@@ो@@जन@@व@@स@@्@@त@@ु	33
-जन	जन@@्@@म@@ा	29
-जन	जन@@्@@त@@ु@@ओ@@ं	26
-जन	भ@@े@@जन@@े@@व@@ा@@ल@@े	21
-जन	जन@@न@@े	17
-जन	स@@ृ@@जन@@ह@@ा@@र	15
-जन	व@@ि@@र@@ा@@जन@@े@@व@@ा@@ल@@े	13
-जन	जन@@्@@म@@भ@@ू@@म@@ि	13
-जन	भ@@े@@जन@@े	12
-जन	जन@@ी	12
-जन	ज@@ी@@व@@जन@@्@@त@@ु	12
-जन	जन@@त@@ा	10
-जन	ग@@र@@जन@@े	10
-जन	जन@@्@@म@@ा@@ए	9
-जन	जन@@्@@म@@े	8
-जन	ग@@र@@जन@@ा	8
-जन	य@@ा@@जन@@्@@य@@ा@@ह	6
-जन	जन@@े@@ग@@ी	6
-जन	जन@@न@@ी	6
-जन	भ@@ो@@जन@@व@@स@@्@@त@@ु@@ओ@@ं	5
-जन	भ@@ो@@जन@@व@@स@@्@@त@@ु@@ए@@ं	5
-जन	भ@@े@@जन@@ा	5
-जन	जन@@्@@म@@े@@ं	5
-जन	जन@@े	5
-जन	स@@ि@@र@@जन@@ह@@ा@@र	4
-जन	भ@@े@@जन@@े@@व@@ा@@ल@@ा	4
-जन	जन@@्@@म@@ी	4
-जन	जन@@ै	4
-जन	जन@@े@@ं	4
-जन	ज@@ी@@व@@जन@@्@@त@@ु@@ओ@@ं	4
-जन	ग@@र@@जन@@े@@व@@ा@@ल@@े	4
-जन	ख@@ो@@जन@@े@@व@@ा@@ल@@े	4
-जन	व@@ि@@र@@ा@@जन@@े	3
-जन	म@@जन@@ू	3
-जन	भ@@ो@@जन@@-	3
-जन	भ@@े@@जन@@े@@व@@ा@@ल@@ो@@ं	3
-जन	ब@@ै@@जन@@ी	3
-जन	प@@ू@@जन@@े	3
-जन	जन@@्@@मन@@े	3
-जन	जन@@्@@म@@ा@@य@@ा	3
-जन	जन@@्@@म@@ा@@न@@े	3
-जन	जन@@्@@म@@ा@@ए@@ं	3
-जन	जन@@्@@म@@त@@े	3
-जन	ख@@ो@@जन@@े	3
-जन	उ@@त@@्@@त@@े@@जन@@ा	3
-जन	र@@ा@@जन@@गर	2
-जन	प@@ू@@जन@@े@@व@@ा@@ल@@े	2
-जन	जल@@जन@@्@@त@@ु	2
-जन	जन@@्@@म@@ा@@त@@ा	2
-जन	जन@@्@@म@@द@@ि@@न	2
-जन	जन@@ो	2
-जन	जन@@त@@ी	2
-जन	ख@@ो@@जन@@े@@व@@ा@@ल@@ो@@ं	2
-जन	स@@ृ@@जन@@े@@व@@ा@@ल@@ा	1
-जन	स@@ृ@@जन@@े	1
-जन	स@@ि@@र@@जन@@े@@व@@ा@@ल@@ा	1
-जन	स@@ज@@्@@जन@@ो@@ं	1
-जन	स@@ज@@्@@जन@@ो	1
-जन	व@@ि@@र@@ा@@जन@@े@@ह@@ा@@र@@ो@@ं	1
-जन	व@@ि@@र@@ा@@जन@@े@@व@@ा@@ल@@ो	1
-जन	व@@ि@@र@@ा@@जन@@े@@व@@ा@@ल@@े@@े	1
-जन	व@@ि@@र@@ा@@जन@@े@@व@@ा@@ल@@ा	1
-जन	र@@ा@@जन@@ी@@त@@ि	1
-जन	र@@ा@@जन@@ि@@व@@ा@@स	1
-जन	म@@जन@@ू@@व@@ृ@@क@@्@@ष	1
-जन	म@@जन@@ु@@ओ@@ं	1
-जन	म@@ं@@ा@@जन@@ा	1
-जन	भ@@ो@@जन@@व@@स@@त@@ु	1
-जन	भ@@े@@जन@@ी	1
-जन	भ@@जन@@ो@@ं	1
-जन	भ@@जन@@स@@ं@@ह@@ि@@त@@ा	1
-जन	ब@@ि@@र@@ा@@जन@@े@@व@@ा@@ल@@ा	1
-जन	ब@@जन@@े@@व@@ा@@ल@@ी	1
-जन	ब@@जन@@े	1
-जन	ब@@जन@@ि@@य@@ो@@ं	1
-जन	जल@@जन@@्@@त@@ु@@ओ@@ं	1
-जन	जन@@्@@म@@ा@@य@@े	1
-जन	जन@@्@@म@@ा@@न@@े@@व@@ा@@ल@@े	1
-जन	जन@@्@@म@@ा@@न@@े@@व@@ा@@ल@@ा	1
-जन	जन@@्@@म@@ा@@ओ	1
-जन	जन@@्@@म@@ा@@ऊ@@ं	1
-जन	जन@@्@@त@@ु@@ओ	1
-जन	जन@@ी@@ं	1
-जन	जन@@त@@ी@@ं	1
-जन	जन@@कर	1
-जन	ग@@र@@्@@जन@@ो@@ं	1
-जन	ग@@र@@्@@जन@@े@@व@@ा@@ल@@े	1
-जन	ग@@र@@जन@@े@@व@@ा@@ल@@ो@@ं	1
-जन	ख@@ो@@जन@@े@@व@@ा@@ल@@ा	1
-जन	ख@@ो@@जन@@ा	1
-जन	ओ@@जन@@ी	1
-जन	ओ@@जन@@ि@@य@@ो@@ं	1
-जन	उ@@प@@जन@@े	1
-जन	उ@@प@@जन@@ा	1
-जन	आ@@जन@@्@@य@@ा@@ह	1
-जन	अ@@जन@@ो@@त@@्@@त@@ा@@ब@@ो@@र	1
-जन	अ@@जन@@ब@@ी	1
-subword:जन	productivity:101	cum_freq:703	idiosyncrasy:6.96039603960396
-चल</w>	चल	113
-चल</w>	ह@@ल@@चल	13
-चल</w>	च@@ं@@चल	8
-चल</w>	आ@@ं@@चल	7
-चल</w>	क@@ु@@चल	6
-चल</w>	उ@@द@@य@@ा@@चल	6
-चल</w>	अ@@स@@्@@त@@ा@@चल	6
+subword:थर</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+तव</w>	म@@तव	1
+तव</w>	ख@@र@@प@@तव	1
+subword:तव</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+टकर</w>	फ@@टकर	1
+टकर</w>	टकर	1
+subword:टकर</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+जल	जल@@प	1
+जल	जल@@ज@@ल	1
+subword:जल	productivity:2	cum_freq:2	idiosyncrasy:1.0
+जन	जन@@ह	1
+जन	अ@@जन@@ब	1
+subword:जन	productivity:2	cum_freq:2	idiosyncrasy:1.0
+चल</w>	ह@@ल@@चल	1
 चल</w>	अ@@चल	1
-subword:चल</w>	productivity:8	cum_freq:160	idiosyncrasy:20.0
-चर</w>	ख@@च@@्@@चर	12
-चर</w>	चर	9
-चर</w>	ख@@्@@च@@्@@चर	3
-चर</w>	व@@ि@@चर	1
-चर</w>	प@@्@@र@@चर	1
-चर</w>	जल@@चर	1
-चर</w>	ई@@श@@्@@चर	1
-चर</w>	अन@@ु@@चर	1
-subword:चर</w>	productivity:8	cum_freq:29	idiosyncrasy:3.625
-चम	स@@चम@@ु@@च	95
-चम	अ@@चम@@्@@भ@@ा	35
-चम	चम@@त@@्@@क@@ा@@र	29
-चम	चम@@ड@@़@@े	24
-चम	चम@@क@@ा	12
-चम	चम@@ड@@़@@ा	11
-चम	अ@@चम@@्@@भ@@े	10
-चम	अ@@चम@@्@@भ@@ि@@त	10
-चम	चम@@क@@त@@ा	8
-चम	चम@@क@@त@@ी	6
-चम	चम@@क@@ी	5
-चम	चम@@क@@न@@े	5
-चम	प@@ं@@चम@@ा@@ं@@श	4
-चम	चम@@त@@्@@क@@ा@@र@@ो@@ं	4
-चम	चम@@क@@े@@ग@@ा	4
-चम	चम@@क@@े	4
-चम	चम@@क@@ी@@ल@@ी	4
-चम	चम@@क@@न@@े@@व@@ा@@ल@@े	4
-चम	चम@@क@@त@@े	4
-चम	चम@@क@@ा@@त@@ा	3
-चम	चम@@क@@ा@@ए	3
-चम	चम@@ग@@ी@@द@@ड@@़	2
-चम	चम@@क@@े@@ग@@ी	2
-चम	चम@@क@@े@@ं@@ग@@े	2
-चम	चम@@क@@ी@@ल@@ा	2
-चम	चम@@क@@द@@ा@@र	2
-चम	चम@@र@@ा@@स	1
-चम	चम@@ड@@़@@े@@ं	1
-चम	चम@@चम@@ा@@त@@े	1
-चम	चम@@च@@े	1
-चम	चम@@ग@@ी@@द@@ड@@़@@ो@@ं	1
-चम	चम@@क@@्@@त@@ा	1
-चम	चम@@क@@ी@@ल@@े	1
-चम	चम@@क@@ि@@ल@@ा	1
-चम	चम@@क@@-	1
-subword:चम	productivity:35	cum_freq:303	idiosyncrasy:8.657142857142857
-subword:गव</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-गर</w>	न@@गर	1062
-गर</w>	क@@ा@@र@@ी@@गर	20
-गर</w>	अ@@ज@@गर	19
-गर</w>	स@@ा@@गर	16
-गर</w>	म@@ह@@ा@@स@@ा@@गर	15
-गर</w>	ल@@ं@@गर	6
-गर</w>	अ@@गर	6
-गर</w>	श@@र@@ण@@न@@गर	5
-गर</w>	त@@गर	5
-गर</w>	म@@गर	3
-गर</w>	श@@म@@गर	2
-गर</w>	र@@ा@@जन@@गर	2
-गर</w>	ड@@गर	2
-गर</w>	ज@@ा@@द@@ू@@गर	2
-गर</w>	स@@ौ@@द@@ा@@गर	1
-गर</w>	श@@ो@@क@@स@@ा@@गर	1
-गर</w>	ल@@ो@@गर	1
-गर</w>	ल@@गर	1
-गर</w>	म@@ह@@ा@@न@@गर	1
-गर</w>	ब@@ा@@ज@@ी@@गर	1
-गर</w>	न@@ी@@गर	1
-गर</w>	न@@ा@@श@@न@@गर	1
-गर</w>	द@@य@@ा@@स@@ा@@गर	1
-subword:गर</w>	productivity:23	cum_freq:1174	idiosyncrasy:51.04347826086956
-कह	कह@@ा	3984
-कह	कह@@त@@ा	979
-कह	कह@@न@@े	468
-कह	कह@@कर	267
-कह	कह@@त@@े	259
-कह	कह@@ी@@ं	231
-कह	कह@@ा@@ं	201
-कह	कह@@े	148
-कह	कह@@न@@ा	143
-कह	कह@@ल@@ा@@त@@ा	104
-कह	कह@@ो	100
-कह	कह@@ी	95
-कह	कह@@ल@@ा	92
-कह	कह@@े@@ं	66
-कह	कह@@े@@ं@@ग@@े	62
-कह	कह@@े@@ग@@ा	61
-कह	कह@@त@@ी	51
-कह	कह@@ू@@ं	45
-कह	कह@@ू@@ं@@ग@@ा	34
-कह	कह@@ा@@त@@ि@@य@@ो@@ं	21
-कह	कह@@ल@@ा@@ए@@ग@@ा	21
-कह	कह@@ा@@त	20
-कह	कह@@ा@@व@@त	15
-कह	कह@@क@@े	15
-कह	कह@@ल@@ा@@त@@ी	13
-कह	कह@@े@@ग@@ी	12
-कह	कह@@ल@@ा@@ए@@ग@@ी	10
-कह	कह@@ो@@ग@@े	9
-कह	कह@@े@@ं@@ग@@ी	9
-कह	कह@@न@@े@@व@@ा@@ल@@ो@@ं	9
-कह	कह@@ल@@ा@@य@@ा	8
-कह	कह@@ल@@ा@@त@@े	8
-कह	कह@@न@@ी	8
-कह	कह@@ल@@ा@@ए	7
-कह	कह@@र@@त@@े	7
-कह	कह@@न@@े@@व@@ा@@ल@@े	7
-कह	कह@@ा@@न@@ि@@य@@ो@@ं	5
-कह	कह@@ल@@ा@@ए@@ं@@ग@@े	5
-कह	कह@@ा@@त@@ी	4
-कह	कह@@ल@@ा@@न@@े	4
-कह	कह@@ल@@ा@@ए@@ं	4
-कह	कह@@ल@@ा@@न@@ा	3
-कह	कह@@न@@े@@व@@ा@@ल@@ा	3
-कह	प@@कह@@य@@ा@@ह	2
-कह	कह@@े@@ल@@ा@@त@@ा	2
-कह	कह@@ू@@ं@@ग@@ी	2
-कह	कह@@ू@@ँ	2
-कह	कह@@व@@ा@@य@@ा	2
-कह	कह@@ल@@ा@@ऊ@@ं	2
-कह	कह@@ल@@व@@ा@@य@@ा	2
-कह	स@@े@@कह@@ा	1
-कह	म@@कह@@य@@ा@@ह	1
-कह	कह@@ो@@ग@@ी	1
-कह	कह@@ॉ	1
-कह	कह@@े@@ं@@े	1
-कह	कह@@ू@@ं@@ग@@ो	1
-कह	कह@@ा@@न@@ी	1
-कह	कह@@ा@@त@@व@@ा@@ल@@े	1
-कह	कह@@ा@@ँ	1
-कह	कह@@ह@@ा	1
-कह	कह@@ल@@ा@@व@@ा@@य@@ा	1
-कह	कह@@ल@@ा@@कर	1
-कह	कह@@ल@@ा@@ओ@@ग@@े	1
-कह	कह@@ल@@ा@@ई	1
-कह	कह@@ल@@व@@ा	1
-कह	कह@@र@@त@@ी	1
-कह	कह@@र@@त@@ा	1
-कह	कह@@न@@े@@व@@ा@@ल@@ी	1
-कह	कह@@न@@े@@ं	1
-कह	कह@@न@@ल@@ग@@ा	1
-कह	कह@@न	1
-कह	कह@@त@@ी@@ं	1
-कह	कह@@त@@ि@@य@@ो@@ं	1
-कह	कह@@त@@ा@@ह	1
-कह	कह@@त	1
-subword:कह	productivity:75	cum_freq:7656	idiosyncrasy:102.08
-कस</w>	च@@ौ@@कस	40
-कस</w>	कस	5
-कस</w>	म@@ा@@कस	1
-कस</w>	क@@र@@्@@कस	1
-subword:कस</w>	productivity:4	cum_freq:47	idiosyncrasy:11.75
-subword:कन</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:कड</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-कट	इ@@कट@@्@@ठ@@े	208
-कट	इ@@कट@@्@@ठ@@ा	148
-कट	इ@@कट@@्@@ठ@@ी	62
-कट	कट@@ो@@र@@ा	58
-कट	कट@@ो@@र@@े	49
-कट	कट@@न@@ी	33
-कट	कट@@ि	17
-कट	कट@@ी@@ल@@े	15
-कट	कट@@ो@@र@@ो@@ं	12
-कट	कट@@व@@ा@@य@@ा	7
-कट	कट@@व@@ा@@कर	7
-कट	ट@@कट@@क@@ी	6
-कट	ल@@ु@@कट@@ी	3
-कट	न@@र@@कट@@ो@@ं	3
-कट	कट@@ो@@र@@ि@@य@@ो@@ं	3
-कट	कट@@ी	3
-कट	कट@@ि@@ब@@न@@्@@ध	3
-कट	कट@@ि@@ब@@न@@्@@द	3
-कट	कट@@व@@ा@@ई	3
-कट	ऊ@@ं@@ट@@कट@@ा@@र@@ो@@ं	3
-कट	ऊ@@ं@@ट@@कट@@ा@@र@@े	3
-कट	इ@@कट@@्@@ट@@े	3
-कट	इ@@कट@@्@@ट@@ा	3
-कट	स@@ं@@कट@@ो@@ं	2
-कट	भ@@ट@@कट@@ै@@य@@ो@@ं	2
-कट	कट@@ो@@र@@ी	2
-कट	कट@@े	2
-कट	कट@@ी@@ल@@ी	2
-कट	कट@@ा@@र@@ो@@ं	2
-कट	स@@ं@@कट@@ो	1
-कट	स@@ं@@कट@@-	1
-कट	ल@@ु@@कट@@ि@@य@@ो@@ं	1
-कट	ट@@ि@@कट@@ि@@क	1
-कट	कट@@ो@@र@@ि@@य@@ा@@ं	1
-कट	कट@@ु@@व@@च@@न	1
-कट	कट@@ि@@य@@ो@@ं	1
-कट	कट@@ि@@य@@ा@@ओ@@ं	1
-कट	कट@@ा@@र@@ब@@न@@्@@द	1
-कट	कट@@ा@@र	1
-कट	कट@@ा@@न@@ा	1
-कट	कट@@ा@@क@@्@@ष	1
-कट	कट@@ा@@ए@@ं	1
-कट	कट@@ा@@ए	1
-कट	कट@@ा	1
-कट	कट@@व@@ा@@न@@ा	1
-कट	कट@@व@@ा@@ए@@ग@@ा	1
-कट	कट@@व@@ा	1
-कट	कट@@न@@े	1
-कट	इ@@कट@@्@@ट@@ी	1
-कट	अ@@कट@@्@@ठ@@े	1
-subword:कट	productivity:50	cum_freq:688	idiosyncrasy:13.76
-आव	आव@@श@@्@@य@@क	14
-आव	आव@@श@@्@@य@@क@@त@@ा	13
-आव	आव@@े@@न	3
-आव	आव@@े	2
-आव	आव@@ा@@ज	2
-आव	आव@@श@@्@@य@@क@@्@@त@@ा	2
-आव	आव@@े@@ग@@ा	1
-आव	आव@@श@@्@@य@@क@@त@@ा@@ओ@@ं	1
-आव	आव@@श@@्@@य@@क@@त@@ा@@ए@@ं	1
-subword:आव	productivity:9	cum_freq:39	idiosyncrasy:4.333333333333333
-subword:yasa</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:yaja	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:yu	productivity:0	cum_freq:0	idiosyncrasy:0
+subword:चल</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+चर</w>	त@@चर	1
+चर</w>	क@@चर	1
+subword:चर</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+चम	चम@@च@@म	1
+चम	चम@@कन	1
+subword:चम	productivity:2	cum_freq:2	idiosyncrasy:1.0
+गव</w>	ल@@गव	1
+गव</w>	गव	1
+subword:गव</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+गर</w>	स@@र@@गर	1
+गर</w>	गर	1
+subword:गर</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+कह	कह@@लव	1
+कह	कह@@र	1
+subword:कह	productivity:2	cum_freq:2	idiosyncrasy:1.0
+कस</w>	कस	1
+कस</w>	उ@@कस	1
+subword:कस</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+कन</w>	चम@@कन	1
+कन</w>	च@@कन	1
+subword:कन</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+कड</w>	प@@कड	1
+कड</w>	कड	1
+subword:कड</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+कट	कट@@व	1
+कट	कट@@प	1
+subword:कट	productivity:2	cum_freq:2	idiosyncrasy:1.0
+आव	आव@@रण	1
+आव	आव@@भ@@गत	1
+subword:आव	productivity:2	cum_freq:2	idiosyncrasy:1.0
+yasa</w>	pi@@yasa	1
+yasa</w>	p@@yasa	1
+subword:yasa</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+yaja	maha@@yaja@@k@@on	1
+yaja	maha@@yaja@@k	1
+subword:yaja	productivity:2	cum_freq:2	idiosyncrasy:1.0
+yu	yu@@g@@an@@u@@yu@@g	1
+subword:yu	productivity:1	cum_freq:1	idiosyncrasy:1.0
 subword:yo	productivity:0	cum_freq:0	idiosyncrasy:0
 subword:yog	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:yogy</w>	productivity:0	cum_freq:0	idiosyncrasy:0
-subword:vitrata</w>	productivity:0	cum_freq:0	idiosyncrasy:0
+yogy</w>	yogy	1
+yogy</w>	vishva@@sa@@yogy	1
+subword:yogy</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0
+vitrata</w>	pa@@vitrata	1
+vitrata</w>	pa@@a@@vitrata	1
+subword:vitrata</w>	productivity:2	cum_freq:2	idiosyncrasy:1.0

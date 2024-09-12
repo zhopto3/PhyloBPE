@@ -10,9 +10,15 @@ for file in $(ls $indir)
 do
     echo "now processing $file"
     #Train a bpe tokenizer to carry out 200 merges
-    subword-nmt learn-bpe -s 200 < $indir/$file > $modeldir/${file}.unisent.model
-    #apply the bpe tokenizer to the clean corpus
-    subword-nmt apply-bpe -c $modeldir/${file}.unisent.model < ./data/bibles_clean/$file > $outdir/unisent_tokenized_$file
+    #subword-nmt learn-bpe -s 200 < $indir/$file > $modeldir/${file}.unisent.model
+    #apply the bpe tokenizer to the clean unisent corpus
+    subword-nmt apply-bpe -c $modeldir/${file}.unisent.model < ./data/unisent_clean/$file > $outdir/unisent_tokenized_$file
+
+    #Get subword probabilities for calculating entropy and redundancy of a corpus
+    python3 ./scripts/freq.py $outdir/unisent_tokenized_$file
+    #Calculate the Redundancy and Entropy of the tokenized corpora
+    echo -e 'types\ttokens\tttr\tentropy\tredundancy' > ./data/text_stats/unisent_hr_${file}.tsv
+    python3 ./scripts/measures_fromlist.py $outdir/unisent_tokenized_$file.freqs.tsv >> ./data/text_stats/unisent_hr_${file}.tsv
 
     #Get rid of white space between the tokens
     sed -i -e 's/@@ /@@/g' $outdir/unisent_tokenized_$file
@@ -33,13 +39,9 @@ do
     #delete text version
     rm ./data/text_stats/unisent_summary_${file}
 
-    #Get subword probabilities for calculating entropy and redundancy of a corpus
-    python3 ./scripts/freq.py $outdir/unisent_tokenized_$file
-    #Calculate the Redundancy and Entropy of the tokenized corpora
-    echo -e 'types\ttokens\tttr\tentropy\tredundancy' > ./data/text_stats/unisent_hr_${file}.tsv
-    python3 ./scripts/measures_fromlist.py $outdir/unisent_tokenized_$file.freqs.tsv >> ./data/text_stats/unisent_hr_${file}.tsv
     #Write a script that avgs p,i,and cf, then puts it in a script w the entropy and redundancy. One line per lang.
-    python3 ./scripts/avg_stats.py $file  >> ./data/text_stats/lang_vecs_unisent.tsv
+    #Pass unisent argument to indicate which stat files to use
+    python3 ./scripts/avg_stats.py $file unisent >> ./data/text_stats/lang_vecs_unisent.tsv
 done
 
 #standardize each element of the language vectors to facilitate cross-lingual comparison

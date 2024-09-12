@@ -99,15 +99,15 @@ tree_a3 <-read.nexus(file="../data/tree_a3/mcc.trees")
 
 ```{r}
 #Calculate Blomberg's K for each of our continuous variables
-K.prod_a3 <- phylosig(tree,productivity,
+K.prod_a3 <- phylosig(tree_a3,productivity,
                    test=TRUE)
-K.id_a3 <- phylosig(tree,idiosyncrasy,
+K.id_a3 <- phylosig(tree_a3,idiosyncrasy,
                    test=TRUE)
-K.cf_a3 <- phylosig(tree,cumulative_freq,
+K.cf_a3 <- phylosig(tree_a3,cumulative_freq,
                    test=TRUE)
-K.h_a3 <- phylosig(tree,entropy,
+K.h_a3 <- phylosig(tree_a3,entropy,
                    test=TRUE)
-K.r_a3 <- phylosig(tree,redundancy,
+K.r_a3 <- phylosig(tree_a3,redundancy,
                    test=TRUE)
 ```
 
@@ -138,4 +138,72 @@ print(K.r_a3)
 plot(K.r_a3)
 ```
 
+## Further Robustness Study: 
+Is the entropy/redundancy/cf really capturing an aspect of morphology? What happens if we train our models on corpora 
+with far less morphology—unisent word lists.
 
+```{r}
+#Load the character data
+file="../data/text_stats/lang_vecs_unisent_standardized.tsv"
+chars2 <- read.delim(file)
+
+#change a few language names so they correspond to the languages in reference tree
+chars2[2,"lang"] <- "Tosk"
+chars2[3,"lang"] <- "Eastern_Armenian"
+chars2[9,"lang"] <- "Persian"
+chars2[12,"lang"] <- "Modern_Greek"
+chars2[28,"lang"] <- "Slovenian"
+chars2[31,"lang"] <- "Ukrainian"
+```
+
+
+```{r}
+#Isolate the relevant statistics
+unisent_prod <- setNames(chars2$standardized_p,
+                         chars2$lang)
+unisent_cf <- setNames(chars2$standardized_cf,
+                         chars2$lang)
+unisent_id <- setNames(chars2$standardized_i,
+                         chars2$lang)
+unisent_h <- setNames(chars2$standardized_h,
+                         chars2$lang)
+unisent_r <- setNames(chars2$standardized_r,
+                         chars2$lang)
+```
+
+
+```{r}
+#Calculate Blomberg's K for each of our continuous variables
+K.uni_prod <- phylosig(tree,unisent_prod,
+                   test=TRUE)
+K.uni_id <- phylosig(tree,unisent_id,
+                   test=TRUE)
+K.uni_cf <- phylosig(tree,unisent_cf,
+                   test=TRUE)
+K.uni_h <- phylosig(tree,unisent_h,
+                   test=TRUE)
+K.uni_r <- phylosig(tree,unisent_r,
+                   test=TRUE)
+```
+
+```{r}
+print(K.uni_prod)
+```
+
+```{r}
+print(K.uni_id)
+```
+
+```{r}
+print(K.uni_cf)
+```
+
+
+```{r}
+print(K.uni_h)
+```
+
+
+```{r}
+print(K.uni_r)
+```

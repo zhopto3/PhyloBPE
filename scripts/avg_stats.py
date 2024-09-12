@@ -20,9 +20,13 @@ def get_ent(path):
     return (df.loc[0,'entropy'],df.loc[0,'redundancy'])
 
 
-def main(lang_file):
-    prod_path=f"./data/text_stats/summary_{lang_file}.tsv"
-    hr_path=f"./data/text_stats/hr_{lang_file}.tsv"
+def main(lang_file,unisent):
+    if unisent:
+        prod_path=f"./data/text_stats/unisent_summary_{lang_file}.tsv"
+        hr_path=f"./data/text_stats/unisent_hr_{lang_file}.tsv"
+    else:
+        prod_path=f"./data/text_stats/summary_{lang_file}.tsv"
+        hr_path=f"./data/text_stats/hr_{lang_file}.tsv"
 
     avg_p,avg_cf,avg_i=get_prod_avgs(prod_path)
 
@@ -32,4 +36,5 @@ def main(lang_file):
     print(*[lang,avg_p,avg_cf,avg_i,h,r],sep="\t")
 
 if __name__=="__main__":
-    main(sys.argv[1])
+    unisent = True if len(sys.argv)>2 else False
+    main(sys.argv[1],unisent)
