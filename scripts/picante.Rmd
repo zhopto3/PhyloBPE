@@ -1,0 +1,72 @@
+---
+title: "picante_bpe"
+author: "Zach Hopton"
+date: "2024-09-11"
+output: html_document
+---
+
+```{r}
+library(picante)
+```
+```{r}
+#visualize our tree
+tree <- read.nexus(file="../data/tree_a2/mcc.trees")
+```
+
+```{r}
+#Load the character data
+file="../data/text_stats/lang_vecs_standardized.tsv"
+char <- read.delim(file)
+
+#change a few language names so they correspond to the languages in reference tree
+char[2,"lang"] <- "Tosk"
+char[3,"lang"] <- "Eastern_Armenian"
+char[9,"lang"] <- "Persian"
+char[11,"lang"] <- "Scots_Gaelic"
+char[13,"lang"] <- "Modern_Greek"
+char[30,"lang"] <- "Slovenian"
+char[33,"lang"] <- "Ukrainian"
+```
+
+```{r}
+#Isolate the relevant statistics
+productivity <- setNames(char$standardized_p,
+                         char$lang)
+cumulative_freq <- setNames(char$standardized_cf,
+                         char$lang)
+idiosyncrasy <- setNames(char$standardized_i,
+                         char$lang)
+entropy <- setNames(char$standardized_h,
+                         char$lang)
+redundancy <- setNames(char$standardized_r,
+                         char$lang)
+```
+
+```{r}
+#Calculate Blomberg's K for each of our continuous variables
+phylosignal(productivity, tree)
+```
+
+```{r}
+#Calculate Blomberg's K for each of our continuous variables
+phylosignal(idiosyncrasy, tree)
+```
+
+```{r}
+#Calculate Blomberg's K for each of our continuous variables
+phylosignal(cumulative_freq, tree)
+```
+
+
+```{r}
+#Calculate Blomberg's K for each of our continuous variables
+phylosignal(entropy, tree)
+```
+
+```{r}
+#Calculate Blomberg's K for each of our continuous variables
+phylosignal(redundancy, tree)
+```
+
+
+
