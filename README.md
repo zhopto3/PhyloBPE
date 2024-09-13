@@ -12,6 +12,7 @@ The following is a brief review of the contents in this GitHub Repository:
         - lang_vecs_unisent_standardized.tsv (for the statistics calculated over the UniSent word lists)
     - tokenized_corpora: the parallel Bibles and Unisent word lists after applying BPE tokenization to them. Also includes frequency lists of space-separated words and subwords. 
     - unisent_clean: The UniSent wordlists used following preprocessing (original versions downloaded from https://github.com/ehsanasgari/UniSent/tree/master)
+
 -scripts
     - rmd_html: contains versions of the R-markdown files in HTML so the output can be seen along with the code. The corresponding .rmd files are in the ./scripts directory
         - figure.html: code to generate language sample map
@@ -20,7 +21,8 @@ The following is a brief review of the contents in this GitHub Repository:
     - All other scripts in this directory are bash and python scripts used to preprocess data, train and apply BPE models, and calculate the relevant distribution-based metrics. Some scripts for calculating the metrics over subword vocabularies are adapted from the publicly available GitHub repositories by Gutierrez-Vasques et al. 2021 and 2023 (https://github.com/ximenina/theturningpoint and https://github.com/ximenina/theturningpoint)
         - When a script is adapted from either of those repositories, it is noted within the script. 
 
-Sources:
+References:
+
 Ehsaneddin Asgari et al. “UniSent: Universal Adaptable Sentiment Lexica for 1000+
 Languages”. In: Proceedings of the International Conference on Language Resources and
 Evaluation (LREC-2020). European Language Resources Association (ELRA). 2020.
