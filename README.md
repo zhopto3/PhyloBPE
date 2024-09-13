@@ -13,7 +13,7 @@ The following is a brief review of the contents in this GitHub Repository:
     - tokenized_corpora: the parallel Bibles and Unisent word lists after applying BPE tokenization to them. Also includes frequency lists of space-separated words and subwords. 
     - unisent_clean: The UniSent wordlists used following preprocessing (original versions downloaded from https://github.com/ehsanasgari/UniSent/tree/master)
 
--scripts
+- scripts
     - rmd_html: contains versions of the R-markdown files in HTML so the output can be seen along with the code. The corresponding .rmd files are in the ./scripts directory
         - figure.html: code to generate language sample map
         - phylosig_bpe.html: Code for Blomberg's _K_ analysis with phytools (for both Bible analyses and the UniSent experiment)
