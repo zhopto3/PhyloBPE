@@ -18,7 +18,7 @@ The following is a brief review of the contents in this GitHub Repository:
         - figure.html: code to generate language sample map
         - phylosig_bpe.html: Code for Blomberg's _K_ analysis with phytools (for both Bible analyses and the UniSent experiment)
         - picante.html: Code for the Blomberg's _K_ analysis using picante
-    - All other scripts in this directory are bash and python scripts used to preprocess data, train and apply BPE models, and calculate the relevant distribution-based metrics. Some scripts for calculating the metrics over subword vocabularies are adapted from the publicly available GitHub repositories by Gutierrez-Vasques et al. 2021 and 2023 (https://github.com/ximenina/theturningpoint and https://github.com/ximenina/theturningpoint)
+    - All other scripts in this directory are bash and python scripts used to preprocess data, train and apply BPE models, and calculate the relevant distribution-based metrics. Some scripts for calculating the metrics over subword vocabularies are adapted from the publicly available GitHub repositories by Gutierrez-Vasques et al. 2021 and 2023 (https://github.com/ximenina/theturningpoint and [https://github.com/ximenina/theturningpoint](https://github.com/ximenina/BPEProductivity))
         - When a script is adapted from either of those repositories, it is noted within the script. 
 
 References:
